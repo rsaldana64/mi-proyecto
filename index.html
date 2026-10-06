@@ -1,0 +1,232 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Presentación personal: sobre mí, habilidades, proyectos y contacto.">
+  <title>Tu Nombre · Presentación</title>
+  <!-- Evita el parpadeo de tema: aplica el tema guardado antes de pintar -->
+  <script>
+    (function () {
+      try {
+        var t = localStorage.getItem('theme');
+        if (!t) t = window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light';
+        document.documentElement.setAttribute('data-theme', t);
+      } catch (e) {
+        document.documentElement.setAttribute('data-theme', 'light');
+      }
+    })();
+  </script>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <a class="skip-link" href="#main">Saltar al contenido</a>
+
+  <header class="header" id="header">
+    <nav class="nav container" aria-label="Navegación principal">
+      <a href="#inicio" class="logo">TN<span>.</span></a>
+
+      <ul class="nav-links" id="nav-links">
+        <li><a href="#sobre-mi">Sobre mí</a></li>
+        <li><a href="#habilidades">Habilidades</a></li>
+        <li><a href="#proyectos">Proyectos</a></li>
+        <li><a href="#contacto">Contacto</a></li>
+      </ul>
+
+      <div class="nav-actions">
+        <button class="theme-toggle" id="theme-toggle" type="button" aria-label="Cambiar a modo oscuro">
+          <svg class="icon-sun" viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="5"/><path d="M12 1v2M12 21v2M4.22 4.22l1.42 1.42M18.36 18.36l1.42 1.42M1 12h2M21 12h2M4.22 19.78l1.42-1.42M18.36 5.64l1.42-1.42"/></svg>
+          <svg class="icon-moon" viewBox="0 0 24 24" aria-hidden="true"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/></svg>
+        </button>
+        <button class="menu-toggle" id="menu-toggle" type="button" aria-label="Abrir menú" aria-expanded="false" aria-controls="nav-links">
+          <span></span><span></span><span></span>
+        </button>
+      </div>
+    </nav>
+  </header>
+
+  <main id="main">
+    <!-- INICIO -->
+    <section class="hero container" id="inicio">
+      <div class="hero-text">
+        <p class="eyebrow">👋 ¡Hola! Soy</p>
+        <h1>Tu Nombre</h1>
+        <h2 class="hero-role">
+          <span class="typed" id="typed" aria-live="polite"></span><span class="cursor" aria-hidden="true">|</span>
+        </h2>
+        <p class="hero-desc">
+          Me apasiona crear experiencias digitales limpias, rápidas y accesibles.
+          Aquí puedes conocer un poco sobre mí, lo que sé hacer y en qué he trabajado.
+        </p>
+        <div class="hero-cta">
+          <a href="#proyectos" class="btn btn-primary">Ver proyectos</a>
+          <a href="#contacto" class="btn btn-ghost">Contáctame</a>
+        </div>
+        <ul class="socials" aria-label="Redes sociales">
+          <li><a href="https://github.com/" target="_blank" rel="noopener" aria-label="GitHub">
+            <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M9 19c-5 1.5-5-2.5-7-3m14 6v-3.87a3.37 3.37 0 0 0-.94-2.61c3.14-.35 6.44-1.54 6.44-7A5.44 5.44 0 0 0 20 4.77 5.07 5.07 0 0 0 19.91 1S18.73.65 16 2.48a13.38 13.38 0 0 0-7 0C6.27.65 5.09 1 5.09 1A5.07 5.07 0 0 0 5 4.77a5.44 5.44 0 0 0-1.5 3.78c0 5.42 3.3 6.61 6.44 7A3.37 3.37 0 0 0 9 18.13V22"/></svg>
+          </a></li>
+          <li><a href="https://linkedin.com/" target="_blank" rel="noopener" aria-label="LinkedIn">
+            <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M16 8a6 6 0 0 1 6 6v7h-4v-7a2 2 0 0 0-4 0v7h-4v-7a6 6 0 0 1 6-6zM2 9h4v12H2z"/><circle cx="4" cy="4" r="2"/></svg>
+          </a></li>
+          <li><a href="mailto:tu-correo@ejemplo.com" aria-label="Correo electrónico">
+            <svg viewBox="0 0 24 24" aria-hidden="true"><rect x="2" y="4" width="20" height="16" rx="2"/><path d="m22 7-10 6L2 7"/></svg>
+          </a></li>
+        </ul>
+      </div>
+
+      <div class="hero-visual" aria-hidden="true">
+        <div class="avatar-ring">
+          <div class="avatar">TN</div>
+        </div>
+        <div class="blob blob-1"></div>
+        <div class="blob blob-2"></div>
+      </div>
+    </section>
+
+    <!-- SOBRE MÍ -->
+    <section class="section container reveal" id="sobre-mi">
+      <h2 class="section-title">Sobre <span>mí</span></h2>
+      <div class="about-grid">
+        <div class="about-text">
+          <p>
+            Soy una persona curiosa que disfruta resolviendo problemas y aprendiendo cosas nuevas cada día.
+            Edita este párrafo para contar tu historia: de dónde vienes, qué te motiva y hacia dónde vas.
+          </p>
+          <p>
+            Cuando no estoy frente a la computadora, me gusta leer, salir a caminar y compartir con amigos.
+          </p>
+        </div>
+        <div class="stats">
+          <div class="stat"><span class="stat-num" data-count="3">0</span><span class="stat-label">Años de experiencia</span></div>
+          <div class="stat"><span class="stat-num" data-count="15">0</span><span class="stat-label">Proyectos</span></div>
+          <div class="stat"><span class="stat-num" data-count="8">0</span><span class="stat-label">Tecnologías</span></div>
+        </div>
+      </div>
+    </section>
+
+    <!-- HABILIDADES -->
+    <section class="section container reveal" id="habilidades">
+      <h2 class="section-title">Mis <span>habilidades</span></h2>
+      <div class="skills">
+        <div class="skill" data-level="90"><div class="skill-head"><span>HTML</span><span>90%</span></div><div class="bar"><div class="fill"></div></div></div>
+        <div class="skill" data-level="85"><div class="skill-head"><span>CSS</span><span>85%</span></div><div class="bar"><div class="fill"></div></div></div>
+        <div class="skill" data-level="75"><div class="skill-head"><span>JavaScript</span><span>75%</span></div><div class="bar"><div class="fill"></div></div></div>
+        <div class="skill" data-level="65"><div class="skill-head"><span>Git y GitHub</span><span>65%</span></div><div class="bar"><div class="fill"></div></div></div>
+        <div class="skill" data-level="80"><div class="skill-head"><span>Diseño UI</span><span>80%</span></div><div class="bar"><div class="fill"></div></div></div>
+        <div class="skill" data-level="70"><div class="skill-head"><span>Trabajo en equipo</span><span>70%</span></div><div class="bar"><div class="fill"></div></div></div>
+      </div>
+    </section>
+
+    <!-- PROYECTOS -->
+    <section class="section container reveal" id="proyectos">
+      <h2 class="section-title">Mis <span>proyectos</span></h2>
+
+      <div class="filters" role="group" aria-label="Filtrar proyectos">
+        <button class="filter active" type="button" data-filter="todos" aria-pressed="true">Todos</button>
+        <button class="filter" type="button" data-filter="web" aria-pressed="false">Web</button>
+        <button class="filter" type="button" data-filter="diseno" aria-pressed="false">Diseño</button>
+        <button class="filter" type="button" data-filter="app" aria-pressed="false">Apps</button>
+      </div>
+
+      <div class="projects">
+        <article class="card" data-category="web">
+          <div class="card-cover cover-1">🌐</div>
+          <div class="card-body">
+            <h3>Sitio web responsivo</h3>
+            <p>Una página adaptable a cualquier pantalla, con animaciones suaves.</p>
+            <ul class="tags"><li>HTML</li><li>CSS</li></ul>
+            <a href="#" class="card-link">Ver proyecto →</a>
+          </div>
+        </article>
+        <article class="card" data-category="app">
+          <div class="card-cover cover-2">✅</div>
+          <div class="card-body">
+            <h3>Lista de tareas</h3>
+            <p>App para organizar pendientes que guarda tus datos en el navegador.</p>
+            <ul class="tags"><li>JavaScript</li><li>LocalStorage</li></ul>
+            <a href="#" class="card-link">Ver proyecto →</a>
+          </div>
+        </article>
+        <article class="card" data-category="diseno">
+          <div class="card-cover cover-3">🎨</div>
+          <div class="card-body">
+            <h3>Identidad visual</h3>
+            <p>Logotipo, paleta de colores y guía de estilo para una marca local.</p>
+            <ul class="tags"><li>Figma</li><li>Branding</li></ul>
+            <a href="#" class="card-link">Ver proyecto →</a>
+          </div>
+        </article>
+        <article class="card" data-category="web">
+          <div class="card-cover cover-4">📊</div>
+          <div class="card-body">
+            <h3>Panel de datos</h3>
+            <p>Dashboard interactivo que muestra estadísticas con gráficos.</p>
+            <ul class="tags"><li>JavaScript</li><li>API</li></ul>
+            <a href="#" class="card-link">Ver proyecto →</a>
+          </div>
+        </article>
+        <article class="card" data-category="app">
+          <div class="card-cover cover-5">🌦️</div>
+          <div class="card-body">
+            <h3>App del clima</h3>
+            <p>Consulta el pronóstico de cualquier ciudad en tiempo real.</p>
+            <ul class="tags"><li>JavaScript</li><li>Fetch</li></ul>
+            <a href="#" class="card-link">Ver proyecto →</a>
+          </div>
+        </article>
+        <article class="card" data-category="diseno">
+          <div class="card-cover cover-6">📱</div>
+          <div class="card-body">
+            <h3>Prototipo móvil</h3>
+            <p>Diseño de interfaz para una app de recetas, del boceto al prototipo.</p>
+            <ul class="tags"><li>UI/UX</li><li>Prototipado</li></ul>
+            <a href="#" class="card-link">Ver proyecto →</a>
+          </div>
+        </article>
+      </div>
+    </section>
+
+    <!-- CONTACTO -->
+    <section class="section container reveal" id="contacto">
+      <h2 class="section-title">¿Hablamos<span>?</span></h2>
+      <p class="section-sub">¿Tienes una idea, propuesta o simplemente quieres saludar? Escríbeme.</p>
+
+      <form class="contact-form" id="contact-form" novalidate>
+        <div class="field">
+          <label for="name">Nombre</label>
+          <input id="name" name="name" type="text" autocomplete="name" required>
+          <small class="error" aria-live="polite"></small>
+        </div>
+        <div class="field">
+          <label for="email">Correo</label>
+          <input id="email" name="email" type="email" autocomplete="email" required>
+          <small class="error" aria-live="polite"></small>
+        </div>
+        <div class="field field-full">
+          <label for="message">Mensaje</label>
+          <textarea id="message" name="message" rows="5" required></textarea>
+          <small class="error" aria-live="polite"></small>
+        </div>
+        <button type="submit" class="btn btn-primary field-full">Enviar mensaje</button>
+        <p class="form-status field-full" id="form-status" role="status"></p>
+      </form>
+    </section>
+  </main>
+
+  <footer class="footer">
+    <div class="container">
+      <p>© <span id="year"></span> Tu Nombre · Hecho con HTML, CSS y JavaScript</p>
+    </div>
+  </footer>
+
+  <button class="to-top" id="to-top" type="button" aria-label="Volver arriba">↑</button>
+
+  <div class="toast" id="toast" role="status" aria-live="polite"></div>
+
+  <script src="script.js"></script>
+</body>
+</html>
