@@ -20,8 +20,8 @@ b) Guía de Remisión EG01-6, del 20 de julio de 2022 (bienes recibidos por la M
 c) Factura Electrónica E001-17, del 14 de octubre de 2022, por **S/ 5,223.39**.
 d) Expediente SIAF N.° 3619-2022 de la Municipalidad Provincial de Huaura.
 e) Expediente N.° 00655163 del Sistema de Gestión Documentaria de la Municipalidad (Memorándum N.° 000836-MPH/GM, del 22/09/2023, y Proveído N.° 003811-MPH/OGAF, del 02/10/2023).
-f) **Oficio N.° 003413-2026-PERÚ COMPRAS-DCEME, del 21 de julio de 2026**, dirigido al Órgano de Control Institucional de la Municipalidad, **con copia a su despacho**.
-g) Nuestras cartas del 13 de marzo de 2025 (Carta N.° 13032025), 28 de abril de 2025 (Carta N.° 28042025), 02 de julio de 2026 (Carta N.° 355-2026) y 03 de agosto de 2026 (Carta N.° 356-2026), **todas sin respuesta**.
+f) Oficios de PERÚ COMPRAS: N.° 12475-2023-PERÚ COMPRAS-DAM; N.° 001886-2024-PERÚ COMPRAS-DAM (14/02/2024); N.° 004143-2024-PERÚ COMPRAS-DAM (26/03/2024); N.° 006119-2024-PERÚ COMPRAS-DAM (28/05/2024); y **N.° 003413-2026-PERÚ COMPRAS-DCEME (21/07/2026)**, este último **con copia a su despacho**.
+g) Nuestras cartas N.° 255-2023, N.° 120-2024, N.° 350-2024 (24/05/2024), N.° 20092024-1 (20/09/2024), y las del 13 de marzo de 2025 (Carta N.° 13032025), 28 de abril de 2025 (Carta N.° 28042025), 02 de julio de 2026 (Carta N.° 355-2026) y 03 de agosto de 2026 (Carta N.° 356-2026), **todas sin respuesta**.
 
 ---
 
@@ -57,40 +57,51 @@ Nos dirigimos directamente a su despacho porque **la Oficina General de Administ
 
 **2.3.** Además, la propia Municipalidad **reconoció internamente la existencia de esta deuda**. En setiembre de 2023, la Gerencia Municipal pidió un **“informe sobre estado de pago a proveedores”** (Memorándum N.° 000836-MPH/GM, del 22/09/2023), y la Oficina General de Administración y Finanzas lo derivó para informe (Proveído N.° 003811-MPH/OGAF, del 02/10/2023, Expediente N.° 00655163). Cuando acudimos a la Municipalidad, se nos dijo que el expediente había pasado a la Oficina de Logística y que **se había extraviado**. **El extravío de un expediente interno no extingue la obligación de pagar.**
 
-## 3. TRES AÑOS RECLAMANDO SIN RESPUESTA
+## 3. TRES AÑOS DE RECLAMOS Y CINCO REQUERIMIENTOS DE PERÚ COMPRAS IGNORADOS
 
-Hemos hecho todo lo que estaba a nuestro alcance:
+**3.1. Nuestros reclamos.** Hemos hecho todo lo que estaba a nuestro alcance:
 
 - **29/09/2023 y octubre de 2023:** visitas presenciales a la Oficina General de Administración y Finanzas.
-- **24/05/2024:** cartas a PERÚ COMPRAS y a la Defensoría del Pueblo, solicitando su intervención.
-- **13/03/2025 y 14/03/2025:** cartas a la Oficina General de Administración y Finanzas, con copia a su despacho, a la Oficina de Logística y al Órgano de Control Institucional, y nueva carta a PERÚ COMPRAS.
-- **28/04/2025:** nueva carta a la Oficina General de Administración y Finanzas.
-- **02/07/2026:** Carta N.° 355-2026 a la Oficina General de Administración y Finanzas, solicitando el reconocimiento del crédito devengado y su pago, y nueva comunicación a PERÚ COMPRAS.
-- **21/07/2026:** **PERÚ COMPRAS**, mediante el **Oficio N.° 003413-2026-PERÚ COMPRAS-DCEME**, verificó en la Plataforma de Catálogos Electrónicos que la orden de compra registra el estado **“ENTREGADA C/CONFORMIDAD RETRASADA”**, **corroboró el incumplimiento de la Municipalidad** y trasladó los hechos al **Órgano de Control Institucional**, con **copia a su despacho**.
-- **03/08/2026:** Carta N.° 356-2026, remitiendo a la Oficina General de Administración y Finanzas el oficio de PERÚ COMPRAS.
+- **2023 y 2024:** Cartas N.° 255-2023, N.° 120-2024, N.° 350-2024 (24/05/2024) y N.° 20092024-1 (20/09/2024) a PERÚ COMPRAS, y carta a la **Defensoría del Pueblo** (24/05/2024).
+- **13/03/2025 y 28/04/2025:** cartas a la Oficina General de Administración y Finanzas, con copia a su despacho, a la Oficina de Logística y al Órgano de Control Institucional.
+- **02/07/2026 y 03/08/2026:** Cartas N.° 355-2026 y N.° 356-2026 a la Oficina General de Administración y Finanzas.
 
-**Ninguna de estas comunicaciones ha sido respondida por la Municipalidad. Y, pese a la intervención de PERÚ COMPRAS, la deuda sigue impaga.**
+**Ninguna de estas comunicaciones ha sido respondida por la Municipalidad.**
+
+**3.2. PERÚ COMPRAS ha requerido a la Municipalidad en CINCO oportunidades.** El ente rector de los Catálogos Electrónicos ha verificado una y otra vez que la orden de compra está **“ENTREGADA C/CONFORMIDAD RETRASADA”**, y ha actuado así:
+
+| Oficio de PERÚ COMPRAS | Fecha | Dirigido a | Contenido |
+|---|---|---|---|
+| N.° 12475-2023-PERÚ COMPRAS-DAM | 2023 | Jefa de la Oficina General de Administración y Finanzas | Requiere informar en **7 días hábiles** los motivos del incumplimiento del pago. **Sin respuesta.** |
+| N.° 001886-2024-PERÚ COMPRAS-DAM | 14/02/2024 | **Órgano de Control Institucional** | Informa el incumplimiento y pide acciones de control. |
+| N.° 004143-2024-PERÚ COMPRAS-DAM | 26/03/2024 | **Contraloría General de la República** | Informa el incumplimiento y recuerda la obligación de pagar en 10 días y de reconocer **intereses legales**. |
+| N.° 006119-2024-PERÚ COMPRAS-DAM | 28/05/2024 | Jefe de la Oficina General de Administración y Finanzas | **Requerimiento reiterativo**: informar o pagar en **7 días hábiles**. |
+| N.° 003413-2026-PERÚ COMPRAS-DCEME | 21/07/2026 | Órgano de Control Institucional, **con copia al Alcalde** | **Corrobora el incumplimiento** y lo califica como posible **falta grave** de los funcionarios. |
+
+**Han pasado más de dos (2) años desde el primer requerimiento de PERÚ COMPRAS, y la Municipalidad sigue sin pagar.** No estamos ante un descuido: estamos ante una **negativa sostenida e injustificada a pagar**, conocida por la Gerencia, la Oficina General de Administración y Finanzas, el Órgano de Control Institucional, la Contraloría y su propio despacho.
 
 ## 4. FUNDAMENTOS LEGALES
 
-**4.1. PERÚ COMPRAS ya determinó que la Municipalidad incumple.** El ente rector de los Catálogos Electrónicos verificó en su plataforma que la orden de compra está **“ENTREGADA C/CONFORMIDAD RETRASADA”** y concluyó expresamente: *“corroborándose el incumplimiento de la Entidad”*. También precisó que *“no emitir la conformidad y/o no efectuar el pago constituyen un incumplimiento a la normativa de contrataciones”* (Oficio N.° 003413-2026-PERÚ COMPRAS-DCEME, Anexo 8). **No se trata de una opinión de nuestra empresa: es la constatación oficial de la autoridad competente.**
+**4.1. PERÚ COMPRAS ya determinó que la Municipalidad incumple.** El ente rector de los Catálogos Electrónicos verificó, en cada uno de sus cinco oficios, que la orden de compra está en estado de conformidad retrasada. En su último oficio verificó en su plataforma que la orden de compra está **“ENTREGADA C/CONFORMIDAD RETRASADA”** y concluyó expresamente: *“corroborándose el incumplimiento de la Entidad”*. También precisó que *“no emitir la conformidad y/o no efectuar el pago constituyen un incumplimiento a la normativa de contrataciones”* (Oficio N.° 003413-2026-PERÚ COMPRAS-DCEME, Anexo 8). **No se trata de una opinión de nuestra empresa: es la constatación oficial de la autoridad competente.**
 
 **4.2. La Municipalidad está obligada a pagar, y en plazos cortos.** Con el perfeccionamiento de la orden de compra, la Municipalidad quedó obligada a otorgar la conformidad y a pagar:
 
-- Según la normativa vigente al emitirse la orden (**TUO de la Ley N.° 30225, Ley de Contrataciones del Estado, y su Reglamento, aprobado por D.S. N.° 344-2018-EF, artículo 171**), la Entidad debe pagar **dentro de los diez (10) días calendario** siguientes a la conformidad.
+- Según la normativa vigente al emitirse la orden, el **numeral 171.1 del artículo 171 del Reglamento de la Ley de Contrataciones del Estado, aprobado por D.S. N.° 344-2018-EF**, establece —como lo recordó PERÚ COMPRAS a la Contraloría en su Oficio N.° 004143-2024-PERÚ COMPRAS-DAM— que la Entidad debe pagar **“dentro de los diez (10) días calendarios siguientes a la conformidad (...), bajo responsabilidad del funcionario competente”**.
 - La **Ley N.° 32069, Ley General de Contrataciones Públicas**, hoy vigente y citada por PERÚ COMPRAS, mantiene esta obligación: la conformidad se emite en un plazo máximo de **siete (7) días** desde la recepción (**numeral 144.3 del artículo 144 de su Reglamento**) y el pago se realiza en un plazo máximo de **diez (10) días hábiles** luego de la conformidad, prorrogable solo por cinco (5) días hábiles **previa justificación** (**numeral 67.3 del artículo 67 de la Ley**).
 
 Bajo cualquiera de los dos regímenes, **el plazo venció hace casi tres (3) años**.
 
 **4.3. El retraso en el pago es una falta grave de los funcionarios.** El **numeral 67.4 del artículo 67 de la Ley N.° 32069** establece que **constituyen faltas graves de la autoridad de gestión administrativa**, o de quien haga sus veces, **“el incumplimiento, negación o demora, de manera injustificada, del pago al contratista”**. Y agrega: **“Se considera falta muy grave que el contratista acreedor inicie acciones legales en contra de la entidad por la infracción”**. Es decir, si nos vemos obligados a demandar a la Municipalidad, **la falta de los funcionarios responsables pasa a ser muy grave**.
 
-**4.4. La Municipalidad debe pagar intereses legales.** El **numeral 39.3 del artículo 39 del TUO de la Ley N.° 30225** y el **artículo 171 de su Reglamento** reconocen al contratista el derecho al pago de **intereses legales** en caso de retraso en el pago, computados desde la fecha en que el pago debió efectuarse. Tras más de tres años de demora, **reclamamos esos intereses**.
+**4.4. La Municipalidad debe pagar intereses legales.** El mismo **numeral 171.1 del artículo 171 del Reglamento** dispone: **“En caso de retraso de pago, el contratista tiene derecho al pago de intereses legales, los que se computan desde la oportunidad en que el pago debió efectuarse”**. Tras más de tres años de demora, **reclamamos esos intereses**.
 
-**4.5. La falta de presupuesto o el cambio de ejercicio no son excusa.** Si la deuda corresponde a un ejercicio anterior, el **Decreto Supremo N.° 017-84-PCM**, que regula el reconocimiento y abono de créditos internos y devengados a cargo del Estado, obliga a la Municipalidad a **reconocer el crédito y pagarlo** con cargo a su presupuesto vigente. **Lo que no puede hacer es no pagar.**
+**4.5. La Municipalidad tampoco ha actualizado la orden de compra.** Conforme al **numeral 4.6 de las Reglas Estándar del Método Especial de Contratación** de los Catálogos Electrónicos, citado por PERÚ COMPRAS en su Oficio N.° 006119-2024, la Entidad **está obligada a mantener actualizados los estados de la orden de compra** y de sus entregas. La orden sigue figurando como **“ENTREGADA C/CONFORMIDAD RETRASADA”** cuatro años después.
 
-**4.6. El giro no recibido y la rebaja no notificada deben ser explicados.** Un giro de S/ 3,482.27 registrado en el SIAF que **nunca llegó a nuestra empresa**, una rebaja de S/ 1,741.12 **no sustentada ni notificada** y un expediente interno **“extraviado”** son hechos que **comprometen la responsabilidad administrativa, civil y eventualmente penal** de los funcionarios a cargo, y que corresponde investigar al **Órgano de Control Institucional** y a la **Contraloría General de la República**.
+**4.6. La falta de presupuesto o el cambio de ejercicio no son excusa.** Si la deuda corresponde a un ejercicio anterior, el **Decreto Supremo N.° 017-84-PCM**, que regula el reconocimiento y abono de créditos internos y devengados a cargo del Estado, obliga a la Municipalidad a **reconocer el crédito y pagarlo** con cargo a su presupuesto vigente. **Lo que no puede hacer es no pagar.**
 
-**4.7. Derecho de petición.** El silencio de la Municipalidad ante nuestras cartas vulnera nuestro **derecho de petición**, reconocido en el **artículo 2, inciso 20 de la Constitución Política del Perú** y en el **TUO de la Ley N.° 27444, Ley del Procedimiento Administrativo General**.
+**4.7. El giro no recibido y la rebaja no notificada deben ser explicados.** Un giro de S/ 3,482.27 registrado en el SIAF que **nunca llegó a nuestra empresa**, una rebaja de S/ 1,741.12 **no sustentada ni notificada** y un expediente interno **“extraviado”** son hechos que **comprometen la responsabilidad administrativa, civil y eventualmente penal** de los funcionarios a cargo, y que corresponde investigar al **Órgano de Control Institucional** y a la **Contraloría General de la República**.
+
+**4.8. Derecho de petición.** El silencio de la Municipalidad ante nuestras cartas vulnera nuestro **derecho de petición**, reconocido en el **artículo 2, inciso 20 de la Constitución Política del Perú** y en el **TUO de la Ley N.° 27444, Ley del Procedimiento Administrativo General**.
 
 ## 5. LO QUE EXIGIMOS
 
@@ -107,7 +118,7 @@ Por lo expuesto, **EXIGIMOS** que, en un plazo **no mayor de diez (10) días há
 Este es nuestro **último requerimiento por la vía administrativa**. De no recibir el pago o una respuesta documentada dentro del plazo indicado, **procederemos sin más aviso a**:
 
 - Iniciar las **acciones legales** para el **cobro de la deuda (S/ 5,223.39), los intereses legales y la indemnización por daños y perjuicios**, por la vía que corresponda. Les recordamos que, conforme al **numeral 67.4 del artículo 67 de la Ley N.° 32069**, el inicio de acciones legales por el contratista **convierte la falta de los funcionarios responsables en falta muy grave**.
-- Presentar **denuncia ante la Contraloría General de la República** y solicitar al **Órgano de Control Institucional** —que ya conoce el caso por el Oficio de PERÚ COMPRAS— la **determinación de responsabilidades**, en particular por el **giro de S/ 3,482.27 no recibido** y la **rebaja de S/ 1,741.12 no sustentada**.
+- Presentar **denuncia ante la Contraloría General de la República** —que ya conoce el caso desde marzo de 2024 por el Oficio N.° 004143-2024-PERÚ COMPRAS-DAM— y solicitar al **Órgano de Control Institucional** la **determinación de responsabilidades**, en particular por el **giro de S/ 3,482.27 no recibido** y la **rebaja de S/ 1,741.12 no sustentada**.
 - Informar a **PERÚ COMPRAS** de la persistencia del incumplimiento, para las acciones que correspondan conforme al **literal e) del numeral 9.6 de la Directiva N.° 005-2025-PERÚ COMPRAS**, y acudir nuevamente a la **Defensoría del Pueblo**.
 
 Somos una pequeña empresa peruana que **cumplió con entregar lo que la Municipalidad pidió**. Lo único que exigimos es que la Municipalidad **cumpla con pagar lo que debe**.
@@ -146,6 +157,7 @@ Correo: abs.comercial2@gmail.com · Celular: 986045123
 - **Anexo 6:** Trámite del Expediente N.° 00655163 (Memorándum N.° 000836-MPH/GM y Proveído N.° 003811-MPH/OGAF).
 - **Anexo 7:** Cartas N.° 355-2026, del 02 de julio de 2026, y N.° 356-2026, del 03 de agosto de 2026.
 - **Anexo 8:** Oficio N.° 003413-2026-PERÚ COMPRAS-DCEME, del 21 de julio de 2026.
+- **Anexo 9:** Oficios N.° 001886-2024, N.° 004143-2024 y N.° 006119-2024-PERÚ COMPRAS-DAM.
 
 ```{=openxml}
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
@@ -242,3 +254,43 @@ Correo: abs.comercial2@gmail.com · Celular: 986045123
 ![](anexos_huacho/ag3.png){width=13cm}
 
 **Anexo 8 (cont.) – PERÚ COMPRAS constata el estado “ENTREGADA C/CONFORMIDAD RETRASADA”, corrobora el incumplimiento de la Municipalidad y lo traslada al OCI, con copia al Alcalde.**
+
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
+
+![](anexos_huacho/of1886-1.png){width=13cm}
+
+**Anexo 9 – Oficio N.° 001886-2024-PERÚ COMPRAS-DAM, del 14/02/2024, al Órgano de Control Institucional de la Municipalidad.**
+
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
+
+![](anexos_huacho/of4143-1.png){width=13cm}
+
+**Anexo 9 (cont.) – Oficio N.° 004143-2024-PERÚ COMPRAS-DAM, del 26/03/2024, a la Contraloría General de la República.**
+
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
+
+![](anexos_huacho/of4143-2.png){width=13cm}
+
+**Anexo 9 (cont.) – Oficio N.° 004143-2024: numeral 171.1 del Reglamento, pago en 10 días bajo responsabilidad del funcionario e intereses legales por retraso.**
+
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
+
+![](anexos_huacho/of6119-1.png){width=13cm}
+
+**Anexo 9 (cont.) – Oficio N.° 006119-2024-PERÚ COMPRAS-DAM, del 28/05/2024: requerimiento reiterativo a la Oficina General de Administración y Finanzas.**
+
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
+
+![](anexos_huacho/of6119-2.png){width=13cm}
+
+**Anexo 9 (cont.) – Oficio N.° 006119-2024: obligación de actualizar los estados de la orden de compra (numeral 4.6 de las Reglas Estándar).**
