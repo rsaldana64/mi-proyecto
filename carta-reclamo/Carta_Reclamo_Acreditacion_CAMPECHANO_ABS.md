@@ -34,7 +34,7 @@ De nuestra consideración:
 | Observación | Cómo la subsanamos |
 |---|---|
 | 1. Falta de registro de propiedad industrial en Clase Niza 29 (Frijol y Lenteja) | **Suprimimos** las categorías Frijol y Lenteja, como lo permitía la propia observación. |
-| 2. y 3. Facultades del firmante de la Carta de Acreditación (Anexo 4) | Acreditamos que el firmante, Sr. **Manuel Antonio Miñan Huerto**, es **Gerente General de STYWI S.A.C.**, cuyos **únicos socios (50 % cada uno) y directores** son los **titulares registrados de la marca**, el Sr. William Nadim Majluf Tuma y la Sra. Stephanie Farah Ode (Ficha RUC adjunta). Adjuntamos además el **Certificado de Vigencia de SUNARP** (partida electrónica N.° 13409955, Oficina Registral de Lima), en el que constan sus facultades **a sola firma** para representar **ante INDECOPI** y, en particular, **“en todos los asuntos relacionados con los derechos de propiedad intelectual”**, incluidos los **registros y renovaciones de marcas** (facultad 17). |
+| 2. y 3. Facultades del firmante de la Carta de Acreditación (Anexo 4) | Acreditamos que el firmante, Sr. **Manuel Antonio Miñan Huerto**, es **Gerente General de STYWI S.A.C.**, cuyos **únicos socios (50 % cada uno) y directores** son los **titulares registrados de la marca**, el Sr. William Nadim Majluf Tuma y la Sra. Stephanie Farah Ode (Ficha RUC adjunta). Adjuntamos además el **Certificado de Vigencia de SUNARP** (partida electrónica N.° 13409955, Oficina Registral de Lima – ver Anexo 5), en el que constan sus facultades **a sola firma** para representar **ante INDECOPI** y, en particular, **“en todos los asuntos relacionados con los derechos de propiedad intelectual”**, incluidos los **registros y renovaciones de marcas** (facultad 17). |
 | 4. Catálogos y categorías (Anexo 1) | Corregimos el Anexo 1, indicando cada Catálogo Electrónico y su categoría: **Azúcar y Endulzantes – Azúcar** y **Cereales, Arroz y Derivados – Arroz Pilado**. |
 | 5. Cuestionario de Debida Diligencia (Anexo 3) | Precisamos el domicilio legal completo, la dirección exacta de la oficina y el tipo de documento de identidad. |
 
@@ -93,6 +93,7 @@ Correo: abs.comercial2@gmail.com · Teléfono: [___________]
 - **Anexo 2:** Correo de PERÚ COMPRAS del 13 de julio de 2026 (observaciones).
 - **Anexo 3:** Carta N.° 19062026 de subsanación, remitida el 20 de julio de 2026.
 - **Anexo 4:** Correos de seguimiento del 31 de agosto y del 10 de septiembre de 2026.
+- **Anexo 5:** Certificado de Vigencia de SUNARP de STYWI S.A.C. (partida electrónica N.° 13409955, Lima), que acredita las facultades del Sr. Manuel Antonio Miñan Huerto, incluida su representación ante INDECOPI.
 
 ```{=openxml}
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
@@ -133,3 +134,27 @@ Correo: abs.comercial2@gmail.com · Teléfono: [___________]
 ![](anexos_abs/a5_correo_10set-1.png){width=13cm}
 
 **Anexo 4 – Correos de seguimiento del 31 de agosto de 2026 y del 10 de septiembre de 2026, sin respuesta.**
+
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
+
+![](anexos_abs/a6_vigencia_stywi_p1-1.png){width=13cm}
+
+**Anexo 5 – Certificado de Vigencia de SUNARP de STYWI S.A.C. (partida N.° 13409955): nombramiento de Manuel Antonio Miñan Huerto como Gerente General, a sola firma, con facultad de representación ante INDECOPI (facultad 7).**
+
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
+
+![](anexos_abs/a6_vigencia_stywi_p2-2.png){width=13cm}
+
+**Anexo 5 (cont.) – Facultad 17: representación “en todos los asuntos relacionados con los derechos de propiedad intelectual”, incluidos registros y renovaciones de marcas.**
+
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
+
+![](anexos_abs/a6_vigencia_stywi_p3-3.png){width=13cm}
+
+**Anexo 5 (cont.) – Ampliación de facultades del Gerente General (asiento C00002).**
