@@ -140,10 +140,10 @@ Correo: abs.comercial2@gmail.com · Celular: 986045123
 
 **C.c.:**
 - Sra. Elizabeth Roxana Espinoza Collantes – Jefa de la Oficina General de Administración y Finanzas.
-- Gerencia Municipal.
-- Sr. Julio Víctor Carbajal Romero – Jefe de la Oficina de Contabilidad.
-- Oficina de Tesorería.
-- Oficina de Logística.
+- Sra. Milagros Mena Campos – Gerencia Municipal.
+- Sra. Wendy Lisbeth Huado Pichilingue – Jefa de la Oficina de Contabilidad.
+- Sra. Elizabeth Roxana Espinoza Collantes – Oficina de Tesorería.
+- Sr. Ronald David Claros Meza – Jefe de la Oficina de Abastecimiento.
 - Sra. Rosa Yesenia Aguilar Zelada – Jefa del Órgano de Control Institucional.
 
 ---
