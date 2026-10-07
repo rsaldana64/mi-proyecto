@@ -2,9 +2,9 @@ Lima, 07 de octubre de 2026
 
 **CARTA N.° 07102026-5-ABS BIENES & SERVICIOS E.I.R.L.**
 
-Señora
-**AIDA MÓNICA LA ROSA SÁNCHEZ BAYES DE LÓPEZ**
-Directora de la Dirección de Compras Electrónicas y Modalidades Eficientes – DCEME
+Señor
+**NEAL MARTÍN MAURA GONZALES**
+Director de la Dirección de Compras Electrónicas y Modalidades Eficientes – DCEME
 Central de Compras Públicas – **PERÚ COMPRAS**
 Av. República de Panamá N.° 3629, San Isidro, Lima
 Presente.–
