@@ -38,7 +38,7 @@ De nuestra consideración:
 
 **1.5.** **PERÚ COMPRAS ha requerido a la Municipalidad en cinco oportunidades** y ha verificado que la orden está **“ENTREGADA C/CONFORMIDAD RETRASADA”**: Oficio N.° 12475-2023-PERÚ COMPRAS-DAM (a la OGAF); Oficio N.° 001886-2024 (14/02/2024, al OCI); Oficio N.° 004143-2024 (26/03/2024, a la Contraloría General de la República); Oficio N.° 006119-2024 (28/05/2024, a la OGAF); y **Oficio N.° 003413-2026-PERÚ COMPRAS-DCEME** (21/07/2026, al OCI con copia al Alcalde), en el que concluye: *“corroborándose el incumplimiento de la Entidad”*.
 
-**1.6.** Hemos enviado **más de diez comunicaciones** a la Municipalidad, a PERÚ COMPRAS y a la Defensoría del Pueblo desde 2023. **La Municipalidad no ha respondido ninguna.** Con fecha [__] de octubre de 2026 le hemos cursado un **último requerimiento de pago** (Anexo 1).
+**1.6.** Hemos enviado **más de diez comunicaciones** a la Municipalidad, a PERÚ COMPRAS y a la Defensoría del Pueblo desde 2023. **La Municipalidad no ha respondido ninguna.** Con fecha [__] de octubre de 2026 le hemos cursado al Alcalde un **último requerimiento de pago** (Carta N.° [___]-2026-ABS BIENES & SERVICIOS E.I.R.L.), **con copia a su despacho**, por lo que no la adjuntamos nuevamente.
 
 ## 2. POR QUÉ CORRESPONDE LA INTERVENCIÓN DEL OCI
 
@@ -83,5 +83,31 @@ Correo: abs.comercial2@gmail.com · Celular: 986045123
 
 **ANEXOS:**
 
-- **Anexo 1:** Carta N.° [___]-2026-ABS BIENES & SERVICIOS E.I.R.L. dirigida al Alcalde de la Municipalidad Provincial de Huaura – Huacho, con todos sus anexos (orden de compra, guía de remisión con sello de recepción, factura, consulta SIAF, expediente interno, cartas anteriores y oficios de PERÚ COMPRAS).
-- **Anexo 2:** Oficios N.° 001886-2024-PERÚ COMPRAS-DAM y N.° 003413-2026-PERÚ COMPRAS-DCEME.
+- **Anexo 1:** Consulta del Expediente SIAF N.° 3619-2022 (giro de S/ 3,482.27 y rebaja de S/ 1,741.12).
+- **Anexo 2:** Oficio N.° 003413-2026-PERÚ COMPRAS-DCEME, del 21 de julio de 2026.
+
+*Los demás antecedentes (orden de compra, guía de remisión, factura y oficios de PERÚ COMPRAS de 2024) obran en la carta dirigida al Alcalde, remitida en copia a su despacho.*
+
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
+
+![](../anexos_huacho/p8.png){width=15cm}
+
+**Anexo 1 – Consulta del Expediente SIAF N.° 3619-2022: giro de S/ 3,482.27 del 26/01/2023 y rebaja de S/ 1,741.12.**
+
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
+
+![](../anexos_huacho/ag2.png){width=13cm}
+
+**Anexo 2 – Oficio N.° 003413-2026-PERÚ COMPRAS-DCEME, del 21/07/2026 (pág. 1).**
+
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
+
+![](../anexos_huacho/ag3.png){width=13cm}
+
+**Anexo 2 (cont.) – PERÚ COMPRAS corrobora el incumplimiento de la Municipalidad y lo traslada al OCI.**
