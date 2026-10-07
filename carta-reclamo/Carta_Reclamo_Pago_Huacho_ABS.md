@@ -112,6 +112,7 @@ Por lo expuesto, **EXIGIMOS** que, en un plazo **no mayor de diez (10) días há
 3. Se **pague el íntegro de la deuda, S/ 5,223.39**, mediante abono en nuestra cuenta, cuyo CCI consta en nuestra Carta de Autorización (Anexo 4), **más los intereses legales** desde la fecha en que el pago debió efectuarse.
 4. Si la Municipalidad considera que debe seguirse el procedimiento de **reconocimiento de crédito devengado** (D.S. N.° 017-84-PCM), se **inicie de inmediato** y se nos informe el número de expediente y su estado.
 5. Se nos informe el **estado del Expediente N.° 00655163** y el nombre del **funcionario responsable** de su atención.
+6. **SOLICITAMOS EXPRESAMENTE LA RECONSTRUCCIÓN DEL EXPEDIENTE ADMINISTRATIVO** de pago de la Orden de Compra N.° 000146 / OCAM-2022-301371-25-0, que se nos informó **extraviado**, conforme al TUO de la Ley N.° 27444, Ley del Procedimiento Administrativo General. Para ese fin **adjuntamos copia de todos los antecedentes en nuestro poder** (Anexos 1 a 9): orden de compra, guía de remisión con sello de recepción, factura, carta de autorización de abono (CCI), consulta SIAF, trámite interno y oficios de PERÚ COMPRAS.
 
 ## 6. RESERVA DE ACCIONES
 
