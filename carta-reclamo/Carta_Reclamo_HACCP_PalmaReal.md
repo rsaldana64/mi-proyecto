@@ -55,14 +55,16 @@ Este aceite puede estar llegando a **comedores, hospitales, centros educativos, 
 
 PERÚ COMPRAS, como administrador de los Catálogos Electrónicos, tiene el **deber de verificar** que las fichas publicadas cumplan con estos requisitos y de **actuar** cuando no los cumplen. Mantener la ficha publicada después de haber sido advertida formalmente del incumplimiento **no es compatible con ese deber**.
 
-**2.3. El silencio de su Dirección no tiene justificación.** Nuestra carta fue presentada formalmente por mesa de partes. La falta de respuesta durante más de seis meses vulnera nuestro **derecho de petición**, reconocido en el **artículo 2, inciso 20 de la Constitución Política del Perú** y en el **TUO de la Ley N.° 27444, Ley del Procedimiento Administrativo General**, cuyo plazo para responder **se encuentra ampliamente vencido**.
+**2.3. Aun si el HACCP hubiera sido renovado, la ficha debe actualizarse.** Si el productor obtuvo una nueva Resolución Directoral de DIGESA, el incumplimiento persiste mientras la ficha publicada siga mostrando un documento vencido. La ficha técnica es el documento que revisan las entidades y los proveedores para comprar, y **debe reflejar la documentación vigente**. Su Dirección conoce bien este procedimiento: **PERÚ COMPRAS requiere a los representantes de marca actualizar sus documentos de habilitación cuando vencen**. Nuestra propia empresa recibió en su oportunidad un requerimiento de su Dirección para **actualizar el certificado de Registro Sanitario** de una de nuestras fichas [*fecha y N.° del documento o correo*], y cumplimos. Lo que corresponde es que se aplique **el mismo procedimiento** a esta ficha.
+
+**2.4. El silencio de su Dirección no tiene justificación.** Nuestra carta fue presentada formalmente por mesa de partes. La falta de respuesta durante más de seis meses vulnera nuestro **derecho de petición**, reconocido en el **artículo 2, inciso 20 de la Constitución Política del Perú** y en el **TUO de la Ley N.° 27444, Ley del Procedimiento Administrativo General**, cuyo plazo para responder **se encuentra ampliamente vencido**.
 
 ## 3. LO QUE SOLICITAMOS
 
 Por lo expuesto, **SOLICITAMOS**:
 
 1. Que su Dirección **verifique de inmediato** la vigencia del Plan HACCP de la ficha-producto de aceite vegetal de soya marca **PALMA REAL**.
-2. Que, si el representante de marca **cuenta con una nueva Resolución Directoral vigente**, se le **exija actualizar la ficha** sin demora, conforme a la normativa de Catálogos Electrónicos.
+2. Que, si el representante de marca **cuenta con una nueva Resolución Directoral vigente**, se le **notifique formalmente para que actualice la ficha** en un plazo perentorio, siguiendo el mismo procedimiento que su Dirección aplica cuando vence un documento de habilitación, como el Registro Sanitario.
 3. Que, si **no cuenta con un HACCP vigente**, se **apliquen las medidas que correspondan** según la normativa de Catálogos Electrónicos, **incluida la suspensión de la ficha-producto**, hasta que acredite contar con un Plan HACCP vigente.
 4. Que se nos **responda por escrito**, en un plazo **no mayor de cinco (5) días hábiles**, indicando:
    a) Qué acciones se tomaron a partir de nuestra carta del 23 de marzo de 2026.
