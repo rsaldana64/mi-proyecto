@@ -158,7 +158,7 @@ Correo: abs.comercial2@gmail.com · Celular: 986045123
 - **Anexo 6:** Trámite del Expediente N.° 00655163 (Memorándum N.° 000836-MPH/GM y Proveído N.° 003811-MPH/OGAF).
 - **Anexo 7:** Oficio N.° 003413-2026-PERÚ COMPRAS-DCEME, del 21 de julio de 2026.
 
-*Nota: Conforme a la Directiva N.° 01-2021-MPH, la presente se remite por mesa de partes virtual con un máximo de veinte (20) folios. Las Cartas N.° 355-2026 y N.° 356-2026 y los Oficios N.° 12475-2023, N.° 001886-2024, N.° 004143-2024 y N.° 006119-2024-PERÚ COMPRAS-DAM, citados en la presente, ya fueron presentados o notificados a la Municipalidad y obran en su acervo documentario.*
+*Nota: Por disposición de la Directiva N.° 01-2021-MPH, se adjuntan solo los anexos principales (máximo 20 folios). Los demás documentos citados ya obran en poder de la Municipalidad: nuestras Cartas N.° 355-2026 y N.° 356-2026, y los Oficios N.° 12475-2023 y N.° 006119-2024-PERÚ COMPRAS-DAM, dirigidos a la Oficina General de Administración y Finanzas. Los presentaremos nuevamente si su despacho lo requiere.*
 
 ```{=openxml}
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
