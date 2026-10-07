@@ -126,11 +126,8 @@ Somos una pequeña empresa peruana que **cumplió con entregar lo que la Municip
 
 Atentamente,
 
-&nbsp;
+![](firma_abs.png){width=6cm}
 
-&nbsp;
-
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 **ABBY GABRIELA BUENO SALDAÑA**
 DNI N.° 48054321
 Titular Gerente

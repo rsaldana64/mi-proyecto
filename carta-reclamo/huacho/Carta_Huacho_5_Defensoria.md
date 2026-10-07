@@ -74,11 +74,8 @@ Por ello, **remitimos la documentación** y solicitamos la intervención de la D
 
 Atentamente,
 
-&nbsp;
+![](../firma_abs.png){width=6cm}
 
-&nbsp;
-
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 **ABBY GABRIELA BUENO SALDAÑA**
 DNI N.° 48054321
 Titular Gerente
