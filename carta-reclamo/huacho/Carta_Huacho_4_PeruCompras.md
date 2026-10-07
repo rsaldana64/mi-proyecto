@@ -1,6 +1,6 @@
 Lima, 07 de octubre de 2026
 
-**CARTA N.° 361-2026-ABS BIENES & SERVICIOS E.I.R.L.**
+**CARTA N.° 07102026-5-ABS BIENES & SERVICIOS E.I.R.L.**
 
 Señora
 **AIDA MÓNICA LA ROSA SÁNCHEZ BAYES DE LÓPEZ**
@@ -71,4 +71,4 @@ Correo: abs.comercial2@gmail.com · Celular: 986045123
 
 **ANEXOS:**
 
-- **Anexo 1:** Carta N.° 357-2026-ABS BIENES & SERVICIOS E.I.R.L. dirigida al Alcalde de la Municipalidad Provincial de Huaura – Huacho, del 07/10/2026, con sus anexos (orden de compra, guía de remisión con sello de recepción, factura, carta de autorización de abono, consulta SIAF, expediente interno y oficio de PERÚ COMPRAS).
+- **Anexo 1:** Carta N.° 07102026-1-ABS BIENES & SERVICIOS E.I.R.L. dirigida al Alcalde de la Municipalidad Provincial de Huaura – Huacho, del 07/10/2026, con sus anexos (orden de compra, guía de remisión con sello de recepción, factura, carta de autorización de abono, consulta SIAF, expediente interno y oficio de PERÚ COMPRAS).
