@@ -34,7 +34,7 @@ De nuestra consideración:
 | Observación | Cómo la subsanamos |
 |---|---|
 | 1. Falta de registro de propiedad industrial en Clase Niza 29 (Frijol y Lenteja) | **Suprimimos** las categorías Frijol y Lenteja, como lo permitía la propia observación. |
-| 2. y 3. Facultades del firmante de la Carta de Acreditación (Anexo 4) | Acreditamos que el firmante es el **Gerente General de STYWI S.A.C.**, empresa de propiedad de los **titulares registrados de la marca**, el Sr. William Nadim Majluf Tuma y la Sra. Stephanie Farah Ode. Adjuntamos la **Ficha RUC** y la **Vigencia de Poder**, en la que constan sus facultades de representación ante INDECOPI. |
+| 2. y 3. Facultades del firmante de la Carta de Acreditación (Anexo 4) | Acreditamos que el firmante, Sr. **Manuel Antonio Miñan Huerto**, es **Gerente General de STYWI S.A.C.**, cuyos **únicos socios (50 % cada uno) y directores** son los **titulares registrados de la marca**, el Sr. William Nadim Majluf Tuma y la Sra. Stephanie Farah Ode (Ficha RUC adjunta). Adjuntamos además el **Certificado de Vigencia de SUNARP** (partida electrónica N.° 13409955, Oficina Registral de Lima), en el que constan sus facultades **a sola firma** para representar **ante INDECOPI** y, en particular, **“en todos los asuntos relacionados con los derechos de propiedad intelectual”**, incluidos los **registros y renovaciones de marcas** (facultad 17). |
 | 4. Catálogos y categorías (Anexo 1) | Corregimos el Anexo 1, indicando cada Catálogo Electrónico y su categoría: **Azúcar y Endulzantes – Azúcar** y **Cereales, Arroz y Derivados – Arroz Pilado**. |
 | 5. Cuestionario de Debida Diligencia (Anexo 3) | Precisamos el domicilio legal completo, la dirección exacta de la oficina y el tipo de documento de identidad. |
 
