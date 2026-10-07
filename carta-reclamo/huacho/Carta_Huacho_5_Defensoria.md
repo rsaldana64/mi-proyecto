@@ -1,6 +1,6 @@
-Lima, [DÍA] de octubre de 2026
+Lima, 07 de octubre de 2026
 
-**CARTA N.° [___]-2026-ABS BIENES & SERVICIOS E.I.R.L.**
+**CARTA N.° 359-2026-ABS BIENES & SERVICIOS E.I.R.L.**
 
 Señores
 **DEFENSORÍA DEL PUEBLO**
@@ -37,7 +37,7 @@ De nuestra consideración:
 
 **1.5.** **PERÚ COMPRAS ha requerido a la Municipalidad en cinco oportunidades** y ha verificado que la orden está **“ENTREGADA C/CONFORMIDAD RETRASADA”**: Oficio N.° 12475-2023-PERÚ COMPRAS-DAM (a la OGAF); Oficio N.° 001886-2024 (14/02/2024, al OCI); Oficio N.° 004143-2024 (26/03/2024, a la Contraloría General de la República); Oficio N.° 006119-2024 (28/05/2024, a la OGAF); y **Oficio N.° 003413-2026-PERÚ COMPRAS-DCEME** (21/07/2026, al OCI con copia al Alcalde), en el que concluye: *“corroborándose el incumplimiento de la Entidad”*.
 
-**1.6.** Hemos enviado **más de diez comunicaciones** a la Municipalidad, a PERÚ COMPRAS y a la Defensoría del Pueblo desde 2023. **La Municipalidad no ha respondido ninguna.** Con fecha [__] de octubre de 2026 le hemos cursado un **último requerimiento de pago** (Anexo 1).
+**1.6.** Hemos enviado **más de diez comunicaciones** a la Municipalidad, a PERÚ COMPRAS y a la Defensoría del Pueblo desde 2023. **La Municipalidad no ha respondido ninguna.** Con fecha 07 de octubre de 2026 le hemos cursado un **último requerimiento de pago** (Anexo 1).
 
 ## 2. HEMOS CUMPLIDO LO QUE LA DEFENSORÍA NOS ORIENTÓ
 
@@ -45,8 +45,8 @@ En los Expedientes N.° 3000-2024-014374 y N.° 3000-2024-014947, la Dirección 
 
 | Orientación de la Defensoría | Lo que hicimos |
 |---|---|
-| Presentar requerimientos de pago ante la Municipalidad | Cartas a la Oficina General de Administración y Finanzas del **13/03/2025** (N.° 13032025), **28/04/2025** (N.° 28042025), **02/07/2026** (N.° 355-2026) y **03/08/2026** (N.° 356-2026), con copia al Alcalde y al OCI, y último requerimiento al Alcalde del **[__]/10/2026** (Anexo 1). |
-| Solicitar la reconstrucción del expediente | Solicitada expresamente en nuestra carta al Alcalde del **[__]/10/2026**, adjuntando **todos los antecedentes** (Anexo 1). |
+| Presentar requerimientos de pago ante la Municipalidad | Cartas a la Oficina General de Administración y Finanzas del **13/03/2025** (N.° 13032025), **28/04/2025** (N.° 28042025), **02/07/2026** (N.° 355-2026) y **03/08/2026** (N.° 356-2026), con copia al Alcalde y al OCI, y último requerimiento al Alcalde del **07/10/2026** (Anexo 1). |
+| Solicitar la reconstrucción del expediente | Solicitada expresamente en nuestra carta al Alcalde del **07/10/2026**, adjuntando **todos los antecedentes** (Anexo 1). |
 | Esperar 30 días hábiles | Desde nuestro primer requerimiento del 13/03/2025 han pasado **más de dieciocho (18) meses**. **No hemos recibido ninguna respuesta.** |
 
 Por ello, **remitimos la documentación** y solicitamos la intervención de la Defensoría.
@@ -88,6 +88,6 @@ Correo: abs.comercial2@gmail.com · Celular: 986045123
 
 **ANEXOS:**
 
-- **Anexo 1:** Carta N.° [___]-2026-ABS BIENES & SERVICIOS E.I.R.L. dirigida al Alcalde de la Municipalidad Provincial de Huaura – Huacho, con todos sus anexos (orden de compra, guía de remisión con sello de recepción, factura, consulta SIAF, expediente interno, cartas anteriores y oficios de PERÚ COMPRAS).
-- **Anexo 2:** Carta N.° 340-2024 a la Defensoría del Pueblo, del 24/05/2024, y orientaciones recibidas en los Expedientes N.° 3000-2024-014374 y N.° 3000-2024-014947.
+- **Anexo 1:** Carta N.° 357-2026-ABS BIENES & SERVICIOS E.I.R.L. dirigida al Alcalde de la Municipalidad Provincial de Huaura – Huacho, del 07/10/2026, con sus anexos (orden de compra, guía de remisión con sello de recepción, factura, carta de autorización de abono, consulta SIAF, expediente interno y oficio de PERÚ COMPRAS).
+- **Anexo 2:** Carta N.° 340-2024 a la Defensoría del Pueblo, del 24/05/2024.
 - **Anexo 3:** Oficio N.° 003413-2026-PERÚ COMPRAS-DCEME, del 21/07/2026.

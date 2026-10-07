@@ -1,6 +1,6 @@
-Lima, [DÍA] de octubre de 2026
+Lima, 07 de octubre de 2026
 
-**CARTA N.° [___]-2026-ABS BIENES & SERVICIOS E.I.R.L.**
+**CARTA N.° 357-2026-ABS BIENES & SERVICIOS E.I.R.L.**
 
 Señor
 **SANTIAGO YURI CANO LA ROSA**
