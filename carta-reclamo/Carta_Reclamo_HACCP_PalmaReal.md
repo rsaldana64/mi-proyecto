@@ -23,7 +23,7 @@ De nuestra consideración:
 
 ## 1. LOS HECHOS
 
-**1.1.** En el Catálogo Electrónico se encuentra publicada la ficha-producto de **ACEITE VEGETAL DE SOYA, marca PALMA REAL**, categoría **ACEITE VEGETAL**, producida por **AGROINDUSTRIAS INTEGRADAS S.A.** (código de identificación único **100001000021**, según la ficha técnica publicada) [*confirmar Acuerdo Marco y catálogo vigentes: EXT-CE-2024-18 – Aceites y Grasas*].
+**1.1.** En el Catálogo Electrónico se encuentra publicada la ficha-producto de **ACEITE VEGETAL DE SOYA, marca PALMA REAL**, del Acuerdo Marco **EXT-CE-2024-18**, Catálogo Electrónico de **Cereales, Aceites, Azúcares y Menestras**, categoría **ACEITE VEGETAL**, producida por **AGROINDUSTRIAS INTEGRADAS S.A.** (código de identificación único **100001000021**, según la ficha técnica publicada).
 
 **1.2.** La propia ficha técnica exige, en su numeral **6.2 – Documentos de habilitación**, lo siguiente:
 
@@ -62,7 +62,7 @@ Este aceite puede estar llegando a **comedores, hospitales, centros educativos, 
 
 Su Dirección **tomó conocimiento formal** de este incumplimiento el **23 de marzo de 2026**, con nuestra carta ingresada por mesa de partes. Han pasado **más de seis meses** sin que, hasta donde sabemos, se haya iniciado este procedimiento. Además, el **numeral VI** de la misma Directiva señala que **son responsables de su cumplimiento los servidores civiles de la Dirección de Acuerdos Marco**, hoy su Dirección, y no solo los representantes de marca.
 
-**2.4. Aun si el HACCP hubiera sido renovado, la ficha debe actualizarse.** Si el productor obtuvo una nueva Resolución Directoral de DIGESA, el incumplimiento persiste mientras la ficha publicada siga mostrando un documento vencido. La ficha técnica es el documento que revisan las entidades y los proveedores para comprar, y **debe reflejar la documentación vigente**. Su Dirección conoce bien este procedimiento y tiene la facultad expresa para aplicarlo: el **numeral 7.10** de la Directiva N.° 004-2023-PERÚ COMPRAS le permite **solicitar al representante de marca la presentación de determinada información y/o documentación** durante la vigencia del catálogo. Nuestra propia empresa recibió en su oportunidad un requerimiento de su Dirección para **actualizar el certificado de Registro Sanitario** de una de nuestras fichas [*fecha y N.° del documento o correo*], y cumplimos. Lo que corresponde es que se aplique **el mismo procedimiento** a esta ficha.
+**2.4. Aun si el HACCP hubiera sido renovado, la ficha debe actualizarse.** Si el productor obtuvo una nueva Resolución Directoral de DIGESA, el incumplimiento persiste mientras la ficha publicada siga mostrando un documento vencido. La ficha técnica es el documento que revisan las entidades y los proveedores para comprar, y **debe reflejar la documentación vigente**. Su Dirección conoce bien este procedimiento y tiene la facultad expresa para aplicarlo: el **numeral 7.10** de la Directiva N.° 004-2023-PERÚ COMPRAS le permite **solicitar al representante de marca la presentación de determinada información y/o documentación** durante la vigencia del catálogo. Nuestra propia empresa recibió en su oportunidad un requerimiento de su Dirección para **actualizar el certificado de Registro Sanitario** de una de las marcas que representamos, y cumplimos. Lo que corresponde es que se aplique **el mismo procedimiento** a esta ficha.
 
 **2.5. El silencio de su Dirección no tiene justificación.** Nuestra carta fue presentada formalmente por mesa de partes. La falta de respuesta durante más de seis meses vulnera nuestro **derecho de petición**, reconocido en el **artículo 2, inciso 20 de la Constitución Política del Perú** y en el **TUO de la Ley N.° 27444, Ley del Procedimiento Administrativo General**, cuyo plazo para responder **se encuentra ampliamente vencido**.
 
@@ -105,7 +105,8 @@ Domicilio: [______________________]
 - **Anexo 1:** Ficha técnica publicada de ACEITE VEGETAL DE SOYA marca PALMA REAL (datos generales y numeral 6 – Documentos de habilitación).
 - **Anexo 2:** Resolución Directoral N.° 7036-2023/DCEA/DIGESA/SA, del 01 de diciembre de 2023 (encabezado y Artículo 2 – vigencia de dos años).
 - **Anexo 3:** Cargo de la Carta N.° 23032026-03 (Exp. N.° 2026-0002646) y correo del 19 de agosto de 2026.
-- **Anexo 4:** [Captura actual de la ficha PALMA REAL en el portal de PERÚ COMPRAS, con fecha de hoy – RECOMENDADO]
+- **Anexo 4:** Captura de la ficha-producto PALMA REAL en el portal de PERÚ COMPRAS, tomada el [__] de octubre de 2026.
+- **Anexo 5:** Resolución Jefatural N.° 000085-2023-PERÚ COMPRAS-JEFATURA, que aprueba la Directiva N.° 004-2023-PERÚ COMPRAS (portada y páginas con los numerales VI, 7.10, 8.6 y 8.7).
 
 ```{=openxml}
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
@@ -134,3 +135,47 @@ Domicilio: [______________________]
 **2.2. Artículo 2: la vigencia es de dos (2) años desde su emisión, es decir, hasta el 01 de diciembre de 2025.**
 
 ![](anexos_haccp/a2b_rd_articulo2_vigencia.png){width=16cm}
+
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
+
+## ANEXO 5 – Directiva N.° 004-2023-PERÚ COMPRAS (R.J. N.° 000085-2023-PERÚ COMPRAS-JEFATURA)
+
+![](anexos_haccp/anexo5_directiva_p01.png){width=12.5cm}
+
+**5.1. Resolución Jefatural N.° 000085-2023-PERÚ COMPRAS-JEFATURA, del 14 de julio de 2023.**
+
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
+
+![](anexos_haccp/anexo5_directiva_p05.png){width=12.5cm}
+
+**5.2. Numeral VI – Responsabilidad.**
+
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
+
+![](anexos_haccp/anexo5_directiva_p07.png){width=12.5cm}
+
+**5.3. Numeral 7.10 – Facultad de PERÚ COMPRAS de solicitar información y/o documentación.**
+
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
+
+![](anexos_haccp/anexo5_directiva_p13.png){width=12.5cm}
+
+![](anexos_haccp/anexo5_directiva_p14.png){width=12.5cm}
+
+**5.4. Numeral 8.6 – Obligaciones del representante de marca acreditado (literales a y f).**
+
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
+
+![](anexos_haccp/anexo5_directiva_p15.png){width=12.5cm}
+
+**5.5. Numeral 8.7 – Suspensión de la acreditación (numerales 8.7.1, 8.7.3 y 8.7.4).**
