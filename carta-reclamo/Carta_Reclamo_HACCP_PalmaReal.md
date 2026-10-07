@@ -1,0 +1,147 @@
+Lima, [DÍA] de octubre de 2026
+
+**CARTA N.° [___]-2026-SERVICIOS BARTEK E.I.R.L.**
+
+Señores
+**DIRECCIÓN DE COMPRAS ELECTRÓNICAS Y MODALIDADES EFICIENTES – DCEME**
+Central de Compras Públicas – PERÚ COMPRAS
+Av. República de Panamá N.° 3629, San Isidro
+Presente.–
+
+**ASUNTO:** RECLAMO POR FALTA DE RESPUESTA Y SOLICITUD DE ACCIÓN INMEDIATA. Ficha-producto de aceite vegetal de la marca **PALMA REAL** publicada con **Plan HACCP vencido desde el 01 de diciembre de 2025**.
+
+**REFERENCIAS:**
+
+a) Carta N.° 23032026-03, ingresada por mesa de partes el **23 de marzo de 2026** (Exp. N.° **2026-0002646**).
+b) Correo electrónico del **19 de agosto de 2026** dirigido a administrador.acuerdos, “HACCP desactualizado y Carta sin respuesta”.
+
+---
+
+De nuestra consideración:
+
+**SERVICIOS BARTEK E.I.R.L.**, con RUC N.° **20610900551**, representante de marca acreditado ante PERÚ COMPRAS, debidamente representada por su Gerente, **FAVIOLA ORIHUELA PIMENTEL**, identificada con DNI N.° **10790531**, se dirige a ustedes para presentar un **RECLAMO** por la falta de atención a la denuncia que formulamos hace **más de seis meses**, sobre un hecho que involucra la **inocuidad de un alimento de consumo humano** que se vende al Estado a través de los Catálogos Electrónicos.
+
+## 1. LOS HECHOS
+
+**1.1.** En el Catálogo Electrónico se encuentra publicada la ficha-producto de **ACEITE VEGETAL DE SOYA, marca PALMA REAL**, categoría **ACEITE VEGETAL**, producida por **AGROINDUSTRIAS INTEGRADAS S.A.** (código de identificación único **100001000021**, según la ficha técnica publicada) [*confirmar Acuerdo Marco y catálogo vigentes: EXT-CE-2024-18 – Aceites y Grasas*].
+
+**1.2.** La propia ficha técnica exige, en su numeral **6.2 – Documentos de habilitación**, lo siguiente:
+
+> *“Para productos nacionales: **Resolución Directoral vigente** que otorga Validación Técnica Oficial al Plan HACCP, emitida por la DIGESA, según Resolución Ministerial N.° 449-2006-MINSA.”*
+
+**1.3.** Sin embargo, el documento que figura en la ficha publicada es el **Expediente N.° 88358-2023-CH**, que corresponde a la **Resolución Directoral N.° 7036-2023/DCEA/DIGESA/SA, del 01 de diciembre de 2023**. En la misma ficha se declara como vigencia el **01/12/2025** (ver Anexo 1).
+
+**1.4.** La propia resolución de DIGESA lo confirma. Su **Artículo 2** establece que la validación del Plan HACCP tiene una vigencia de **dos (2) años contados desde su emisión** (ver Anexo 2). Es decir, **venció el 01 de diciembre de 2025**. A la fecha, la ficha lleva **más de diez (10) meses** publicada con un documento sanitario de habilitación **vencido**.
+
+**1.5.** Informamos este hecho a su Dirección el **23 de marzo de 2026**, mediante carta ingresada por mesa de partes (Exp. N.° 2026-0002646), y lo reiteramos por correo el **19 de agosto de 2026**. **Hasta hoy no hemos recibido ninguna respuesta**, y la ficha sigue publicada en las mismas condiciones.
+
+**1.6.** Las demás marcas de la **misma categoría** sí cumplen con mantener su Plan HACCP vigente en el catálogo. Por ejemplo (ver Anexos 3 y 4):
+
+| Marca | Productor | Plan HACCP (código) | Vigencia | Situación |
+|---|---|---|---|---|
+| **DELISOYA** (representada por nuestra empresa) | Comercial Invictus S.A.C. | 75539-2025-CH | 23/09/2027 | **Vigente** |
+| **DEL CIELO** | Alimentos Cielo S.A.C. | R.D. N.° 1888-2025/DCEA/DIGESA/SA | 17/03/2027 | **Vigente** |
+| **PALMA REAL** | Agroindustrias Integradas S.A. | 88358-2023-CH (R.D. N.° 7036-2023/DCEA/DIGESA/SA) | 01/12/2025 | **VENCIDO** |
+
+Es decir, **cumplir es perfectamente posible**: los demás representantes de marca renovaron su HACCP y actualizaron sus fichas. **Solo PALMA REAL sigue publicada con un documento vencido**, compitiendo en la misma categoría y por las mismas órdenes de compra.
+
+## 2. POR QUÉ ESTO ES GRAVE
+
+**2.1. En alimentos, el HACCP no es un trámite: es la garantía de inocuidad.** El Plan HACCP (Análisis de Peligros y Puntos Críticos de Control) es el sistema que asegura que la línea de producción **identifica y controla los peligros físicos, químicos y biológicos** que pueden contaminar un alimento. Su validación la otorga **DIGESA**, luego de inspeccionar la planta, y **vence a los dos (2) años** justamente para obligar al productor a **demostrar periódicamente** que sigue cumpliendo. Por eso:
+
+- La normativa sanitaria establece que un establecimiento con HACCP validado **se considera habilitado sanitariamente solo para esa línea de producción**, tal como lo recoge la propia Resolución Directoral N.° 7036-2023/DCEA/DIGESA/SA (Anexo 2).
+- La ficha técnica del catálogo lo exige como **requisito de habilitación** (numeral 6.2), al mismo nivel que el Registro Sanitario.
+- Un HACCP vencido significa que **no hay constancia vigente de que la autoridad sanitaria haya verificado** las condiciones de producción de ese aceite.
+
+Este aceite puede estar llegando a **comedores, hospitales, centros educativos, programas sociales y otras entidades públicas**, es decir, a **poblaciones vulnerables**, sin que el documento que sustenta su inocuidad esté vigente en el catálogo. En alimentos, **no se puede esperar a que ocurra un problema de salud** para actuar.
+
+**2.2. Las reglas deben ser las mismas para todos.** Nosotros, como representantes de la marca **DELISOYA**, renovamos nuestro Plan HACCP y actualizamos nuestra ficha, porque así se nos exige. A los representantes de marca **se nos exige mantener toda la documentación vigente**, y cuando algo no está en regla, nuestras fichas son observadas o suspendidas. Si una ficha puede seguir publicada durante más de diez meses con su HACCP vencido, y la denuncia formal sobre ese hecho no recibe respuesta en seis meses, se vulneran los principios de **igualdad de trato y transparencia**, y se afecta la **libertad de concurrencia**: quienes cumplimos las reglas competimos en desventaja frente a quien no las cumple.
+
+**2.3. El silencio de su Dirección no tiene justificación.** Nuestra carta fue presentada formalmente por mesa de partes. La falta de respuesta durante más de seis meses vulnera nuestro **derecho de petición**, reconocido en el **artículo 2, inciso 20 de la Constitución Política del Perú** y en el **TUO de la Ley N.° 27444, Ley del Procedimiento Administrativo General**, cuyo plazo para responder **se encuentra ampliamente vencido**.
+
+## 3. LO QUE SOLICITAMOS
+
+Por lo expuesto, **SOLICITAMOS**:
+
+1. Que su Dirección **verifique de inmediato** la vigencia del Plan HACCP de la ficha-producto de aceite vegetal de soya marca **PALMA REAL**.
+2. Que, si el representante de marca **cuenta con una nueva Resolución Directoral vigente**, se le **exija actualizar la ficha** sin demora, como se nos exige a todos los representantes de marca.
+3. Que, si **no cuenta con un HACCP vigente**, se **apliquen las medidas que correspondan** según la normativa de Catálogos Electrónicos, **incluida la suspensión de la ficha-producto**, con el mismo criterio que se aplica a las demás marcas.
+4. Que se nos **responda por escrito**, en un plazo **no mayor de cinco (5) días hábiles**, indicando:
+   a) Qué acciones se tomaron a partir de nuestra carta del 23 de marzo de 2026.
+   b) Por qué esa carta no fue respondida.
+   c) Si durante el periodo en que el HACCP estuvo vencido **se emitieron órdenes de compra** de esta ficha-producto a entidades públicas.
+
+## 4. RESERVA DE DERECHOS
+
+De no recibir una respuesta oportuna, **nos reservamos el derecho de presentar una queja por defecto de tramitación** conforme al TUO de la Ley N.° 27444, y de poner estos hechos en conocimiento del **Órgano de Control Institucional (OCI) de PERÚ COMPRAS**, de la **Contraloría General de la República** y de la **Dirección General de Salud Ambiental e Inocuidad Alimentaria – DIGESA**, por tratarse de un tema de inocuidad alimentaria.
+
+Confiamos en que su Dirección atenderá este pedido con la seriedad que exige un tema de salud pública.
+
+Atentamente,
+
+&nbsp;
+
+&nbsp;
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+**FAVIOLA ORIHUELA PIMENTEL**
+DNI N.° 10790531
+Gerente
+**SERVICIOS BARTEK E.I.R.L.** – RUC N.° 20610900551
+Correo: serviciosbartek@gmail.com · Teléfono: [___________]
+Domicilio: [______________________]
+
+---
+
+**ANEXOS:**
+
+- **Anexo 1:** Ficha técnica publicada de ACEITE VEGETAL DE SOYA marca PALMA REAL (datos generales y numeral 6 – Documentos de habilitación).
+- **Anexo 2:** Resolución Directoral N.° 7036-2023/DCEA/DIGESA/SA, del 01 de diciembre de 2023 (encabezado y Artículo 2 – vigencia de dos años).
+- **Anexo 3:** Ficha técnica de ACEITE VEGETAL marca DELISOYA (numeral 6: Plan HACCP vigente al 23/09/2027).
+- **Anexo 4:** Ficha técnica de ACEITE VEGETAL DE SOYA marca DEL CIELO (numeral 6: Plan HACCP vigente al 17/03/2027).
+- **Anexo 5:** Cargo de la Carta N.° 23032026-03 (Exp. N.° 2026-0002646) y correo del 19 de agosto de 2026.
+- **Anexo 6:** [Captura actual de la ficha PALMA REAL en el portal de PERÚ COMPRAS, con fecha de hoy – RECOMENDADO]
+
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
+
+## ANEXO 1 – Ficha técnica publicada (PALMA REAL)
+
+**1.1. Datos generales de la ficha: catálogo, categoría, productor y marca.**
+
+![](anexos_haccp/a1_ficha_datos_generales.png){width=16cm}
+
+**1.2. Numeral 6 – Documentos de habilitación: el Plan HACCP (6.2) figura con vigencia al 01/12/2025.**
+
+![](anexos_haccp/a1b_ficha_habilitacion_haccp.png){width=16cm}
+
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
+
+## ANEXO 2 – Resolución Directoral N.° 7036-2023/DCEA/DIGESA/SA
+
+**2.1. Encabezado: emitida el 01 de diciembre de 2023 (Exp. N.° 88358-2023-CH).**
+
+![](anexos_haccp/a2_rd_7036_2023_encabezado.png){width=14cm}
+
+**2.2. Artículo 2: la vigencia es de dos (2) años desde su emisión, es decir, hasta el 01 de diciembre de 2025.**
+
+![](anexos_haccp/a2b_rd_articulo2_vigencia.png){width=16cm}
+
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
+
+## ANEXO 3 – Ficha técnica DELISOYA: Plan HACCP vigente
+
+**Numeral 6.2: Plan HACCP código 75539-2025-CH, vigente al 23/09/2027.**
+
+![](anexos_haccp/a3_delisoya_haccp.png){width=16cm}
+
+## ANEXO 4 – Ficha técnica DEL CIELO: Plan HACCP vigente
+
+**Numeral 6.2: R.D. N.° 1888-2025/DCEA/DIGESA/SA, vigente al 17/03/2027.**
+
+![](anexos_haccp/a4_delcielo_haccp.png){width=16cm}
