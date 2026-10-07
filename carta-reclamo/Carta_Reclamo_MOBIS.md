@@ -44,9 +44,16 @@ De nuestra consideración:
 
 **2.2.** Lo decimos con total claridad: mientras nuestras fichas siguen invisibles, **las fichas de otras marcas de la misma categoría funcionan con normalidad** y se pueden ofertar. Esta diferencia, sumada a meses de silencio de su Dirección, **da la clara impresión de que hay un trato preferente** hacia algunos competidores. Eso es inaceptable en un sistema de contratación pública.
 
-**2.3.** La contratación pública se rige por los principios de **igualdad de trato, libertad de concurrencia, competencia y transparencia**. Ninguna marca puede quedar excluida, por acción u omisión, de competir en igualdad de condiciones.
+**2.3.** Las contrataciones del Estado se rigen por el principio de **libertad de concurrencia**. Este principio garantiza que **todos los proveedores que cumplan con los requisitos tengan la misma oportunidad de participar, competir y venderle al Estado**, y prohíbe los **monopolios, los favoritismos y las barreras innecesarias**. Al impedir que los proveedores vean y oferten la marca MOBIS, la plataforma levanta justamente una de esas barreras.
 
-**2.4.** El silencio de su Dirección vulnera además nuestro **derecho de petición**, reconocido en el **artículo 2, inciso 20 de la Constitución Política del Perú** y en el **artículo 117 del TUO de la Ley N.° 27444, Ley del Procedimiento Administrativo General**. Este derecho obliga a la Administración a responder por escrito dentro del plazo legal, que **ya venció hace mucho**.
+**2.4.** Esta situación afecta también:
+
+- **La pluralidad de postores:** el Estado debe buscar que existan **múltiples opciones y participantes**. Si se dejan fuera las fichas MOBIS, las entidades pierden una alternativa válida y la competencia se reduce a las marcas que el sistema sí muestra.
+- **La transparencia y la igualdad de trato:** las reglas deben ser **claras y las mismas para todos**. Hoy las fichas de otras marcas de la misma categoría funcionan con normalidad y las nuestras no, sin que nadie nos explique por qué.
+
+Ninguna marca puede quedar excluida, por acción u omisión, de competir en igualdad de condiciones.
+
+**2.5.** El silencio de su Dirección vulnera además nuestro **derecho de petición**, reconocido en el **artículo 2, inciso 20 de la Constitución Política del Perú** y en el **artículo 117 del TUO de la Ley N.° 27444, Ley del Procedimiento Administrativo General**. Este derecho obliga a la Administración a responder por escrito dentro del plazo legal, que **ya venció hace mucho**.
 
 ## 3. LO QUE EXIGIMOS
 
@@ -55,7 +62,7 @@ Por lo expuesto, **EXIGIMOS** que en un plazo **no mayor de cinco (5) días háb
 1. **Se habiliten de inmediato** todas las fichas-producto de la marca **MOBIS** para que los proveedores las vean en la plataforma de Catálogos Electrónicos y puedan ofertarlas sin restricción.
 2. **Se nos informe por escrito** por qué no aparecen nuestras fichas, quién es el área o funcionario responsable y qué medidas correctivas se tomarán.
 3. **Se responda por escrito** a cada una de las comunicaciones de las referencias.
-4. **Se garantice** que las fichas MOBIS reciban **el mismo trato** que las fichas de las demás marcas del catálogo.
+4. **Se garantice** que las fichas MOBIS reciban **el mismo trato** que las fichas de las demás marcas del catálogo, en respeto de los principios de **libertad de concurrencia, pluralidad de postores, transparencia e igualdad de trato**.
 
 ## 4. RESERVA DE ACCIONES
 
