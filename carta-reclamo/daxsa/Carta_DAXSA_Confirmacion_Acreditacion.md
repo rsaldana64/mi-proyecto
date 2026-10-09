@@ -67,7 +67,7 @@ DNI N.° 40167540
 Gerente General
 **IMPORTADORA DAXSA S.A.C.** – RUC N.° 20611290757
 Domicilio: El Ejército, Orrantia del Mar, Quinta Z 1180 – 0023, Magdalena del Mar, Lima
-Correo: licitaciones@forestalesdaxsa.com.pe / rsaldana64@gmail.com · Celular: 986045123
+Correo: licitaciones@forestalesdaxsa.com.pe · Celular: 986045123
 
 ---
 
