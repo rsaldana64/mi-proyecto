@@ -29,7 +29,7 @@ De nuestra consideración:
 
 **1.2.** **Entregamos los bienes el 20 de julio de 2022** (Guía de Remisión EG01-6, con sello de recepción de la Municipalidad) y emitimos la Factura Electrónica E001-17. **Más de tres (3) años y dos (2) meses después, no hemos recibido ningún pago.**
 
-**1.3.** La consulta del **Expediente SIAF N.° 3619-2022** de la propia Municipalidad muestra que:
+**1.3.** La consulta del **Expediente SIAF N.° 3618-2022** de la propia Municipalidad muestra que:
 
 - Se registró un **giro de S/ 3,482.27 el 26 de enero de 2023** (Documento N.° 0103) que **nuestra empresa nunca recibió**.
 - Se **rebajaron S/ 1,741.12** mediante el **Memorándum N.° 472-2023-OGAF**, sin que se nos notificara penalidad ni motivo alguno.
@@ -60,7 +60,7 @@ De nuestra consideración:
 
 ## 3. LO QUE SOLICITAMOS
 
-1. Que su despacho **disponga el servicio de control que corresponda** respecto de la Orden de Compra OCAM-2022-301371-25-0 / 25-1 y del Expediente SIAF N.° 3619-2022.
+1. Que su despacho **disponga el servicio de control que corresponda** respecto de la Orden de Compra OCAM-2022-301371-25-0 / 25-1 y del Expediente SIAF N.° 3618-2022.
 2. Que se **verifique el destino del giro de S/ 3,482.27** del 26/01/2023 (beneficiario, medio de pago, cuenta de destino y constancia de cobro).
 3. Que se **verifique el sustento de la rebaja de S/ 1,741.12** (Memorándum N.° 472-2023-OGAF).
 4. Que se **verifique el extravío del Expediente N.° 00655163** y se identifique a los responsables.
@@ -80,7 +80,7 @@ Correo: abs.comercial2@gmail.com · Celular: 986045123
 
 **ANEXOS:**
 
-- **Anexo 1:** Consulta del Expediente SIAF N.° 3619-2022 (giro de S/ 3,482.27 y rebaja de S/ 1,741.12).
+- **Anexo 1:** Consulta del Expediente SIAF N.° 3618-2022 (giro de S/ 3,482.27 y rebaja de S/ 1,741.12).
 - **Anexo 2:** Oficio N.° 003413-2026-PERÚ COMPRAS-DCEME, del 21 de julio de 2026.
 
 *Los demás antecedentes (orden de compra, guía de remisión, factura y oficios de PERÚ COMPRAS de 2024) obran en la carta dirigida al Alcalde, remitida en copia a su despacho.*
@@ -89,9 +89,9 @@ Correo: abs.comercial2@gmail.com · Celular: 986045123
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
 ```
 
-![](../anexos_huacho/p8.png){width=15cm}
+![](../anexos_huacho/siaf_3618_claro.png){width=16cm}
 
-**Anexo 1 – Consulta del Expediente SIAF N.° 3619-2022: giro de S/ 3,482.27 del 26/01/2023 y rebaja de S/ 1,741.12.**
+**Anexo 1 – Consulta del Expediente SIAF N.° 3618-2022: giro de S/ 3,482.27 del 26/01/2023 y rebaja de S/ 1,741.12.**
 
 ```{=openxml}
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>

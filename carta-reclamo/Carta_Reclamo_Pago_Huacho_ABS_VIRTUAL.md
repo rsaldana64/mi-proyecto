@@ -18,7 +18,7 @@ Presente.–
 a) Orden de Compra física N.° 000146, del 04 de julio de 2022, y OCAM-2022-301371-25-0, formalizada el 06 de julio de 2022.
 b) Guía de Remisión EG01-6, del 20 de julio de 2022 (bienes recibidos por la Municipalidad).
 c) Factura Electrónica E001-17, del 14 de octubre de 2022, por **S/ 5,223.39**.
-d) Expediente SIAF N.° 3619-2022 de la Municipalidad Provincial de Huaura.
+d) Expediente SIAF N.° 3618-2022 de la Municipalidad Provincial de Huaura.
 e) Expediente N.° 00655163 del Sistema de Gestión Documentaria de la Municipalidad (Memorándum N.° 000836-MPH/GM, del 22/09/2023, y Proveído N.° 003811-MPH/OGAF, del 02/10/2023).
 f) Oficios de PERÚ COMPRAS: N.° 12475-2023-PERÚ COMPRAS-DAM; N.° 001886-2024-PERÚ COMPRAS-DAM (14/02/2024); N.° 004143-2024-PERÚ COMPRAS-DAM (26/03/2024); N.° 006119-2024-PERÚ COMPRAS-DAM (28/05/2024); y **N.° 003413-2026-PERÚ COMPRAS-DCEME (21/07/2026)**, este último **con copia a su despacho**.
 g) Nuestras cartas N.° 255-2023, N.° 120-2024, N.° 350-2024 (24/05/2024), N.° 20092024-1 (20/09/2024), y las del 13 de marzo de 2025 (Carta N.° 13032025), 28 de abril de 2025 (Carta N.° 28042025), 02 de julio de 2026 (Carta N.° 355-2026) y 03 de agosto de 2026 (Carta N.° 356-2026), **todas sin respuesta**.
@@ -41,7 +41,7 @@ Nos dirigimos directamente a su despacho porque **la Oficina General de Administ
 
 ## 2. LO QUE MUESTRA EL SIAF DE LA PROPIA MUNICIPALIDAD
 
-**2.1.** Según la consulta del **Expediente SIAF N.° 3619-2022** de la Municipalidad Provincial de Huaura (Anexo 5), la operación registra lo siguiente:
+**2.1.** Según la consulta del **Expediente SIAF N.° 3618-2022** de la Municipalidad Provincial de Huaura (Anexo 5), la operación registra lo siguiente:
 
 | Fase | Fecha | Documento | Monto |
 |---|---|---|---|
@@ -151,7 +151,7 @@ Correo: abs.comercial2@gmail.com · Celular: 986045123
 - **Anexo 2:** Guía de Remisión EG01-6, con sello de recepción de la Municipalidad.
 - **Anexo 3:** Factura Electrónica E001-17, por S/ 5,223.39.
 - **Anexo 4:** Carta de autorización para el pago con abono en cuenta (CCI).
-- **Anexo 5:** Consulta del Expediente SIAF N.° 3619-2022.
+- **Anexo 5:** Consulta del Expediente SIAF N.° 3618-2022.
 - **Anexo 6:** Trámite del Expediente N.° 00655163 (Memorándum N.° 000836-MPH/GM y Proveído N.° 003811-MPH/OGAF).
 - **Anexo 7:** Oficio N.° 003413-2026-PERÚ COMPRAS-DCEME, del 21 de julio de 2026.
 
@@ -195,7 +195,7 @@ Correo: abs.comercial2@gmail.com · Celular: 986045123
 
 ![](anexos_huacho/p8.png){width=15cm}
 
-**Anexo 5 – Consulta del Expediente SIAF N.° 3619-2022: giro de S/ 3,482.27 del 26/01/2023 y rebaja de S/ 1,741.12.**
+**Anexo 5 – Consulta del Expediente SIAF N.° 3618-2022: giro de S/ 3,482.27 del 26/01/2023 y rebaja de S/ 1,741.12.**
 
 ```{=openxml}
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>

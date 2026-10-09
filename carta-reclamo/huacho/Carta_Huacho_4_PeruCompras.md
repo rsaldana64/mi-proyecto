@@ -28,7 +28,7 @@ De nuestra consideración:
 
 **1.2.** **Entregamos los bienes el 20 de julio de 2022** (Guía de Remisión EG01-6, con sello de recepción de la Municipalidad) y emitimos la Factura Electrónica E001-17. **Más de tres (3) años y dos (2) meses después, no hemos recibido ningún pago.**
 
-**1.3.** La consulta del **Expediente SIAF N.° 3619-2022** de la propia Municipalidad muestra que:
+**1.3.** La consulta del **Expediente SIAF N.° 3618-2022** de la propia Municipalidad muestra que:
 
 - Se registró un **giro de S/ 3,482.27 el 26 de enero de 2023** (Documento N.° 0103) que **nuestra empresa nunca recibió**.
 - Se **rebajaron S/ 1,741.12** mediante el **Memorándum N.° 472-2023-OGAF**, sin que se nos notificara penalidad ni motivo alguno.

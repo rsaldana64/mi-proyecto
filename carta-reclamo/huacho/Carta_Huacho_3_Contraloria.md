@@ -26,7 +26,7 @@ De nuestra consideración:
 
 **1.2.** **Entregamos los bienes el 20 de julio de 2022** (Guía de Remisión EG01-6, con sello de recepción de la Municipalidad) y emitimos la Factura Electrónica E001-17. **Más de tres (3) años y dos (2) meses después, no hemos recibido ningún pago.**
 
-**1.3.** La consulta del **Expediente SIAF N.° 3619-2022** de la propia Municipalidad muestra que:
+**1.3.** La consulta del **Expediente SIAF N.° 3618-2022** de la propia Municipalidad muestra que:
 
 - Se registró un **giro de S/ 3,482.27 el 26 de enero de 2023** (Documento N.° 0103) que **nuestra empresa nunca recibió**.
 - Se **rebajaron S/ 1,741.12** mediante el **Memorándum N.° 472-2023-OGAF**, sin que se nos notificara penalidad ni motivo alguno.
@@ -56,7 +56,7 @@ De nuestra consideración:
 Conforme a la **Ley N.° 27785, Ley Orgánica del Sistema Nacional de Control y de la Contraloría General de la República**, solicitamos:
 
 1. Que se **registre y evalúe la presente denuncia** y se disponga el **servicio de control** que corresponda en la Municipalidad Provincial de Huaura – Huacho.
-2. Que se **verifique el destino del giro de S/ 3,482.27** del 26/01/2023 (Expediente SIAF N.° 3619-2022, Documento N.° 0103) y el **sustento de la rebaja de S/ 1,741.12** (Memorándum N.° 472-2023-OGAF).
+2. Que se **verifique el destino del giro de S/ 3,482.27** del 26/01/2023 (Expediente SIAF N.° 3618-2022, Documento N.° 0103) y el **sustento de la rebaja de S/ 1,741.12** (Memorándum N.° 472-2023-OGAF).
 3. Que se **supervise la actuación del Órgano de Control Institucional** de la Municipalidad respecto de los oficios de PERÚ COMPRAS recibidos en 2024 y 2026.
 4. Que se **determinen las responsabilidades** administrativas, civiles o penales de los funcionarios involucrados.
 5. Que se nos **informe el número de registro** de la denuncia y su estado.
