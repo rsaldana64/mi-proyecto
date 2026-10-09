@@ -61,11 +61,8 @@ Agradecemos de antemano su atención.
 
 Atentamente,
 
-&nbsp;
+![](anexos/firma_diana.png){width=5.5cm}
 
-&nbsp;
-
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 **DIANA AYDEE ARAUJO IZIQUE**
 DNI N.° 40167540
 Gerente General
