@@ -9,7 +9,7 @@ Central de Compras Públicas – **PERÚ COMPRAS**
 Av. República de Panamá N.° 3629, San Isidro, Lima
 Presente.–
 
-**ASUNTO:** SOLICITUD DE CONFIRMACIÓN DE ACREDITACIÓN COMO REPRESENTANTE DE LA MARCA **FD FORESTALES DAXSA** y de su **vigencia en el Acuerdo Marco actual EXT-CE-2024-16 – Accesorios Domésticos y Bienes para Usos Diversos**.
+**ASUNTO:** SOLICITUD DE COPIA DEL DOCUMENTO DE ACREDITACIÓN, CONFIRMACIÓN DE VIGENCIA E INDICACIONES PARA EL REGISTRO DE FICHAS-PRODUCTO de la marca **FD FORESTALES DAXSA** – Acuerdo Marco **EXT-CE-2024-16 – Accesorios Domésticos y Bienes para Usos Diversos**.
 
 **REFERENCIAS:**
 
@@ -20,7 +20,7 @@ b) Carta N.° 20112024-05, del 20 de noviembre de 2024: subsanación de la solic
 
 De nuestra consideración:
 
-**IMPORTADORA DAXSA S.A.C.**, con RUC N.° **20611290757**, debidamente representada por su Gerente General, **DIANA AYDEE ARAUJO IZIQUE**, identificada con DNI N.° **40167540**, se dirige a su Dirección para solicitar que se nos **confirme por escrito** nuestra acreditación como representante de marca y su **vigencia a la fecha**.
+**IMPORTADORA DAXSA S.A.C.**, con RUC N.° **20611290757**, debidamente representada por su Gerente General, **DIANA AYDEE ARAUJO IZIQUE**, identificada con DNI N.° **40167540**, se dirige a su Dirección para solicitar **copia del documento que nos acreditó** como representante de marca, la **confirmación de su vigencia** en el Acuerdo Marco actual y las **indicaciones para registrar nuestras fichas-producto**.
 
 ## 1. ANTECEDENTES
 
@@ -36,7 +36,7 @@ Actualmente, los bienes de esta categoría se contratan a través del Acuerdo Ma
 
 **1.3.** El **20 de noviembre de 2024** presentamos la **subsanación** de nuestra solicitud, registrada con el **N.° S-2024-31367** y dirigida al área de Acreditaciones de Representantes de Marcas.
 
-**1.4.** A la fecha **no tenemos certeza** sobre el resultado de nuestra solicitud ni sobre si nuestra acreditación **se mantiene vigente en el Acuerdo Marco actual EXT-CE-2024-16**. Necesitamos esa confirmación para gestionar correctamente nuestras fichas-producto y cumplir con nuestras obligaciones como representante de marca.
+**1.4.** Entendemos que, tras la subsanación, **nuestra empresa fue acreditada** como representante de la marca. Sin embargo, **no conservamos la notificación** de acreditación remitida por correo electrónico, ni el **Formato o documento de acreditación** correspondiente, ni los datos de la **credencial de acceso** a la Plataforma. Necesitamos esa información para **registrar nuestras fichas-producto** en el Acuerdo Marco **EXT-CE-2024-16**, que es el actualmente vigente para nuestra categoría.
 
 ## 2. FUNDAMENTO
 
@@ -48,14 +48,13 @@ Actualmente, los bienes de esta categoría se contratan a través del Acuerdo Ma
 
 ## 3. LO QUE SOLICITAMOS
 
-Solicitamos que, en un plazo **no mayor de diez (10) días hábiles**, su Dirección nos informe por escrito:
+Solicitamos que, en un plazo **no mayor de diez (10) días hábiles**, su Dirección nos remita al correo electrónico consignado en la presente:
 
-1. Si **IMPORTADORA DAXSA S.A.C.** fue **acreditada** como representante de la marca **FD FORESTALES DAXSA** a raíz de nuestra solicitud de 2024, indicando el **número y la fecha del Formato o documento de acreditación** y las **categorías** comprendidas.
-2. Si dicha acreditación **se mantiene vigente en el Acuerdo Marco actual EXT-CE-2024-16 – Accesorios Domésticos y Bienes para Usos Diversos**, y en qué **catálogo(s) y categoría(s)**; o si existe alguna **suspensión, observación o requerimiento pendiente** que la afecte.
-3. Si, por el contrario, para operar en el Acuerdo Marco EXT-CE-2024-16 corresponde **solicitar una nueva acreditación o una ampliación**, se nos indique el **procedimiento y los plazos** para hacerlo.
-4. Si, como consecuencia del cambio de titularidad de la Dirección, corresponde **suscribir nuevamente el Acuerdo de Adhesión** o presentar documentación actualizada; de ser así, se nos remitan los formatos correspondientes.
-5. Si nuestra solicitud **no hubiera sido resuelta**, el **estado del trámite**, el área o funcionario a cargo y, de existir observaciones pendientes, **cuáles son**, para atenderlas de inmediato.
-6. Que se nos **remita copia** de la notificación de acreditación y de la **credencial de acceso** a la Plataforma, si ya fueron emitidas.
+1. **Copia del Formato o documento de acreditación** de IMPORTADORA DAXSA S.A.C. como representante de la marca **FD FORESTALES DAXSA**, con su **número, fecha** y las **categorías** comprendidas.
+2. La **confirmación de que dicha acreditación se mantiene vigente** en el Acuerdo Marco **EXT-CE-2024-16 – Accesorios Domésticos y Bienes para Usos Diversos**, y en qué **catálogo(s) y categoría(s)**. Si para operar en este Acuerdo Marco corresponde una **nueva acreditación o una ampliación**, se nos indique el procedimiento.
+3. Los **datos de nuestra credencial de acceso** (usuario) a la Plataforma de Catálogos Electrónicos y, de ser necesario, el procedimiento para **restablecer la contraseña**.
+4. Las **indicaciones para registrar nuestras fichas-producto**: el **procedimiento**, los **periodos habilitados** para la incorporación de fichas, los **requisitos y documentos** que debemos adjuntar, y los **manuales o guías** disponibles.
+5. Si, como consecuencia del cambio de titularidad de la Dirección, corresponde **suscribir nuevamente el Acuerdo de Adhesión** o actualizar documentación; de ser así, se nos remitan los formatos correspondientes.
 
 Agradecemos de antemano su atención.
 
