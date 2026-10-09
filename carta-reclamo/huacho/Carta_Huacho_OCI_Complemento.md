@@ -41,6 +41,8 @@ No está a nuestro alcance presentar un documento que la propia entidad nunca em
 
 **4. Copia de DNI** de la Titular Gerente (Anexo 6).
 
+**5. Precisión sobre el número de expediente SIAF.** El número correcto del expediente es **SIAF N.° 3618-2022** (Municipalidad Provincial de Huaura, entidad 301371), en el que figura el giro de S/ 3,482.27 del 26/01/2023 (documento N.° 0103). En nuestras Cartas N.° 07102026-1 y siguientes se consignó por error **“3619-2022”**; los demás datos (Orden de Compra N.° 000146, OCAM-2022-301371-25-0, montos y fechas) son correctos y permiten identificar la operación sin lugar a dudas.
+
 Quedamos atentos a cualquier información adicional que su despacho requiera.
 
 Atentamente,
