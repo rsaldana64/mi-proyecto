@@ -14,7 +14,7 @@ Presente.–
 **REFERENCIAS:**
 
 a) Nuestra carta del 07 de octubre de 2026 y reclamo en el Libro de Reclamaciones, código **pp4c2lqjm**.
-b) Respuesta de su Dirección a nuestro pedido, recibida en octubre de 2026.
+b) Correo de su Dirección (acreditacionrm@perucompras.gob.pe) del 16/10/2026, que atiende nuestro reclamo.
 c) Formato N.° 397-2025-ARM, del 10 de junio de 2025.
 d) Resolución Jefatural N.° 000087-2026-PERÚ COMPRAS-JEFATURA, del 22 de julio de 2026.
 
