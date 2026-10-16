@@ -35,7 +35,7 @@ En su respuesta, su Dirección confirma que:
 
 ## 2. POR QUÉ ESA EXPLICACIÓN NO ES SUFICIENTE
 
-**2.1. Nuestras fichas existían antes del Acuerdo de Adhesión.** El formato de Acuerdo de Adhesión se aprobó con la **Resolución Jefatural N.° 000087-2026-PERÚ COMPRAS-JEFATURA**, del **22 de julio de 2026**, y se comunicó con el **Comunicado N.° 040-2026-PERÚ COMPRAS**, del **24 de julio de 2026**. Nuestras 22 fichas ya estaban en estado OFERTADO **mucho antes de esa fecha**. Sin embargo, los proveedores **no han podido verlas ni ofertarlas**. Un requisito creado en julio de 2026 **no puede explicar** que nuestras fichas no fueran visibles antes.
+**2.1. Nuestras fichas existían antes del Acuerdo de Adhesión.** El formato de Acuerdo de Adhesión se aprobó con la **Resolución Jefatural N.° 000087-2026-PERÚ COMPRAS-JEFATURA**, del **22 de julio de 2026**, y se comunicó con el **Comunicado N.° 040-2026-PERÚ COMPRAS**, del **24 de julio de 2026**. Nuestras 22 fichas ya estaban en estado OFERTADO **mucho antes de esa fecha**. Si antes de julio de 2026 los proveedores tampoco podían verlas ni ofertarlas, **un requisito creado después no puede ser la causa**. Si, por el contrario, sí eran visibles, corresponde que su Dirección **lo acredite con los registros de la plataforma**.
 
 **2.2. La norma no ordena bloquear fichas ya ofertadas.** La Resolución Jefatural N.° 000087-2026 solo **aprueba el formato** del Acuerdo de Adhesión (artículo primero) y autoriza a su Dirección a **difundir los plazos para suscribirlo** (artículo segundo). **No dispone** que las fichas ya incorporadas y ofertadas dejen de estar disponibles mientras el acuerdo se formaliza. Por su parte, el **artículo 276.1 del Reglamento de la Ley N.° 32069** exige al representante de marca mantener las condiciones que motivaron su acreditación, y nuestra empresa **las mantiene**.
 
@@ -57,10 +57,11 @@ En un plazo **no mayor de cinco (5) días hábiles**:
 2. **Habilitar de inmediato las 22 Fichas-Producto de la marca MOBIS** en estado OFERTADO, para que los proveedores puedan ofertarlas.
 3. **Otorgar un periodo extraordinario** de presentación de ofertas para nuestras fichas MOBIS, por los periodos perdidos por causas ajenas a nuestra empresa.
 4. **Informarnos por escrito**:
-   a) **Desde qué fecha** las 22 fichas MOBIS **no están habilitadas** para los proveedores.
-   b) **Por qué** no fueron visibles **antes del 22 de julio de 2026**, fecha en que se aprobó el formato del Acuerdo de Adhesión.
-   c) Si nuestras fichas de **otras marcas** dependen del mismo Acuerdo de Adhesión y, de ser así, **por qué reciben un trato distinto**.
-   d) **La fecha estimada** de formalización de nuestro Acuerdo de Adhesión.
+   a) Si las 22 fichas MOBIS **estuvieron habilitadas y visibles** para los proveedores desde su incorporación y **en qué periodos**, **sustentado con los registros de la plataforma** (historial de estados y fechas de habilitación de cada ficha).
+   b) Si algún proveedor **presentó ofertas** sobre nuestras fichas MOBIS y **en qué fechas**.
+   c) **Desde qué fecha** y **mediante qué acto** las fichas dejaron de estar habilitadas, y **por qué no se nos notificó**.
+   d) Si nuestras fichas de **otras marcas** dependen del mismo Acuerdo de Adhesión y, de ser así, **por qué reciben un trato distinto**.
+   e) **La fecha estimada** de formalización de nuestro Acuerdo de Adhesión.
 
 De no recibir respuesta en el plazo indicado, acudiremos al **Órgano de Control Institucional de PERÚ COMPRAS** y a la **Defensoría del Pueblo**, y nos reservamos el derecho de reclamar los **daños y perjuicios** ocasionados.
 
