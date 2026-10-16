@@ -63,7 +63,7 @@ En un plazo **no mayor de cinco (5) días hábiles**:
    d) Si nuestras fichas de **otras marcas** dependen del mismo Acuerdo de Adhesión y, de ser así, **por qué reciben un trato distinto**.
    e) **La fecha estimada** de formalización de nuestro Acuerdo de Adhesión.
 
-De no recibir respuesta en el plazo indicado, acudiremos al **Órgano de Control Institucional de PERÚ COMPRAS** y a la **Defensoría del Pueblo**, y nos reservamos el derecho de reclamar los **daños y perjuicios** ocasionados.
+De no recibir respuesta en el plazo indicado, presentaremos **queja por defecto de tramitación ante la Jefatura de PERÚ COMPRAS**, conforme al **artículo 169 del TUO de la Ley N.° 27444**, y solicitaremos el **deslinde de responsabilidades** de los servidores a cargo (artículo 261). Asimismo, acudiremos al **Órgano de Control Institucional de PERÚ COMPRAS** y a la **Defensoría del Pueblo**, y nos reservamos el derecho de reclamar los **daños y perjuicios** ocasionados (artículo 260).
 
 Atentamente,
 
