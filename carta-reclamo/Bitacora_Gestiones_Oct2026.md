@@ -1,7 +1,7 @@
 **BITÁCORA DE GESTIONES**
 **Cartas y reclamos ante entidades públicas – octubre de 2026**
 
-Actualizada al 16 de octubre de 2026
+Actualizada al 19 de octubre de 2026
 
 ---
 
@@ -9,7 +9,8 @@ Actualizada al 16 de octubre de 2026
 
 | Empresa | Caso | Entidad | Registro | Estado | Próximo vencimiento |
 |---|---|---|---|---|---|
-| Servicios Bartek | Fichas MOBIS no visibles | Perú Compras – DCEME | Reclamo **pp4c2lqjm** | Respondido; nueva carta lista | 5 días hábiles desde el envío de la Carta 16102026-1 |
+| Servicios Bartek | Fichas MOBIS no visibles | Perú Compras – DCEME | Reclamo **pp4c2lqjm** | Respondido el 16/10; Carta 16102026-1 enviada | **~23/10/2026** (5 días hábiles) |
+| Servicios Bartek | 3 fichas SQP-MIKROVAL observadas | Perú Compras – DCEME | Fichas 2007274, 2298513, 2298514 | Bloqueadas por el Acuerdo de Adhesión | Sujeto a la formalización |
 | Servicios Bartek | HACCP vencido Palma Real | Perú Compras – DCEME | Exp. 2026-0002646 (denuncia original) | Carta enviada | Sin respuesta |
 | ABS Bienes & Servicios | Acreditación marca CAMPECHANO | Perú Compras – DCEME | Exp. 2026-0005612 | Carta enviada | Sin respuesta |
 | ABS Bienes & Servicios | Deuda Municipalidad de Huacho (S/ 5,223.39) | Alcalde, OCI, Defensoría, Contraloría, Perú Compras | Ver sección 3 | En trámite | **05/11/2026** (plazo del Alcalde ante la Defensoría) |
@@ -28,13 +29,34 @@ Acreditada con el **Formato N.° 397-2025-ARM (10/06/2025)**: MOBIS (Butaca para
 |---|---|
 | 02/10/2026 | Los proveedores informan que no encuentran la marca MOBIS en la plataforma. |
 | 07/10/2026 | Se prepara la carta de reclamo a la DCEME, con capturas de la plataforma. Se registra el reclamo en el Libro de Reclamaciones, código **pp4c2lqjm** (respuesta en máximo 30 días hábiles, hasta ~19/11/2026). |
-| Oct. 2026 | **Responde Perú Compras:** las 22 fichas MOBIS están en estado OFERTADO, pero no están habilitadas porque falta que Perú Compras formalice el **Acuerdo de Adhesión** (RJ 087-2026 y Comunicado 040-2026, del 24/07/2026). Reconoce que Bartek presentó el acuerdo. No da plazo ni responde la ampliación pedida. |
-| 16/10/2026 | Se prepara la **Carta N.° 16102026-1** a la DCEME: las fichas existían antes del acuerdo; los Comunicados 080-2025 y 022-2026 no aplican; el acuerdo es uno solo, de Bartek, para todas sus marcas; y la demora es de Perú Compras. Pide formalizar el acuerdo, habilitar las 22 fichas y un periodo extraordinario, en 5 días hábiles. |
+| 16/10/2026 | **Responde Perú Compras** por correo (acreditacionrm@perucompras.gob.pe, 16:53): las 22 fichas MOBIS están en estado OFERTADO, pero no están habilitadas porque falta que Perú Compras formalice el **Acuerdo de Adhesión** (RJ 087-2026 y Comunicado 040-2026, del 24/07/2026). Reconoce que Bartek presentó el acuerdo. No da plazo ni responde la ampliación pedida. |
+| Semana del 12/10/2026 | Se envía la **Carta N.° 16102026-1** a la DCEME (firmada y foliada, 5 folios): las fichas existían antes del acuerdo; los Comunicados 080-2025 y 022-2026 no aplican; el acuerdo es uno solo, de Bartek, para todas sus marcas; y la demora es de Perú Compras. Además cita la RJ 087-2026 (22/07/2026), el literal b) del numeral 9.1.2 de la Directiva 005-2025 (v2) y el art. 276.1 del Reglamento de la Ley 32069. Pide a Perú Compras que demuestre con sus registros si las fichas se veían. Pide formalizar el acuerdo, habilitar las 22 fichas y un periodo extraordinario, en 5 días hábiles. Advierte una queja por defecto de tramitación ante la Jefatura (art. 169 del TUO de la Ley 27444) si no responden. |
 
 **Pendiente:**
-- Confirmar si las fichas de aceite de Bartek se pueden ofertar hoy, para reforzar el punto 2.4.
-- Agregar el número del documento de respuesta de Perú Compras.
-- Firmar y enviar la carta.
+- **~23/10/2026:** vencen los 5 días hábiles. Si no responden, presentar ese mismo día una **queja por defecto de tramitación** al Jefe de Perú Compras (Jorge Alberto Zapata Gallo), con copia al OCI de Perú Compras y a la Defensoría.
+- Confirmar si las fichas de aceite de Bartek se pueden ofertar hoy (punto 2.5 de la carta).
+- Confirmar la fecha exacta de envío y el número de registro de la carta, para la queja.
+
+**Comunicado N.° 040-2026 (24/07/2026):**
+- Firma del acuerdo hasta el 31/07/2026; de forma excepcional, hasta el 07/08/2026.
+- Fichas nuevas: se pueden registrar en los **últimos 10 días de cada mes**.
+- **No ordena** bloquear fichas ya ofertadas ni fija un plazo para que Perú Compras formalice el acuerdo.
+
+### 1.1-A. Fichas SQP-MIKROVAL (desinfectantes) observadas
+
+| Ficha | Producto | Estado |
+|---|---|---|
+| 2007274 | MIKROVAL_001 – frasco 1 L | OBSERVADO |
+| 2298513 | MIKROVAL_002 – galón 3.785 L | OBSERVADO |
+| 2298514 | MIKROVAL_003 – bidón 5 gal | OBSERVADO |
+
+La observación es del **29/09/2026, 5:24 p. m.**: *"Ficha-producto subsanada en un periodo no habilitado… Podrán ser subsanadas, una vez que el Representante de marca cuente con Acuerdo de Adhesión debidamente formalizado por ambas partes y en los plazos establecidos por el Comunicado 40-2026."*
+
+**Pendiente:**
+- No volver a subsanar hasta que se formalice el acuerdo.
+- Guardar capturas de las 3 fichas.
+- **Verificar la fecha en que se envió la subsanación.** Si fue entre el 21 y el 30/09/2026, estaba dentro del periodo habilitado del Comunicado 040-2026 y la observación se puede reclamar.
+- Enviar una ampliación corta por correo a acreditacionrm@perucompras.gob.pe (la carta MOBIS ya salió sin este punto). Pedir que, al formalizar el acuerdo, se habilite de inmediato la subsanación de las 3 fichas.
 
 **Nota:** la acreditación MOBIS **no incluye la silla giratoria**.
 
@@ -132,7 +154,7 @@ RUC 20611290757 · Gerente General: Diana Aydee Araujo Izique (DNI 40167540)
 |---|---|
 | 21/10/2026 | Respuesta de la Municipalidad de Huacho a la Carta 07102026-1 |
 | 23/10/2026 | Respuesta de Perú Compras a DAXSA (S-2026-47807) |
-| 5 días hábiles desde el envío | Respuesta de la DCEME a la Carta Bartek 16102026-1 (MOBIS) |
+| **23/10/2026** | Respuesta de la DCEME a la Carta Bartek 16102026-1 (MOBIS). Si no hay respuesta: queja a la Jefatura |
 | **05/11/2026** | Informe del Alcalde a la Defensoría (Exp. 000304-2026) |
 | 06/11/2026 | Seguimiento con la Defensoría si no hay respuesta |
 | 19/11/2026 | Vence el plazo del reclamo pp4c2lqjm (Libro de Reclamaciones, Bartek) |
