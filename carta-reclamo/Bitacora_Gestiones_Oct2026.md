@@ -1,7 +1,7 @@
 **BITÁCORA DE GESTIONES**
 **Cartas y reclamos ante entidades públicas – octubre de 2026**
 
-Actualizada al 19 de octubre de 2026
+Actualizada al 20 de octubre de 2026
 
 ---
 
@@ -118,12 +118,15 @@ RUC 20608727583 · Titular Gerente: Abby Gabriela Bueno Saldaña (DNI 48054321)
 | 09/10/2026 | 09102026-2 | Defensoría: información complementaria y cargos (por WhatsApp) | Enviada (43 folios) |
 | 14/10/2026 | — | **La Defensoría emite el Oficio 0308-2026-DP/OD-LIMAPROV al Alcalde** | Exp. SID **0103-2026-000304** |
 | 15/10/2026 | — | La Defensoría admite la queja | **Exp. 000304-2026** |
+| 19/10/2026 | — | **Perú Compras emite el Oficio N.° 006464-2026-PERÚ COMPRAS-DCEME a la Contraloría**, en respuesta a la Carta 07102026-5. Firma el Director Neal Martín Maura Gonzales, con copia al Alcalde y a ABS. Confirma el estado ENTREGADA C/CONFORMIDAD RETRASADA y remite el caso según el lit. e) del num. 9.6 de la Directiva 005-2025 | Exp. PC 2026-0008933 atendido |
 
 **Pendiente:**
 - ~21/10/2026: vence el plazo de respuesta de la Municipalidad a la Carta 07102026-1.
 - **~05/11/2026:** vence el plazo de 15 días hábiles del Alcalde ante la Defensoría.
 - **06/11/2026:** si no hay respuesta, hacer seguimiento con la Oficina Defensorial de Lima Provincias (cel. 995 955 356 · odlimaprovincias@defensoria.gob.pe), citando el Exp. 000304-2026.
 - Cuando la Municipalidad responda, contestar con los datos correctos: SIAF 3618-2022 y el giro no recibido.
+- Enviar el Oficio 006464-2026 como información nueva a la Defensoría (Exp. 000304-2026) y al OCI (ocimunihuacho@gmail.com).
+- Si la Contraloría pide información, citar el Oficio 006464-2026 y el cargo de la denuncia del 07/10/2026.
 
 ---
 
