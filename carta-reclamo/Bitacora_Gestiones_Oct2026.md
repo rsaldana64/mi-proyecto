@@ -13,7 +13,7 @@ Actualizada al 20 de octubre de 2026
 | Servicios Bartek | 3 fichas SQP-MIKROVAL observadas | Perú Compras – DCEME | Fichas 2007274, 2298513, 2298514 | Bloqueadas por el Acuerdo de Adhesión | Sujeto a la formalización |
 | Servicios Bartek | HACCP vencido Palma Real | Perú Compras – DCEME | Exp. 2026-0002646 (denuncia original) | Carta enviada | Sin respuesta |
 | ABS Bienes & Servicios | Acreditación marca CAMPECHANO | Perú Compras – DCEME | Exp. 2026-0005612 | Carta enviada | Sin respuesta |
-| ABS Bienes & Servicios | Deuda Municipalidad de Huacho (S/ 5,223.39) | Alcalde, OCI, Defensoría, Contraloría, Perú Compras | Ver sección 3 | En trámite | **05/11/2026** (plazo del Alcalde ante la Defensoría) |
+| ABS Bienes & Servicios | Deuda Municipalidad de Huacho (S/ 5,223.39) | Alcalde, OCI, Defensoría, Contraloría, Perú Compras | Ver sección 3 | En trámite. Perú Compras lo remitió a la Contraloría (Oficio 6464-2026, 19/10) | **05/11/2026** (plazo del Alcalde ante la Defensoría) |
 | Importadora DAXSA | Confirmación de acreditación FD FORESTALES DAXSA | Perú Compras – DCEME | **S-2026-47807** | Carta enviada | ~23/10/2026 |
 
 ---
@@ -155,6 +155,7 @@ RUC 20611290757 · Gerente General: Diana Aydee Araujo Izique (DNI 40167540)
 
 | Fecha aprox. | Qué revisar |
 |---|---|
+| 20/10/2026 | Enviar el Oficio 6464-2026 a la Defensoría (Exp. 000304-2026) y al OCI de Huacho |
 | 21/10/2026 | Respuesta de la Municipalidad de Huacho a la Carta 07102026-1 |
 | 23/10/2026 | Respuesta de Perú Compras a DAXSA (S-2026-47807) |
 | **23/10/2026** | Respuesta de la DCEME a la Carta Bartek 16102026-1 (MOBIS). Si no hay respuesta: queja a la Jefatura |
