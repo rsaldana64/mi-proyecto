@@ -149,6 +149,18 @@ RUC 20611290757 · Gerente General: Diana Aydee Araujo Izique (DNI 40167540)
 
 ---
 
+## 4-A. FORESTALES DAXSA S.A.C. – Constancia de prestación de AGRO RURAL
+
+Firma: Richard Saldaña Ávalos (Licitaciones) · Correo: licitaciones@forestalesdaxsa.com.pe
+
+| Fecha | Hecho |
+|---|---|
+| 08/09/2023 | AGRO RURAL adjudica por contratación directa (Carta 420-2023-MIDAGRI-DVDAFIR-AGRORURAL-DE/UA, D.U. 030-2023) los *rollizos de madera para el Kit de Bofedales*: 7 ítems, ~S/ 2,983,680. |
+| 28/09/2026 | Carta 00256-2026: pide copia del contrato u OC y la constancia de prestación. Código **AGRORURAL_157613C2**; CUT **00026785-2026** (registro del 29/09). |
+| 26/10/2026 | Sin respuesta. Se prepara la **Carta de reiteración N.° 26102026** (6 folios): invoca el art. 169.1 del Reglamento de la Ley 30225 (constancia de prestación) y el TUO de la Ley 27806 (acceso a la información, 10 días hábiles). Advierte queja y apelación ante el Tribunal de Transparencia. |
+
+**Pendiente:** enviar la reiteración y anotar su registro. Si no hay respuesta en 10 días hábiles (~10/11/2026): apelar ante el Tribunal de Transparencia y presentar una queja al superior.
+
 ## 5. OTROS
 
 - **Lotización Jacinto:** se trabajó en otra sesión ("Hola", 6 y 7/10/2026). Se hizo un plan de marketing en Excel (Facebook, Instagram, TikTok y WhatsApp). El archivo no quedó en este repositorio.
