@@ -18,11 +18,11 @@ c) Reclamo en el Libro de Reclamaciones, código **pp4c2lqjm**, del 07 de octubr
 
 ---
 
-**SERVICIOS BARTEK E.I.R.L.**, con RUC N.° **20610900551**, representada por su Gerente, **FAVIOLA ORIHUELA PIMENTEL**, identificada con DNI N.° **10790531**, presenta **QUEJA POR DEFECTO DE TRAMITACIÓN** contra la DCEME, conforme al **artículo 169 del TUO de la Ley N.° 27444**, Ley del Procedimiento Administrativo General, aprobado por Decreto Supremo N.° 004-2019-JUS, por la **paralización** del trámite de formalización de nuestro **Acuerdo de Adhesión**.
+**SERVICIOS BARTEK E.I.R.L.**, con RUC N.° **20610900551**, representada por su Gerente, **FAVIOLA MATILDE ORIHUELA PIMENTEL**, identificada con DNI N.° **10790531**, presenta **QUEJA POR DEFECTO DE TRAMITACIÓN** contra la DCEME, conforme al **artículo 169 del TUO de la Ley N.° 27444**, Ley del Procedimiento Administrativo General, aprobado por Decreto Supremo N.° 004-2019-JUS, por la **paralización** del trámite de formalización de nuestro **Acuerdo de Adhesión**.
 
 ## 1. HECHOS
 
-**1.1.** Somos representante de marca acreditado de **MOBIS** (Mobiliario en General) y **SQP-MIKROVAL** (Desinfectantes), según el **Formato N.° 397-2025-ARM**, del 10 de junio de 2025.
+**1.1.** Somos representante de marca acreditado de las marcas **MOBIS** (Mobiliario en General) y **SQP-MIKROVAL** (Desinfectantes), según el **Formato N.° 397-2025-ARM**, del 10 de junio de 2025, así como de las marcas **DELISOYA** y **SRB**. El Acuerdo de Adhesión es **uno solo** y lo suscribe SERVICIOS BARTEK E.I.R.L. como representante de marca, por lo que su falta de formalización **afecta a todas nuestras marcas**.
 
 **1.2.** Mediante el **Comunicado N.° 040-2026-PERÚ COMPRAS**, se requirió a los representantes de marca suscribir el Acuerdo de Adhesión **hasta el 31 de julio de 2026**, y de manera excepcional hasta el **07 de agosto de 2026**. **Cumplimos.**
 
@@ -48,7 +48,7 @@ c) Reclamo en el Libro de Reclamaciones, código **pp4c2lqjm**, del 07 de octubr
 
 **2.4. Se vulnera el derecho de petición** (artículo 2, inciso 20 de la Constitución), porque nuestra Carta N.° 16102026-1 no fue respondida.
 
-**2.5. El perjuicio es directo y continuo.** Cada mes que pasa, los proveedores no pueden ofertar nuestras 22 fichas MOBIS ni podemos subsanar las 3 fichas SQP-MIKROVAL, **por una demora que no nos es imputable**.
+**2.5. El perjuicio es directo y continuo.** Cada mes que pasa, los proveedores no pueden ofertar nuestras 22 fichas MOBIS ni podemos subsanar las 3 fichas SQP-MIKROVAL, **por una demora que no nos es imputable**. Según la propia DCEME, mientras no culmine el trámite **no podemos continuar con la gestión de nuestras Fichas-Producto**, lo que alcanza también a las marcas **DELISOYA** y **SRB**.
 
 ## 3. PETITORIO
 
@@ -56,7 +56,7 @@ Solicitamos a su Jefatura que, conforme al **artículo 169.2 del TUO de la Ley N
 
 1. **Declare FUNDADA** la queja.
 2. **Ordene a la DCEME formalizar de inmediato** el Acuerdo de Adhesión de SERVICIOS BARTEK E.I.R.L., otorgando la autorización que le corresponda a su Jefatura.
-3. **Ordene habilitar** nuestras **22 Fichas-Producto MOBIS** para la presentación de ofertas, y **permitir de inmediato la subsanación** de las **3 fichas SQP-MIKROVAL**, sin esperar al siguiente periodo del cronograma.
+3. **Ordene habilitar** nuestras **22 Fichas-Producto MOBIS** para la presentación de ofertas, y **permitir de inmediato la subsanación** de las **3 fichas SQP-MIKROVAL**, sin esperar al siguiente periodo del cronograma, y **restablecer la gestión de las Fichas-Producto de todas nuestras marcas** (MOBIS, SQP-MIKROVAL, DELISOYA y SRB).
 4. **Disponga un periodo extraordinario** de presentación de ofertas para nuestras fichas, por los periodos perdidos.
 5. **Disponga el deslinde de responsabilidades** de los servidores a cargo del trámite, conforme al **artículo 261 del TUO de la Ley N.° 27444**, remitiendo lo actuado a la Secretaría Técnica de los Procedimientos Administrativos Disciplinarios.
 6. **Ordene responder por escrito** nuestra Carta N.° 16102026-1.
@@ -68,7 +68,7 @@ Atentamente,
 ![](anexos/firma_faviola.png){width=5.5cm}
 
 **SERVICIOS BARTEK E.I.R.L.** – RUC N.° 20610900551
-Gerente: Faviola Orihuela Pimentel
+Gerente: Faviola Matilde Orihuela Pimentel
 Correo: serviciosbartek@gmail.com
 
 **ANEXOS:**
