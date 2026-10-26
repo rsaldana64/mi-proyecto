@@ -15,7 +15,7 @@ Presente.–
 a) Carta N.° 16102026-1-SERVICIOS BARTEK E.I.R.L., del 16 de octubre de 2026 (Anexo 4).
 b) Correo de la DCEME (acreditacionrm@perucompras.gob.pe) del 16 de octubre de 2026 (Anexo 1).
 c) Reclamo en el Libro de Reclamaciones, código **pp4c2lqjm**, del 07 de octubre de 2026.
-d) Listado oficial de Representantes de Marca con Acuerdo de Adhesión, publicado por PERÚ COMPRAS, actualizado al 22 de octubre de 2026 (Anexo 3).
+d) Listado oficial de Representantes de Marca con Acuerdo de Adhesión, publicado por PERÚ COMPRAS, actualizado al 22 de octubre de 2026 – Mobiliario en General y Materiales e Insumos de Limpieza (Anexo 3).
 
 ---
 
@@ -51,7 +51,7 @@ d) Listado oficial de Representantes de Marca con Acuerdo de Adhesión, publicad
 
 **2.5. El perjuicio es directo y continuo.** Cada mes que pasa, los proveedores no pueden ofertar nuestras 22 fichas MOBIS ni podemos subsanar las 3 fichas SQP-MIKROVAL, **por una demora que no nos es imputable**.
 
-**2.6. A nuestros competidores sí se les formalizó el acuerdo.** Según el **listado oficial** de Representantes de Marca con Acuerdo de Adhesión publicado por PERÚ COMPRAS, **actualizado al 22 de octubre de 2026** (Anexo 3), la Entidad ya formalizó el acuerdo de **veinticuatro (24) representantes de marca** del Catálogo Electrónico de **Mobiliario en General (EXT-CE-2025-11)**, en las **mismas categorías** de nuestra acreditación, incluidas marcas competidoras como **MOBISEAT** y **EC ERGOCORP**. **SERVICIOS BARTEK E.I.R.L. no figura**, pese a haber cumplido el mismo plazo. Esto vulnera el principio de **igualdad de trato**: mientras nuestro trámite está paralizado, los proveedores ofertan las marcas de la competencia y no la nuestra.
+**2.6. A nuestros competidores sí se les formalizó el acuerdo.** Según el **listado oficial** de Representantes de Marca con Acuerdo de Adhesión publicado por PERÚ COMPRAS, **actualizado al 22 de octubre de 2026** (Anexo 3), la Entidad ya formalizó el acuerdo de **veinticuatro (24) representantes de marca** del Catálogo Electrónico de **Mobiliario en General (EXT-CE-2025-11)**, en las **mismas categorías** de nuestra acreditación, incluidas marcas competidoras como **MOBISEAT** y **EC ERGOCORP**. Lo mismo ocurre en el Catálogo de **Materiales e Insumos de Limpieza (EXT-CE-2024-3)**: en la categoría **Desinfectantes**, la de SQP-MIKROVAL, ya se formalizó el acuerdo de **cinco (5) representantes de marca** competidores. **SERVICIOS BARTEK E.I.R.L. no figura en ninguno de los dos catálogos**, pese a haber cumplido el mismo plazo. Esto vulnera el principio de **igualdad de trato**: mientras nuestro trámite está paralizado, los proveedores ofertan las marcas de la competencia y no la nuestra.
 
 ## 3. PETITORIO
 
@@ -78,7 +78,7 @@ Correo: serviciosbartek@gmail.com
 
 - **Anexo 1:** Correo de la DCEME del 16 de octubre de 2026.
 - **Anexo 2:** Observaciones del 29/09/2026 a las fichas SQP-MIKROVAL N.° 2007274, 2298513 y 2298514.
-- **Anexo 3:** Listado oficial de Representantes de Marca con Acuerdo de Adhesión – Mobiliario en General (al 22/10/2026).
+- **Anexo 3:** Listado oficial de Representantes de Marca con Acuerdo de Adhesión al 22/10/2026 – Mobiliario en General y Desinfectantes.
 - **Anexo 4:** Carta N.° 16102026-1-SERVICIOS BARTEK E.I.R.L., con sus anexos.
 
 ```{=openxml}
@@ -97,7 +97,9 @@ Correo: serviciosbartek@gmail.com
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
 ```
 
-**ANEXO 3 – Listado oficial de Representantes de Marca con Acuerdo de Adhesión – Mobiliario en General (EXT-CE-2025-11), actualizado al 22/10/2026**
+**ANEXO 3 – Listado oficial de Representantes de Marca con Acuerdo de Adhesión, actualizado al 22/10/2026**
+
+**3.1. Mobiliario en General (EXT-CE-2025-11)**
 
 Fuente: PERÚ COMPRAS, central.perucompras.gob.pe/acuerdos-marco/representante-marca-acuerdo-adhesion.php (122 registros, resumidos por representante de marca). **SERVICIOS BARTEK E.I.R.L. (RUC 20610900551) no figura.**
 
@@ -127,3 +129,15 @@ Fuente: PERÚ COMPRAS, central.perucompras.gob.pe/acuerdos-marco/representante-m
 | 22 | 20611553570 | HERSA DEL PERU E.I.R.L. | Hersa del Peru |
 | 23 | 20612676977 | IMPORTACION ASIA AMERICA S.A.C. | BLUE CHAIR |
 | 24 | 20606732288 | MULTISERVICIOS ALESSIA E.I.R.L. | ALLU |
+
+**3.2. Materiales e Insumos de Limpieza (EXT-CE-2024-3) – categoría Desinfectantes**
+
+Fuente: misma página (165 registros del catálogo). **SERVICIOS BARTEK E.I.R.L. no figura.**
+
+| N.° | RUC | Representante de marca | Marca |
+|---|---------|------------------------|--------------------|
+| 1 | 20550350166 | INDUSTRIA & LABORATORIO SOL S.A.C. | SOLGER |
+| 2 | 20479966355 | PRODUCTOS LAMOSA S.A.C. | MR. BOOG EL ALIADO DE TU LIMPIEZA |
+| 3 | 20334140645 | INDUSTRIAS DALHI S.R.L. | DALHI COMBATIENTES DE LA LIMPIEZA |
+| 4 | 20611606355 | BAYONETT S.A.C. | MULTI CLEANER SPECIAL CARE |
+| 5 | 20349751080 | SERVICIOS SEÑOR DE HUANCA S.A. | LEONSOL |
