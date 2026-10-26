@@ -130,7 +130,8 @@ RUC 20608727583 · Titular Gerente: Abby Gabriela Bueno Saldaña (DNI 48054321)
 - **06/11/2026:** si no hay respuesta, hacer seguimiento con la Oficina Defensorial de Lima Provincias (cel. 995 955 356 · odlimaprovincias@defensoria.gob.pe), citando el Exp. 000304-2026.
 - Cuando la Municipalidad responda, contestar con los datos correctos: SIAF 3618-2022 y el giro no recibido.
 - **20/10/2026:** Perú Compras envía copia del Oficio 6464-2026 a ABS (correspondencia@perucompras.gob.pe) y pide confirmar la recepción. Ese mismo día ABS lo reenvía al OCI de Huacho (19:09).
-- Pendiente: confirmar a Perú Compras la recepción del correo; enviar el Oficio 6464-2026 a la Defensoría (Exp. 000304-2026); pedir al OCI el número y el estado de la solicitud.
+- **26/10/2026 (10:33):** se confirma a Perú Compras la recepción del Oficio 6464-2026.
+- Pendiente: enviar el Oficio 6464-2026 a la Defensoría (Exp. 000304-2026); pedir al OCI el número y el estado de la solicitud.
 - **26/10/2026 (10:35):** se envía el correo de seguimiento al OCI pidiendo el número de registro y el estado de la solicitud.
 - Mesa de partes digital de Perú Compras: https://mesadepartesdigital.perucompras.gob.pe
 - Si la Contraloría pide información, citar el Oficio 006464-2026 y el cargo de la denuncia del 07/10/2026.
