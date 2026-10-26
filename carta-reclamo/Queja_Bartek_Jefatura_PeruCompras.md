@@ -1,6 +1,6 @@
 Lima, 26 de octubre de 2026
 
-**SUMILLA: QUEJA POR DEFECTO DE TRAMITACIÓN**
+**SUMILLA: QUEJA POR DEFECTO DE TRAMITACIÓN – URGENTE**
 
 Señor
 **JORGE ALBERTO ZAPATA GALLO**
@@ -49,7 +49,7 @@ d) Listado oficial de Representantes de Marca con Acuerdo de Adhesión, publicad
 
 **2.4. Se vulnera el derecho de petición** (artículo 2, inciso 20 de la Constitución), porque nuestra Carta N.° 16102026-1 no fue respondida.
 
-**2.5. El perjuicio es directo y continuo.** Cada mes que pasa, los proveedores no pueden ofertar nuestras 22 fichas MOBIS ni podemos subsanar las 3 fichas SQP-MIKROVAL, **por una demora que no nos es imputable**.
+**2.5. El perjuicio es directo y continuo.** Cada mes que pasa, los proveedores no pueden ofertar nuestras 22 fichas MOBIS ni podemos subsanar las 3 fichas SQP-MIKROVAL, **por una demora que no nos es imputable**. El próximo periodo de presentación de ofertas de los proveedores es **del 01 al 09 de noviembre de 2026**: si nuestras fichas no se habilitan antes, **perderemos un mes más**.
 
 **2.6. A nuestros competidores sí se les formalizó el acuerdo.** Según el **listado oficial** de Representantes de Marca con Acuerdo de Adhesión publicado por PERÚ COMPRAS, **actualizado al 22 de octubre de 2026** (Anexo 3), la Entidad ya formalizó el acuerdo de **veinticuatro (24) representantes de marca** del Catálogo Electrónico de **Mobiliario en General (EXT-CE-2025-11)**, en las **mismas categorías** de nuestra acreditación, incluidas marcas competidoras como **MOBISEAT** y **EC ERGOCORP**. Lo mismo ocurre en el Catálogo de **Materiales e Insumos de Limpieza (EXT-CE-2024-3)**: en la categoría **Desinfectantes**, la de SQP-MIKROVAL, ya se formalizó el acuerdo de **cinco (5) representantes de marca** competidores. **SERVICIOS BARTEK E.I.R.L. no figura en ninguno de los dos catálogos**, pese a haber cumplido el mismo plazo. Esto vulnera el principio de **igualdad de trato**: mientras nuestro trámite está paralizado, los proveedores ofertan las marcas de la competencia y no la nuestra.
 
@@ -59,7 +59,7 @@ Solicitamos a su Jefatura que, conforme al **artículo 169.2 del TUO de la Ley N
 
 1. **Declare FUNDADA** la queja.
 2. **Ordene a la DCEME formalizar de inmediato** el Acuerdo de Adhesión de SERVICIOS BARTEK E.I.R.L., otorgando la autorización que le corresponda a su Jefatura.
-3. **Ordene habilitar** nuestras **22 Fichas-Producto MOBIS** para la presentación de ofertas, y **permitir de inmediato la subsanación** de las **3 fichas SQP-MIKROVAL**, sin esperar al siguiente periodo del cronograma.
+3. **Ordene habilitar** nuestras **22 Fichas-Producto MOBIS** para la presentación de ofertas **antes del 01 de noviembre de 2026**, para que los proveedores puedan ofertarlas en el periodo del 01 al 09 de noviembre, y **permitir de inmediato la subsanación** de las **3 fichas SQP-MIKROVAL**, sin esperar al siguiente periodo del cronograma.
 4. **Disponga un periodo extraordinario** de presentación de ofertas para nuestras fichas, por los periodos perdidos.
 5. **Disponga el deslinde de responsabilidades** de los servidores a cargo del trámite, conforme al **artículo 261 del TUO de la Ley N.° 27444**, remitiendo lo actuado a la Secretaría Técnica de los Procedimientos Administrativos Disciplinarios.
 6. **Ordene responder por escrito** nuestra Carta N.° 16102026-1, informando **qué criterio u orden** se ha seguido para formalizar los Acuerdos de Adhesión y **por qué el nuestro no ha sido formalizado**, cuando sí lo fue el de otros representantes de marca del mismo catálogo.
