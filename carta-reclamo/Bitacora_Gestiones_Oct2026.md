@@ -1,7 +1,7 @@
 **BITÁCORA DE GESTIONES**
 **Cartas y reclamos ante entidades públicas – octubre de 2026**
 
-Actualizada al 20 de octubre de 2026
+Actualizada al 26 de octubre de 2026
 
 ---
 
@@ -36,6 +36,8 @@ Acreditada con el **Formato N.° 397-2025-ARM (10/06/2025)**: MOBIS (Butaca para
 - **~23/10/2026:** vencen los 5 días hábiles. Si no responden, presentar ese mismo día una **queja por defecto de tramitación** al Jefe de Perú Compras (Jorge Alberto Zapata Gallo), con copia al OCI de Perú Compras y a la Defensoría.
 - Confirmar si las fichas de aceite de Bartek se pueden ofertar hoy (punto 2.5 de la carta).
 - Confirmar la fecha exacta de envío y el número de registro de la carta, para la queja.
+
+**26/10/2026:** la DCEME no respondió la Carta 16102026-1 dentro de los 5 días hábiles. Se prepara la **queja por defecto de tramitación** al Jefe de Perú Compras, Jorge Alberto Zapata Gallo (art. 169 del TUO de la Ley 27444; 9 folios, con la Carta 16102026-1 como Anexo 3). Debe resolverse en **3 días hábiles**. Pendiente: presentarla y copiar al OCI de Perú Compras y a la Defensoría.
 
 **Comunicado N.° 040-2026 (24/07/2026):**
 - Firma del acuerdo hasta el 31/07/2026; de forma excepcional, hasta el 07/08/2026.
@@ -141,7 +143,9 @@ RUC 20611290757 · Gerente General: Diana Aydee Araujo Izique (DNI 40167540)
 | 09/10/2026 | Carta 09102026-01 a la DCEME. Pide: copia del documento de acreditación, confirmación de su vigencia en el Acuerdo Marco **EXT-CE-2024-16**, credenciales de acceso y los pasos para registrar fichas. La carta se dejó solo con el correo de licitaciones. |
 | Oct. 2026 | Registrada con el N.° **S-2026-47807**. |
 
-**Pendiente:** respuesta en ~10 días hábiles (~23/10/2026). Revisar si también hay que suscribir el Acuerdo de Adhesión.
+**26/10/2026:** no hubo respuesta dentro de los 10 días hábiles. Se prepara la **Carta de reiteración N.° 26102026-01** (8 folios): pide la información en 5 días hábiles y el Acuerdo de Adhesión para firmarlo, y advierte una queja a la Jefatura.
+
+**Pendiente:** enviar la reiteración y anotar su registro.
 
 ---
 
@@ -159,6 +163,8 @@ RUC 20611290757 · Gerente General: Diana Aydee Araujo Izique (DNI 40167540)
 | 21/10/2026 | Respuesta de la Municipalidad de Huacho a la Carta 07102026-1 |
 | 23/10/2026 | Respuesta de Perú Compras a DAXSA (S-2026-47807) |
 | **23/10/2026** | Respuesta de la DCEME a la Carta Bartek 16102026-1 (MOBIS). Si no hay respuesta: queja a la Jefatura |
+| 26/10/2026 | Presentar la queja de Bartek a la Jefatura y la reiteración de DAXSA |
+| ~29/10/2026 | La Jefatura debe resolver la queja de Bartek (3 días hábiles) |
 | **05/11/2026** | Informe del Alcalde a la Defensoría (Exp. 000304-2026) |
 | 06/11/2026 | Seguimiento con la Defensoría si no hay respuesta |
 | 19/11/2026 | Vence el plazo del reclamo pp4c2lqjm (Libro de Reclamaciones, Bartek) |
