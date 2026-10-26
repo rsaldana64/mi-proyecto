@@ -39,7 +39,7 @@ Acreditada con el **Formato N.° 397-2025-ARM (10/06/2025)**: MOBIS (Butaca para
 
 **26/10/2026:** la DCEME no respondió la Carta 16102026-1 dentro de los 5 días hábiles. Se prepara la **queja por defecto de tramitación** al Jefe de Perú Compras, Jorge Alberto Zapata Gallo (art. 169 del TUO de la Ley 27444; 9 folios, con la Carta 16102026-1 como Anexo 3). Debe resolverse en **3 días hábiles**.
 
-**26/10/2026 (10:59):** se presenta la queja como **Carta N.° 26102026-1** (URGENTE, por el periodo de ofertas del 01 al 09/11), con el **registro S-2026-48175**. La Jefatura debe resolver hasta el **29/10/2026**. Pendiente: copia al OCI de Perú Compras y a la Defensoría.
+**26/10/2026 (10:59):** se presenta la queja como **Carta N.° 26102026-1** (URGENTE, por el periodo de ofertas del 01 al 09/11), con el **registro S-2026-48175**. La Jefatura debe resolver hasta el **29/10/2026**. A las 11:03 se informa la queja a la DCEME, respondiendo el correo de acreditacionrm del 16/10. Pendiente: copia al OCI de Perú Compras y a la Defensoría.
 
 **Comunicado N.° 040-2026 (24/07/2026):**
 - Firma del acuerdo hasta el 31/07/2026; de forma excepcional, hasta el 07/08/2026.
