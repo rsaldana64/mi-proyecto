@@ -22,7 +22,7 @@ c) Reclamo en el Libro de Reclamaciones, código **pp4c2lqjm**, del 07 de octubr
 
 ## 1. HECHOS
 
-**1.1.** Somos representante de marca acreditado de las marcas **MOBIS** (Mobiliario en General) y **SQP-MIKROVAL** (Desinfectantes), según el **Formato N.° 397-2025-ARM**, del 10 de junio de 2025, así como de las marcas **DELISOYA** y **SRB**. El Acuerdo de Adhesión es **uno solo** y lo suscribe SERVICIOS BARTEK E.I.R.L. como representante de marca, **no cada marca por separado**.
+**1.1.** Somos representante de marca acreditado de las marcas **MOBIS** (Mobiliario en General) y **SQP-MIKROVAL** (Desinfectantes), según el **Formato N.° 397-2025-ARM**, del 10 de junio de 2025.
 
 **1.2.** Mediante el **Comunicado N.° 040-2026-PERÚ COMPRAS**, se requirió a los representantes de marca suscribir el Acuerdo de Adhesión **hasta el 31 de julio de 2026**, y de manera excepcional hasta el **07 de agosto de 2026**. **Cumplimos.**
 
@@ -50,8 +50,6 @@ c) Reclamo en el Libro de Reclamaciones, código **pp4c2lqjm**, del 07 de octubr
 
 **2.5. El perjuicio es directo y continuo.** Cada mes que pasa, los proveedores no pueden ofertar nuestras 22 fichas MOBIS ni podemos subsanar las 3 fichas SQP-MIKROVAL, **por una demora que no nos es imputable**.
 
-**2.6. Hay un trato distinto sin justificación.** Nuestras marcas **DELISOYA** y **SRB** dependen del **mismo Acuerdo de Adhesión** pendiente y, sin embargo, **operan con normalidad**. Si la falta de formalización fuera la causa, afectaría por igual a todas nuestras marcas. Que solo MOBIS y SQP-MIKROVAL estén bloqueadas vulnera el principio de **igualdad de trato** y exige una explicación.
-
 ## 3. PETITORIO
 
 Solicitamos a su Jefatura que, conforme al **artículo 169.2 del TUO de la Ley N.° 27444**, resuelva esta queja **dentro de los tres (3) días hábiles** siguientes y:
@@ -61,7 +59,7 @@ Solicitamos a su Jefatura que, conforme al **artículo 169.2 del TUO de la Ley N
 3. **Ordene habilitar** nuestras **22 Fichas-Producto MOBIS** para la presentación de ofertas, y **permitir de inmediato la subsanación** de las **3 fichas SQP-MIKROVAL**, sin esperar al siguiente periodo del cronograma.
 4. **Disponga un periodo extraordinario** de presentación de ofertas para nuestras fichas, por los periodos perdidos.
 5. **Disponga el deslinde de responsabilidades** de los servidores a cargo del trámite, conforme al **artículo 261 del TUO de la Ley N.° 27444**, remitiendo lo actuado a la Secretaría Técnica de los Procedimientos Administrativos Disciplinarios.
-6. **Ordene responder por escrito** nuestra Carta N.° 16102026-1, explicando **por qué MOBIS y SQP-MIKROVAL reciben un trato distinto** al de nuestras marcas DELISOYA y SRB, que dependen del mismo Acuerdo de Adhesión.
+6. **Ordene responder por escrito** nuestra Carta N.° 16102026-1.
 
 Pondremos esta queja en conocimiento del **Órgano de Control Institucional de PERÚ COMPRAS** y de la **Defensoría del Pueblo**, y nos reservamos el derecho de reclamar los **daños y perjuicios** ocasionados (artículo 260 del TUO de la Ley N.° 27444).
 
