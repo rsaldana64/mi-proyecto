@@ -38,7 +38,7 @@ Por ello, **SOLICITAMOS** que, en un plazo **no mayor de cinco (5) días hábile
 1. La información pedida en nuestra Carta N.° 09102026-01.
 2. El **Acuerdo de Adhesión** para su suscripción o, si no corresponde, el motivo.
 
-Formulamos esta reiteración en ejercicio del **derecho de petición** (artículo 2, inciso 20 de la Constitución Política del Perú) y del **TUO de la Ley N.° 27444**, cuyo **artículo 142** establece que los plazos obligan por igual a la Administración. De no recibir respuesta, presentaremos **queja por defecto de tramitación** ante la Jefatura de PERÚ COMPRAS, conforme al **artículo 169** de la misma norma.
+Formulamos esta reiteración en ejercicio del **derecho de petición** (artículo 2, inciso 20 de la Constitución Política del Perú) y conforme al **TUO de la Ley N.° 27444**, Ley del Procedimiento Administrativo General. Agradecemos de antemano su pronta atención.
 
 Atentamente,
 
