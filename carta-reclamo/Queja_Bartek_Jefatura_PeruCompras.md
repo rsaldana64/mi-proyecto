@@ -1,12 +1,14 @@
 Lima, 26 de octubre de 2026
 
-**SUMILLA: QUEJA POR DEFECTO DE TRAMITACIÓN – URGENTE**
+**CARTA N.° 26102026-1-SERVICIOS BARTEK E.I.R.L.**
 
 Señor
 **JORGE ALBERTO ZAPATA GALLO**
 Jefe de la Central de Compras Públicas – **PERÚ COMPRAS**
 Av. República de Panamá N.° 3629, San Isidro, Lima
 Presente.–
+
+**ASUNTO:** QUEJA POR DEFECTO DE TRAMITACIÓN – **URGENTE**. Paralización de la formalización del Acuerdo de Adhesión de SERVICIOS BARTEK E.I.R.L. y bloqueo de sus Fichas-Producto **MOBIS** y **SQP-MIKROVAL**, ante el periodo de ofertas del 01 al 09 de noviembre de 2026.
 
 **QUEJADO:** Dirección de Compras Electrónicas y Modalidades Eficientes – DCEME.
 
@@ -16,8 +18,6 @@ a) Carta N.° 16102026-1-SERVICIOS BARTEK E.I.R.L., del 16 de octubre de 2026 (A
 b) Correo de la DCEME (acreditacionrm@perucompras.gob.pe) del 16 de octubre de 2026 (Anexo 1).
 c) Reclamo en el Libro de Reclamaciones, código **pp4c2lqjm**, del 07 de octubre de 2026.
 d) Listado oficial de Representantes de Marca con Acuerdo de Adhesión, publicado por PERÚ COMPRAS, actualizado al 22 de octubre de 2026 – Mobiliario en General y Materiales e Insumos de Limpieza (Anexo 3).
-
----
 
 **SERVICIOS BARTEK E.I.R.L.**, con RUC N.° **20610900551**, representada por su Gerente, **FAVIOLA MATILDE ORIHUELA PIMENTEL**, identificada con DNI N.° **10790531**, presenta **QUEJA POR DEFECTO DE TRAMITACIÓN** contra la DCEME, conforme al **artículo 169 del TUO de la Ley N.° 27444**, Ley del Procedimiento Administrativo General, aprobado por Decreto Supremo N.° 004-2019-JUS, por la **paralización** del trámite de formalización de nuestro **Acuerdo de Adhesión**.
 
@@ -68,17 +68,15 @@ Pondremos esta queja en conocimiento del **Órgano de Control Institucional de P
 
 Atentamente,
 
-![](anexos/firma_faviola.png){width=5.5cm}
+![](anexos/firma_faviola.png){width=4.8cm}
 
-**SERVICIOS BARTEK E.I.R.L.** – RUC N.° 20610900551
-Gerente: Faviola Matilde Orihuela Pimentel
-Correo: serviciosbartek@gmail.com
+**SERVICIOS BARTEK E.I.R.L.** – RUC N.° 20610900551 · Correo: serviciosbartek@gmail.com
 
 **ANEXOS:**
 
 - **Anexo 1:** Correo de la DCEME del 16 de octubre de 2026.
-- **Anexo 2:** Observaciones del 29/09/2026 a las fichas SQP-MIKROVAL N.° 2007274, 2298513 y 2298514.
-- **Anexo 3:** Listado oficial de Representantes de Marca con Acuerdo de Adhesión al 22/10/2026 – Mobiliario en General y Desinfectantes.
+- **Anexo 2:** Observaciones a las fichas SQP-MIKROVAL (29/09/2026).
+- **Anexo 3:** Listado oficial de Representantes de Marca con Acuerdo de Adhesión (22/10/2026).
 - **Anexo 4:** Carta N.° 16102026-1-SERVICIOS BARTEK E.I.R.L., con sus anexos.
 
 ```{=openxml}
