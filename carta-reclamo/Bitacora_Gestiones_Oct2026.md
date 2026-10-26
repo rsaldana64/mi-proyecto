@@ -9,7 +9,7 @@ Actualizada al 26 de octubre de 2026
 
 | Empresa | Caso | Entidad | Registro | Estado | Próximo vencimiento |
 |---|---|---|---|---|---|
-| Servicios Bartek | Fichas MOBIS no visibles | Perú Compras – DCEME | Reclamo **pp4c2lqjm** | Respondido el 16/10; Carta 16102026-1 enviada | **~23/10/2026** (5 días hábiles) |
+| Servicios Bartek | Fichas MOBIS no visibles | Perú Compras – DCEME | Reclamo **pp4c2lqjm** · Queja **Exp. 2026-0009479** | Queja presentada el 26/10 | **~23/10/2026** (5 días hábiles) |
 | Servicios Bartek | 3 fichas SQP-MIKROVAL observadas | Perú Compras – DCEME | Fichas 2007274, 2298513, 2298514 | Bloqueadas por el Acuerdo de Adhesión | Sujeto a la formalización |
 | Servicios Bartek | HACCP vencido Palma Real | Perú Compras – DCEME | Exp. 2026-0002646 (denuncia original) | Carta enviada | Sin respuesta |
 | ABS Bienes & Servicios | Acreditación marca CAMPECHANO | Perú Compras – DCEME | Exp. 2026-0005612 | Carta enviada | Sin respuesta |
@@ -39,7 +39,7 @@ Acreditada con el **Formato N.° 397-2025-ARM (10/06/2025)**: MOBIS (Butaca para
 
 **26/10/2026:** la DCEME no respondió la Carta 16102026-1 dentro de los 5 días hábiles. Se prepara la **queja por defecto de tramitación** al Jefe de Perú Compras, Jorge Alberto Zapata Gallo (art. 169 del TUO de la Ley 27444; 9 folios, con la Carta 16102026-1 como Anexo 3). Debe resolverse en **3 días hábiles**.
 
-**26/10/2026 (10:59):** se presenta la queja como **Carta N.° 26102026-1** (URGENTE, por el periodo de ofertas del 01 al 09/11), con el **registro S-2026-48175**. La Jefatura debe resolver hasta el **29/10/2026**. A las 11:03 se informa la queja a la DCEME, respondiendo el correo de acreditacionrm del 16/10. Pendiente: copia al OCI de Perú Compras y a la Defensoría.
+**26/10/2026 (10:59):** se presenta la queja como **Carta N.° 26102026-1** (URGENTE, por el periodo de ofertas del 01 al 09/11), con el **registro S-2026-48175**. A las 11:16 fue aprobada como **Expediente N.° 2026-0009479**. La Jefatura debe resolver hasta el **29/10/2026**. A las 11:03 se informa la queja a la DCEME, respondiendo el correo de acreditacionrm del 16/10. Pendiente: copia al OCI de Perú Compras y a la Defensoría.
 
 **Comunicado N.° 040-2026 (24/07/2026):**
 - Firma del acuerdo hasta el 31/07/2026; de forma excepcional, hasta el 07/08/2026.
