@@ -1,7 +1,7 @@
 **BITÁCORA DE GESTIONES**
 **Cartas y reclamos ante entidades públicas – octubre de 2026**
 
-Actualizada al 26 de octubre de 2026
+Actualizada al 27 de octubre de 2026
 
 ---
 
@@ -165,6 +165,8 @@ Firma: Richard Saldaña Ávalos (Licitaciones) · Correo: licitaciones@forestale
 | 28/09/2026 | Carta 00256-2026: pide copia del contrato u OC y la constancia de prestación. Código **AGRORURAL_157613C2**; CUT **00026785-2026** (registro del 29/09). |
 | 26/10/2026 | Sin respuesta. Se prepara la **Carta de reiteración N.° 26102026** (6 folios): invoca el art. 169.1 del Reglamento de la Ley 30225 (constancia de prestación) y el TUO de la Ley 27806 (acceso a la información, 10 días hábiles). Advierte queja y apelación ante el Tribunal de Transparencia. |
 
+**27/10/2026:** el formulario de la mesa de partes virtual de AGRO RURAL no valida el correo. Alternativas: usar un Gmail, llamar al (511) 205-8030 o presentarla en físico en Jr. Cahuide 805, Jesús María.
+
 **Pendiente:** enviar la reiteración y anotar su registro. Si no hay respuesta en 10 días hábiles (~10/11/2026): apelar ante el Tribunal de Transparencia y presentar una queja al superior.
 
 ## 5. OTROS
@@ -182,8 +184,11 @@ Firma: Richard Saldaña Ávalos (Licitaciones) · Correo: licitaciones@forestale
 | **23/10/2026** | Respuesta de la DCEME a la Carta Bartek 16102026-1 (MOBIS). Si no hay respuesta: queja a la Jefatura |
 | 26/10/2026 | Presentar la queja de Bartek a la Jefatura y la reiteración de DAXSA |
 | **29/10/2026** | La Jefatura debe resolver la queja de Bartek (S-2026-48175) |
+| 30/10/2026 | Si la Jefatura no resolvió la queja de Bartek (Exp. 2026-0009479): escalar al OCI de Perú Compras y a la Defensoría |
+| 02/11/2026 | Huacho: si el OCI no responde, reenviar el seguimiento con copia a raguilar@contraloria.gob.pe y enviar un escrito a la Contraloría (estado de la denuncia del 07/10 e inacción del OCI) |
 | **05/11/2026** | Informe del Alcalde a la Defensoría (Exp. 000304-2026) |
-| 06/11/2026 | Seguimiento con la Defensoría si no hay respuesta |
+| 06/11/2026 | Informar a la Defensoría que el Alcalde no respondió la Carta 07102026-1 (plazo vencido ~21/10) y preguntar si respondió el Oficio 0308-2026 |
+| Después | Huacho: carta notarial de pago con intereses; evaluar conciliación o arbitraje con un abogado |
 | 19/11/2026 | Vence el plazo del reclamo pp4c2lqjm (Libro de Reclamaciones, Bartek) |
 
 ---
