@@ -1,7 +1,7 @@
 **BITÁCORA DE GESTIONES**
 **Cartas y reclamos ante entidades públicas – octubre de 2026**
 
-Actualizada al 27 de octubre de 2026
+Actualizada al 3 de noviembre de 2026
 
 ---
 
@@ -174,6 +174,12 @@ Firma: Richard Saldaña Ávalos (Licitaciones) · Correo: licitaciones@forestale
 - **Lotización Jacinto:** se trabajó en otra sesión ("Hola", 6 y 7/10/2026). Se hizo un plan de marketing en Excel (Facebook, Instagram, TikTok y WhatsApp). El archivo no quedó en este repositorio.
 
 ---
+
+## 5-A. ESTADO AL 03/11/2026 – NADIE RESPONDIÓ
+
+- **MOBIS:** la Jefatura no resolvió la queja (Exp. 2026-0009479; vencía el 29/10) y el periodo de ofertas del 01 al 09/11 ya empezó. Se prepara la **Carta 03112026-1 al OCI de Perú Compras** (14 folios, con la queja como Anexo 2).
+- **Huacho:** el OCI no responde. Se prepara la **Carta 03112026-1 de ABS a la Contraloría** (5 folios): pide el estado de la denuncia del 07/10 y que la Contraloría intervenga ante la inacción del OCI.
+- **DAXSA:** sin respuesta a la reiteración 2026-48184 (vencía ~02/11). Falta definir el siguiente paso.
 
 ## 6. AGENDA DE VENCIMIENTOS
 
