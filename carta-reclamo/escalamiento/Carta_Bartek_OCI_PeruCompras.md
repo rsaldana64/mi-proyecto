@@ -27,9 +27,9 @@ De nuestra consideración:
 | 31/07/2026 | 10:34 – Remite el Acuerdo de Adhesión | **15:33 – Lo devuelve suscrito (mismo día)** |
 | 07/08/2026 | Formula observaciones (5 días hábiles) | **13/08/2026 – Subsana (dentro del plazo)** |
 | 20/08/2026 | Formula nuevas observaciones al Anexo 1 | **24/08/2026 – Subsana (dentro del plazo)** |
-| 09/09/2026 | Pide **suscribir nuevamente** el acuerdo **por el cambio de titularidad de la DCEME** | **10/09/2026** – Advierte que no llegó el Anexo 1. **14/09/2026**: documentación presentada, según el Memorando N.° 001922-2026-DCEME |
+| 09/09/2026 | Pide **suscribir nuevamente** el acuerdo **por el cambio de titularidad de la DCEME** | **10/09/2026** – Advierte que no llegó el Anexo 1 |
 
-La nueva suscripción **no se debió a un error nuestro**, sino al **cambio de titular de la propia DCEME**. Según el Memorando N.° 001922-2026-PERÚ COMPRAS-DCEME, la DCEME tiene por presentada nuestra documentación el **14/09/2026**. Desde esa fecha **no hay ninguna observación pendiente**: la DCEME reconoce, en su correo del 16/10/2026 y en el Memorando N.° 001922-2026-PERÚ COMPRAS-DCEME, que la formalización está **pendiente por parte de PERÚ COMPRAS**. Aun contando desde el 14/09/2026, el plazo máximo de **treinta (30) días hábiles** del **artículo 39 del TUO de la Ley N.° 27444** **venció el 27/10/2026**. Mientras tanto, nuestras **22 Fichas-Producto MOBIS** en estado OFERTADO no están habilitadas para los proveedores, y nuestras **3 fichas SQP-MIKROVAL** no pueden subsanarse.
+La nueva suscripción **no se debió a un error nuestro**, sino a **cambios internos de PERÚ COMPRAS**: el formato del acuerdo que se nos remitió cambió **tres veces de firmante** por parte de la Entidad: la directora (e) **Lisseth Pilar Ramsden Ramos** (R.A. N.° 000060-2026-PERÚ COMPRAS-OA), el director (e) **Elvis Renzo Revilla Llerena** (R.A. N.° 000066-2026-PERÚ COMPRAS-OA) y el director **Neal Martín Maura Gonzales** (R.J. N.° 000107-2026-PERÚ COMPRAS-JEFATURA) (Anexo 1.5). La parte del acuerdo es **la Entidad**, no la persona que la representa: los cambios de su personal **no pueden trasladarse al administrado** ni reiniciar el trámite, conforme al principio de **predictibilidad o confianza legítima** (numeral 1.15 del artículo IV del Título Preliminar del TUO de la Ley N.° 27444). Según el Memorando N.° 001922-2026-DCEME, nuestra documentación está presentada desde el **14/09/2026** y la formalización está **pendiente por parte de PERÚ COMPRAS**. Aun contando desde el 14/09/2026, el plazo máximo de **treinta (30) días hábiles** del **artículo 39 del TUO de la Ley N.° 27444** **venció el 27/10/2026**. Mientras tanto, nuestras **22 Fichas-Producto MOBIS** en estado OFERTADO no están habilitadas para los proveedores, y nuestras **3 fichas SQP-MIKROVAL** no pueden subsanarse.
 
 **2.** Según el **listado oficial** publicado por PERÚ COMPRAS, actualizado al 22/10/2026, la Entidad **ya formalizó el acuerdo de 24 representantes de marca** del Catálogo de Mobiliario en General y de **5** de la categoría Desinfectantes, en las mismas categorías que la nuestra. **El nuestro no.**
 
@@ -51,12 +51,8 @@ Atentamente,
 
 **ANEXOS:**
 
-- **Anexo 1:** Correos del trámite del Acuerdo de Adhesión (31/07, 13/08, 24/08 y 10/09/2026), registro de la queja (S-2026-48175) y número de expediente (2026-0009479).
+- **Anexo 1:** Correos del trámite del Acuerdo de Adhesión (31/07, 13/08, 24/08 y 10/09/2026), las tres versiones del acuerdo, registro de la queja (S-2026-48175) y número de expediente (2026-0009479).
 - **Anexo 2:** Carta N.° 26102026-1 (queja), con sus anexos.
-
-```{=openxml}
-<w:p><w:r><w:br w:type="page"/></w:r></w:p>
-```
 
 **ANEXO 1 – Trámite del Acuerdo de Adhesión**
 
@@ -84,7 +80,19 @@ Atentamente,
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
 ```
 
-**1.5. Registro de la queja y número de expediente**
+**1.5. Las tres versiones del Acuerdo de Adhesión remitidas por PERÚ COMPRAS, con tres firmantes distintos de la DCEME**
+
+![](anexos/acuerdo_v1_ramsden.png){width=12cm}
+
+![](anexos/acuerdo_v2_revilla.png){width=12cm}
+
+![](anexos/acuerdo_v3_maura.png){width=12cm}
+
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
+
+**1.6. Registro de la queja y número de expediente**
 
 ![](anexos/registro_S-2026-48175.png){width=15cm}
 
