@@ -20,7 +20,16 @@ De nuestra consideración:
 
 **SERVICIOS BARTEK E.I.R.L.**, con RUC N.° **20610900551**, representada por su Gerente, **FAVIOLA MATILDE ORIHUELA PIMENTEL**, identificada con DNI N.° **10790531**, pone en conocimiento de su despacho los siguientes hechos, para que, en el marco de sus competencias, **evalúe las acciones de control** que correspondan.
 
-**1.** El **31/07/2026 a las 10:34**, la Dirección de Compras Electrónicas y Modalidades Eficientes (**DCEME**) nos remitió el Acuerdo de Adhesión, y **ese mismo día, a las 15:33**, lo devolvimos **suscrito**, dentro del plazo del Comunicado N.° 040-2026-PERÚ COMPRAS (Anexo 1). Luego atendimos las subsanaciones requeridas; según el Memorando N.° 001922-2026-PERÚ COMPRAS-DCEME, la documentación quedó completa el **14/09/2026**. La propia DCEME reconoce, en su correo del 16/10/2026 y en dicho memorando, que nuestra empresa **cumplió con presentar el Acuerdo de Adhesión** y que su formalización está **pendiente por parte de PERÚ COMPRAS**. Aun contando desde el 14/09/2026, el plazo máximo de **treinta (30) días hábiles** del **artículo 39 del TUO de la Ley N.° 27444** **venció el 27/10/2026**. Mientras tanto, nuestras **22 Fichas-Producto MOBIS** en estado OFERTADO no están habilitadas para los proveedores, y nuestras **3 fichas SQP-MIKROVAL** no pueden subsanarse.
+**1.** Nuestra empresa **cumplió cada paso del trámite dentro de los plazos** que fijó la propia DCEME (Anexo 1):
+
+| Fecha | PERÚ COMPRAS (DCEME) | SERVICIOS BARTEK E.I.R.L. |
+|---|---|---|
+| 31/07/2026 | 10:34 – Remite el Acuerdo de Adhesión | **15:33 – Lo devuelve suscrito (mismo día)** |
+| 07/08/2026 | Formula observaciones (5 días hábiles) | **13/08/2026 – Subsana (dentro del plazo)** |
+| 20/08/2026 | Formula nuevas observaciones al Anexo 1 | **24/08/2026 – Subsana (dentro del plazo)** |
+| 09/09/2026 | Pide **suscribir nuevamente** el acuerdo **por el cambio de titularidad de la DCEME** | **10/09/2026** – Advierte que no llegó el Anexo 1; **14/09/2026** – Presenta todo |
+
+La nueva suscripción del 14/09/2026 **no se debió a un error nuestro**, sino al **cambio de titular de la propia DCEME**. Desde esa fecha **no hay ninguna observación pendiente**: la DCEME reconoce, en su correo del 16/10/2026 y en el Memorando N.° 001922-2026-PERÚ COMPRAS-DCEME, que la formalización está **pendiente por parte de PERÚ COMPRAS**. Aun contando desde el 14/09/2026, el plazo máximo de **treinta (30) días hábiles** del **artículo 39 del TUO de la Ley N.° 27444** **venció el 27/10/2026**. Mientras tanto, nuestras **22 Fichas-Producto MOBIS** en estado OFERTADO no están habilitadas para los proveedores, y nuestras **3 fichas SQP-MIKROVAL** no pueden subsanarse.
 
 **2.** Según el **listado oficial** publicado por PERÚ COMPRAS, actualizado al 22/10/2026, la Entidad **ya formalizó el acuerdo de 24 representantes de marca** del Catálogo de Mobiliario en General y de **5** de la categoría Desinfectantes, en las mismas categorías que la nuestra. **El nuestro no.**
 
@@ -42,22 +51,40 @@ Atentamente,
 
 **ANEXOS:**
 
-- **Anexo 1:** Envío del Acuerdo de Adhesión suscrito (31/07/2026), registro de la queja (S-2026-48175) y número de expediente (2026-0009479).
+- **Anexo 1:** Correos del trámite del Acuerdo de Adhesión (31/07, 13/08, 24/08 y 10/09/2026), registro de la queja (S-2026-48175) y número de expediente (2026-0009479).
 - **Anexo 2:** Carta N.° 26102026-1 (queja), con sus anexos.
 
 ```{=openxml}
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
 ```
 
-**ANEXO 1 – Envío del Acuerdo de Adhesión suscrito (31/07/2026)**
+**ANEXO 1 – Trámite del Acuerdo de Adhesión**
 
-![](anexos/envio_acuerdo_31072026.png){width=15.5cm}
+**1.1. 31/07/2026 – Envío del Acuerdo de Adhesión suscrito, el mismo día de su recepción**
+
+![](anexos/envio_acuerdo_31072026.png){width=11.5cm}
+
+**1.2. 13/08/2026 – Subsanación de las observaciones del 07/08/2026**
+
+![](anexos/subsanacion_13082026.png){width=11.5cm}
 
 ```{=openxml}
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
 ```
 
-**ANEXO 1 (cont.) – Registro de la queja y número de expediente**
+**1.3. 24/08/2026 – Subsanación de las observaciones del 20/08/2026**
+
+![](anexos/subsanacion_24082026.png){width=13.5cm}
+
+**1.4. 09/09/2026 – PERÚ COMPRAS pide suscribir nuevamente por el cambio de titularidad de la DCEME; 10/09/2026 – respuesta de nuestra empresa**
+
+![](anexos/resuscripcion_09092026.png){width=13.5cm}
+
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
+
+**1.5. Registro de la queja y número de expediente**
 
 ![](anexos/registro_S-2026-48175.png){width=15cm}
 
