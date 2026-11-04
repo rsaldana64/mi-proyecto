@@ -2,10 +2,10 @@ Lima, 03 de noviembre de 2026
 
 **CARTA N.° 03112026-1-SERVICIOS BARTEK E.I.R.L.**
 
-Señor(a)
-**JEFE(A) DEL ÓRGANO DE CONTROL INSTITUCIONAL**
-Central de Compras Públicas – **PERÚ COMPRAS**
-Av. República de Panamá N.° 3629, San Isidro, Lima
+Señores
+**CONTRALORÍA GENERAL DE LA REPÚBLICA**
+Jr. Camilo Carrillo N.° 114, Jesús María, Lima
+**Atención:** Órgano de Control Institucional de la Central de Compras Públicas – **PERÚ COMPRAS**
 Presente.–
 
 **ASUNTO:** SOLICITUD DE INTERVENCIÓN URGENTE – Queja por defecto de tramitación **no resuelta** (Exp. N.° 2026-0009479) y paralización de la formalización del Acuerdo de Adhesión de SERVICIOS BARTEK E.I.R.L., durante el periodo de ofertas del 01 al 09 de noviembre de 2026.
@@ -18,7 +18,7 @@ c) Reclamo en el Libro de Reclamaciones, código **pp4c2lqjm**, del 07/10/2026, 
 
 De nuestra consideración:
 
-**SERVICIOS BARTEK E.I.R.L.**, con RUC N.° **20610900551**, representada por su Gerente, **FAVIOLA MATILDE ORIHUELA PIMENTEL**, identificada con DNI N.° **10790531**, pone en conocimiento de su despacho los siguientes hechos, para que, en el marco de sus competencias, **evalúe las acciones de control** que correspondan.
+**SERVICIOS BARTEK E.I.R.L.**, con RUC N.° **20610900551**, representada por su Gerente, **FAVIOLA MATILDE ORIHUELA PIMENTEL**, identificada con DNI N.° **10790531**, pone en conocimiento de su institución los siguientes hechos ocurridos en la Central de Compras Públicas – PERÚ COMPRAS, para que, por intermedio de su Órgano de Control Institucional o directamente, **evalúe las acciones de control** que correspondan.
 
 **1.** Nuestra empresa **cumplió cada paso del trámite dentro de los plazos** que fijó la propia DCEME (Anexo 1):
 
@@ -37,7 +37,7 @@ La nueva suscripción **no se debió a un error nuestro**, sino a **cambios inte
 
 **4.** El periodo de presentación de ofertas de los proveedores **ya comenzó (01 al 09 de noviembre de 2026)** y nuestras fichas **siguen sin estar habilitadas**. Cada día que pasa es un perjuicio directo para nuestra empresa y una restricción a la libre concurrencia en el catálogo.
 
-**SOLICITAMOS** a su despacho que:
+**SOLICITAMOS** a su institución que:
 
 1. **Evalúe las acciones de control o preventivas** que correspondan ante la **falta de resolución de la queja** dentro del plazo legal y la **paralización** del trámite de formalización de nuestro Acuerdo de Adhesión.
 2. **Verifique** el criterio seguido por la DCEME para formalizar los Acuerdos de Adhesión de otros representantes de marca del mismo catálogo y no el nuestro.
@@ -51,8 +51,8 @@ Atentamente,
 
 **ANEXOS:**
 
-- **Anexo 1:** Correos del trámite del Acuerdo de Adhesión (31/07, 13/08, 24/08 y 10/09/2026), las tres versiones del acuerdo, registro de la queja (S-2026-48175) y número de expediente (2026-0009479).
-- **Anexo 2:** Carta N.° 26102026-1 (queja), con sus anexos.
+- **Anexo 1:** Trámite del Acuerdo de Adhesión y registro de la queja.
+- **Anexo 2:** Carta N.° 26102026-1 (queja).
 
 **ANEXO 1 – Trámite del Acuerdo de Adhesión**
 
