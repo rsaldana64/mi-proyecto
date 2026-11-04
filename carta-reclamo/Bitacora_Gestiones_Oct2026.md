@@ -178,6 +178,7 @@ Firma: Richard Saldaña Ávalos (Licitaciones) · Correo: licitaciones@forestale
 ## 5-A. ESTADO AL 03/11/2026 – NADIE RESPONDIÓ
 
 - **MOBIS:** la Jefatura no resolvió la queja (Exp. 2026-0009479; vencía el 29/10) y el periodo de ofertas del 01 al 09/11 ya empezó. Se prepara la **Carta 03112026-1 al OCI de Perú Compras** (14 folios, con la queja como Anexo 2).
+- **04/11/2026: Memorando N.° 001922-2026-DCEME** (29/10), dirigido al Libro de Reclamaciones: el reclamo pp4c2lqjm **"no es aceptado"**. Afirma que Bartek presentó el acuerdo el **14/09/2026**. Precisión: Bartek lo devolvió **suscrito el 31/07/2026 a las 15:33**, el mismo día que Perú Compras lo envió (10:34). El 14/09 corresponde a la última subsanación. Aun desde el 14/09, los 30 días hábiles (art. 39 del TUO de la Ley 27444) vencieron el 27/10. Se corrigió la carta al OCI de Perú Compras con estos datos y se agregó el correo del 31/07 como anexo (15 folios).
 - **Huacho:** el OCI no responde. Se prepara la **Carta 03112026-1 de ABS a la Contraloría** (5 folios): pide el estado de la denuncia del 07/10 y que la Contraloría intervenga ante la inacción del OCI.
 - **DAXSA:** sin respuesta a la reiteración 2026-48184 (vencía ~02/11). Falta definir el siguiente paso.
 
