@@ -11,7 +11,7 @@ Actualizada al 9 de noviembre de 2026
 |---|---|---|---|---|---|
 | Servicios Bartek | Fichas MOBIS no visibles | Perú Compras – DCEME | Reclamo **pp4c2lqjm** · Queja **Exp. 2026-0009479** | Queja presentada el 26/10 | **~23/10/2026** (5 días hábiles) |
 | Servicios Bartek | 3 fichas SQP-MIKROVAL observadas | Perú Compras – DCEME | Fichas 2007274, 2298513, 2298514 | Bloqueadas por el Acuerdo de Adhesión | Sujeto a la formalización |
-| Servicios Bartek | HACCP vencido Palma Real | Perú Compras – DCEME | Exp. 2026-0002646 (denuncia original) | Carta enviada | Sin respuesta |
+| Servicios Bartek | HACCP vencido Palma Real | Perú Compras – DCEME | Exp. 2026-0002646 · Oficio 7620-2026 | **RESUELTO: fichas retiradas (09/11)** | — |
 | ABS Bienes & Servicios | Acreditación marca CAMPECHANO | Perú Compras – DCEME | Exp. 2026-0005612 | Carta enviada | Sin respuesta |
 | ABS Bienes & Servicios | Deuda Municipalidad de Huacho (S/ 5,223.39) | Alcalde, OCI, Defensoría, Contraloría, Perú Compras | Ver sección 3 | En trámite. Perú Compras lo remitió a la Contraloría (Oficio 6464-2026, 19/10) | **05/11/2026** (plazo del Alcalde ante la Defensoría) |
 | Importadora DAXSA | Confirmación de acreditación FD FORESTALES DAXSA | Perú Compras – DCEME | **S-2026-47807** · Reiteración **2026-48184** | Reiteración presentada el 26/10 | ~02/11/2026 |
@@ -74,7 +74,7 @@ La observación es del **29/09/2026, 5:24 p. m.**: *"Ficha-producto subsanada en
 
 **06/11/2026 – Oficio N.° 007620-2026-PERÚ COMPRAS-DCEME** (Exp. SGD 2026-0008901), dirigido a AGROINDUSTRIAS INTEGRADAS S.A. (marca PALMA REAL), con copia a Bartek. La DCEME identifica un **presunto incumplimiento del literal f) del numeral 8.6** de la Directiva 004-2023 (no mantener actualizadas las Fichas-producto) y, conforme al **numeral 8.7.1**, le da **5 días hábiles para sus descargos**. Si no los presenta o no acredita la actualización, **evaluará suspender su acreditación**. **Es lo que pidió Bartek.**
 
-**Pendiente:** después del plazo (~16/11/2026), revisar si la ficha de PALMA REAL fue actualizada con un HACCP vigente o suspendida. Si no hay novedades, pedir por escrito el resultado del procedimiento.
+**09/11/2026: las fichas de PALMA REAL ya no figuran en el CEAM de PERÚ COMPRAS (retiradas).** Caso resuelto a favor de Bartek. Guardar una captura con fecha como respaldo.
 
 ---
 
