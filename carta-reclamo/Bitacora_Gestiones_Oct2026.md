@@ -1,7 +1,7 @@
 **BITÁCORA DE GESTIONES**
 **Cartas y reclamos ante entidades públicas – octubre de 2026**
 
-Actualizada al 7 de noviembre de 2026
+Actualizada al 9 de noviembre de 2026
 
 ---
 
@@ -72,7 +72,9 @@ La observación es del **29/09/2026, 5:24 p. m.**: *"Ficha-producto subsanada en
 | 19/08/2026 | Se reitera por correo a administrador.acuerdos. Sin respuesta. |
 | 07/10/2026 | Se prepara y envía la carta de reclamo. Se basa solo en las normas incumplidas: ficha técnica (numeral 6.2) y Directiva 004-2023 (numerales 7.10, 8.6 a/f y 8.7). |
 
-**Pendiente:** esperar la respuesta.
+**06/11/2026 – Oficio N.° 007620-2026-PERÚ COMPRAS-DCEME** (Exp. SGD 2026-0008901), dirigido a AGROINDUSTRIAS INTEGRADAS S.A. (marca PALMA REAL), con copia a Bartek. La DCEME identifica un **presunto incumplimiento del literal f) del numeral 8.6** de la Directiva 004-2023 (no mantener actualizadas las Fichas-producto) y, conforme al **numeral 8.7.1**, le da **5 días hábiles para sus descargos**. Si no los presenta o no acredita la actualización, **evaluará suspender su acreditación**. **Es lo que pidió Bartek.**
+
+**Pendiente:** después del plazo (~16/11/2026), revisar si la ficha de PALMA REAL fue actualizada con un HACCP vigente o suspendida. Si no hay novedades, pedir por escrito el resultado del procedimiento.
 
 ---
 
