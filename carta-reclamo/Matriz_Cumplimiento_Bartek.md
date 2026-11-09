@@ -1,7 +1,7 @@
 **MATRIZ DE CUMPLIMIENTO – SERVICIOS BARTEK E.I.R.L.**
 **Obligaciones como representante de marca acreditado ante PERÚ COMPRAS**
 
-RUC 20610900551 · Marcas: **MOBIS** (Mobiliario en General), **SQP-MIKROVAL** (Desinfectantes), **DELISOYA** (Aceite vegetal), **SRB**
+RUC 20610900551 · Marcas: **MOBIS** (Mobiliario en General), **SQP-MIKROVAL** (Desinfectantes), **DELISOYA** (Aceite vegetal), **SRB** (Neumáticos vehículos pesados)
 Preparado el 9 de noviembre de 2026 · Uso interno
 
 ---
@@ -25,7 +25,7 @@ Antes de suspender, PERÚ COMPRAS da **5 días hábiles para descargos** (8.7.1)
 |---|----------------|-------------------------|-------|
 | a | Cumplir las normas que regulan el rubro de los productos (sanitarias, técnicas, etc.) | Tener vigentes **todos** los documentos de habilitación que exige cada ficha técnica (registro sanitario, HACCP, autorizaciones). | **ALTO** – 30 días fijos |
 | b | Respetar la propiedad industrial | Usar solo marcas con registro INDECOPI vigente y autorización del titular. | **ALTO** – 30 días fijos |
-| c | Cumplir los compromisos del Anexo 1 (solicitud de acreditación) | Registrar fichas **solo en las categorías acreditadas**. MOBIS: butaca para auditorio, butaca para espera y silla plegable (**no** silla giratoria ni silla fija). | **ALTO** – 30 días fijos |
+| c | Cumplir los compromisos del Anexo 1 (solicitud de acreditación) | Registrar fichas **solo en las categorías acreditadas** (ver la alerta del punto 3). | **ALTO** – 30 días fijos |
 | d | Remitir la información que pida PERÚ COMPRAS, completa y **dentro de plazo** | Revisar **a diario** serviciosbartek@gmail.com. Responder siempre antes del vencimiento. | Medio |
 | e | Remitir material vigente (catálogos, folletos, manuales) | Tener folletos y fichas técnicas actualizados de cada producto. | Medio |
 | f | **Mantener actualizadas las Fichas-producto** | Revisar cada ficha: documentos vencidos, fotos, contenido y precios. **Es la causal que se aplicó a PALMA REAL.** | **ALTO** |
@@ -40,7 +40,20 @@ Antes de suspender, PERÚ COMPRAS da **5 días hábiles para descargos** (8.7.1)
 | o | Mantener vigente la documentación de titularidad de la marca | Controlar las fechas de vencimiento de los certificados INDECOPI y de las autorizaciones de uso. | **ALTO** |
 | p | Otras de la normativa | Acuerdo de Adhesión, Directiva N.° 005-2025 (v2), comunicados de PERÚ COMPRAS. | Medio |
 
-## 3. PUNTOS CRÍTICOS POR MARCA
+## 3. EL ACUERDO DE ADHESIÓN FIRMADO
+
+El acuerdo **no agrega obligaciones nuevas**: remite al numeral 8.6 (cláusula 2.3). Pero hay cuatro puntos que cuidar:
+
+- **Cláusula 2.2:** Bartek es **responsable de la veracidad, integridad, consistencia y actualización** de cada ficha. Esto refuerza la obligación del literal f).
+- **Cláusula 6 – Notificaciones:** son válidas desde que llegan a la **bandeja de notificaciones de la Plataforma de los CEAM** y/o al correo registrado, **aunque nadie las lea**. Bartek debe revisar **ambas cada día** y configurar el correo para que nada se vaya a spam. Un oficio no leído hace correr los 5 días de descargos igual.
+- **Cláusula 3:** estar acreditado **no garantiza la permanencia** de las fichas en el catálogo.
+- **Cláusula 5:** las controversias sobre la acreditación las resuelve **PERÚ COMPRAS**.
+
+**ALERTA – Categorías de MOBIS en el Anexo del acuerdo.** El Anexo firmado incluye para MOBIS **cinco** categorías: silla fija, silla giratoria, butaca para auditorio, butaca para espera y silla plegable. Pero el **Formato N.° 397-2025-ARM** solo acredita **tres**: butaca para auditorio, butaca para espera y silla plegable. El 20/08/2026 PERÚ COMPRAS observó que no se deben consignar categorías sin acreditación vigente.
+- **Si Bartek tiene otro formato que acredite silla fija y silla giratoria:** tenerlo a la mano.
+- **Si no lo tiene:** el Anexo contiene dos categorías sin acreditación. Eso puede **explicar la demora** en formalizar el acuerdo y exponer a Bartek a una observación por **declaración inexacta** (cláusula 7 y fiscalización posterior, numeral 7.6). Conviene **corregirlo de inmediato** con PERÚ COMPRAS, antes de que lo detecten ellos.
+
+## 4. PUNTOS CRÍTICOS POR MARCA
 
 **DELISOYA (aceite vegetal) – PRIORIDAD 1.** Es un alimento: la ficha técnica exige, en sus documentos de habilitación, el **registro sanitario** y la **validación del Plan HACCP** vigentes de la planta productora (COMERCIAL INVICTUS S.A.C.). La validación HACCP de DIGESA **dura dos años**. **Es exactamente lo que Bartek denunció de PALMA REAL**: un competidor puede revisar la ficha de DELISOYA con la misma lupa.
 - Verificar hoy la fecha de vencimiento del HACCP y del registro sanitario que figuran en cada ficha DELISOYA (DELI20221201 a DELI20221205).
@@ -54,9 +67,9 @@ Antes de suspender, PERÚ COMPRAS da **5 días hábiles para descargos** (8.7.1)
 - No registrar fichas fuera de las tres categorías acreditadas.
 - Revisar que las fichas tengan sus certificados y fichas técnicas vigentes, y que la autorización del titular de la marca siga vigente.
 
-**SRB.** Aplicar la misma revisión: categoría acreditada, registro INDECOPI, autorización del titular y documentos de habilitación de la ficha.
+**SRB (neumáticos para vehículos pesados).** Aplicar la misma revisión: categoría acreditada, registro INDECOPI, autorización del titular y los documentos técnicos que exija la ficha (homologaciones o certificados de los neumáticos).
 
-## 4. CONTROL DE VENCIMIENTOS (llenar y revisar cada mes)
+## 5. CONTROL DE VENCIMIENTOS (llenar y revisar cada mes)
 
 | Marca | Documento | N.° | Vence | Responsable |
 |--------|-------------------------|----|-----|------|
@@ -70,9 +83,9 @@ Antes de suspender, PERÚ COMPRAS da **5 días hábiles para descargos** (8.7.1)
 | Bartek | Vigencia de poder del representante legal | | | |
 | Bartek | RUC activo y habido | | | |
 
-## 5. RUTINA RECOMENDADA
+## 6. RUTINA RECOMENDADA
 
-1. **Diario:** revisar serviciosbartek@gmail.com y la mesa de partes digital. Cualquier oficio con plazo se responde **antes** del vencimiento.
+1. **Diario:** revisar la **bandeja de notificaciones de la Plataforma de los CEAM**, serviciosbartek@gmail.com (incluido spam) y la mesa de partes digital. Cualquier oficio con plazo se responde **antes** del vencimiento.
 2. **Mensual:** revisar la tabla de vencimientos, la Ficha RUC y las fichas publicadas en el buscador del CEAM.
 3. **Ante cualquier cambio** (gerente, correo, titular, registro de marca): avisar a PERÚ COMPRAS dentro de 10 o 15 días hábiles, según el caso.
 4. **Si llega un oficio del numeral 8.7.1:** responder con descargos y documentos en los **5 días hábiles**.
