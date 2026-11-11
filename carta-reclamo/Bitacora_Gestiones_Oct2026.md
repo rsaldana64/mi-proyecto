@@ -12,7 +12,7 @@ Actualizada al 11 de noviembre de 2026
 | Servicios Bartek | Fichas MOBIS no visibles | Perú Compras – DCEME | Reclamo **pp4c2lqjm** · Queja **Exp. 2026-0009479** | Queja presentada el 26/10 | **~23/10/2026** (5 días hábiles) |
 | Servicios Bartek | 3 fichas SQP-MIKROVAL observadas | Perú Compras – DCEME | Fichas 2007274, 2298513, 2298514 | Bloqueadas por el Acuerdo de Adhesión | Sujeto a la formalización |
 | Servicios Bartek | HACCP vencido Palma Real | Perú Compras – DCEME | Exp. 2026-0002646 · Oficio 7620-2026 | **RESUELTO: fichas retiradas (09/11)** | — |
-| ABS Bienes & Servicios | Acreditación marca CAMPECHANO | Perú Compras – DCEME | Exp. 2026-0005612 · Formato 216-2026-ARM | **NO ACREDITADO (06/11)** | ~27/11/2026 (plazo de recurso) |
+| ABS Bienes & Servicios | Acreditación marca CAMPECHANO | Perú Compras – DCEME | Exp. 2026-0005612 · Formato 216-2026-ARM | **NO ACREDITADO (notificado el 11/11)** | **02/12/2026** (plazo de recurso; presentar antes del 27/11 por prudencia) |
 | ABS Bienes & Servicios | Deuda Municipalidad de Huacho (S/ 5,223.39) | Alcalde, OCI, Defensoría, Contraloría, Perú Compras | Ver sección 3 | En trámite. Perú Compras lo remitió a la Contraloría (Oficio 6464-2026, 19/10) | **05/11/2026** (plazo del Alcalde ante la Defensoría) |
 | Importadora DAXSA | Confirmación de acreditación FD FORESTALES DAXSA | Perú Compras – DCEME | **S-2026-47807** · Reiteración **2026-48184** | Reiteración presentada el 26/10 | ~02/11/2026 |
 
@@ -92,7 +92,7 @@ RUC 20608727583 · Titular Gerente: Abby Gabriela Bueno Saldaña (DNI 48054321)
 
 **06/11/2026 – Oficio N.° 007622-2026-DCEME y Formato N.° 216-2026-ARM: CAMPECHANO NO ACREDITADO** (Azúcar y Arroz pilado). Motivo: la marca está registrada en copropiedad a nombre de **dos personas naturales**, no de STYWI S.A.C., y la vigencia de poder de STYWI no acredita facultades otorgadas por los titulares (numerales 7.6 y 11.2 de la Directiva 004-2023).
 
-**Para tener en cuenta:** cabe reconsideración o apelación en **15 días hábiles** (≈ hasta el **27/11/2026**). La vía recomendada es una **reconsideración con prueba nueva**: una Carta de Acreditación (Anexo 4) firmada por **ambos titulares**, o un poder de los dos. También se puede presentar una nueva solicitud más adelante.
+**Para tener en cuenta:** cabe reconsideración o apelación en **15 días hábiles**. El correo de notificación llegó el **11/11/2026**, así que el plazo **vence el 02/12/2026**. Por prudencia, conviene presentar antes del **27/11**, por si Perú Compras cuenta la notificación desde el 06/11 (fecha del oficio). La vía recomendada es una **reconsideración con prueba nueva**: una Carta de Acreditación (Anexo 4) firmada por **ambos titulares**, o un poder de los dos. También se puede presentar una nueva solicitud más adelante.
 
 ---
 
