@@ -58,7 +58,9 @@ El acuerdo **no agrega obligaciones nuevas**: remite al numeral 8.6 (cláusula 2
 ## 4. PUNTOS CRÍTICOS POR MARCA
 
 **DELISOYA (aceite vegetal) – PRIORIDAD 1.** Es un alimento: la ficha técnica exige, en sus documentos de habilitación, el **registro sanitario** y la **validación del Plan HACCP** vigentes de la planta productora (COMERCIAL INVICTUS S.A.C.). La validación HACCP de DIGESA **dura dos años**. **Es exactamente lo que Bartek denunció de PALMA REAL**: un competidor puede revisar la ficha de DELISOYA con la misma lupa.
-- Verificar hoy la fecha de vencimiento del HACCP y del registro sanitario que figuran en cada ficha DELISOYA (DELI20221201 a DELI20221205).
+- **Revisado el 11/11/2026:** las 5 fichas (DELI20221201 a DELI20221205) declaran el **registro sanitario C1001422N/NACMIV, vigente hasta el 15/08/2027**, que cubre la marca DELISOYA, y la **validación HACCP del Exp. 75539-2025-CH (R.D. N.° 7262-2025, del 23/09/2025), vigente hasta el 23/09/2027**, para la línea de envasado de aceite de soya. **Están en regla.**
+- **Punto a aclarar con el productor:** el registro sanitario consigna el establecimiento en Jr. Monsefú 912 (Lima), mientras que el HACCP y la ficha indican la planta de Huachipa (Lurigancho). Pedir a Comercial Invictus la constancia de que comunicó a DIGESA el cambio de establecimiento, y adjuntar a las fichas una **consulta actualizada** del registro sanitario en DIGESA (la que figura es del 19/12/2023).
+- **Renovaciones:** pedir al productor que inicie la reinscripción del registro sanitario **antes de febrero de 2027** y la renovación del HACCP **antes de marzo de 2027**, para actualizar las fichas sin quedar en descubierto.
 - Si alguno está por vencer o vencido: pedir al productor el documento renovado y **solicitar la actualización de la ficha** antes de que alguien lo reporte.
 
 **SQP-MIKROVAL (desinfectantes).** Fichas 2007274, 2298513 y 2298514 observadas, a la espera del Acuerdo de Adhesión.
@@ -75,8 +77,8 @@ El acuerdo **no agrega obligaciones nuevas**: remite al numeral 8.6 (cláusula 2
 
 | Marca | Documento | N.° | Vence | Responsable |
 |--------|-------------------------|----|-----|------|
-| DELISOYA | Validación Plan HACCP (DIGESA) | | | |
-| DELISOYA | Registro sanitario | | | |
+| DELISOYA | Validación Plan HACCP (DIGESA) – R.D. N.° 7262-2025/DCEA/DIGESA/SA (Exp. 75539-2025-CH), del 23/09/2025 | 75539-2025-CH | **23/09/2027** | Productor (Comercial Invictus) |
+| DELISOYA | Registro sanitario (DIGESA), del 15/08/2022 | C1001422N/NACMIV | **15/08/2027** | Productor (Comercial Invictus) |
 | DELISOYA | Certificado INDECOPI / autorización del titular | | | |
 | SQP-MIKROVAL | Autorización sanitaria de la ficha | | | |
 | SQP-MIKROVAL | Certificado INDECOPI / autorización del titular | | | |
