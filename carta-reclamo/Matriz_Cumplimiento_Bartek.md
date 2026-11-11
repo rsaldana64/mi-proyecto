@@ -93,5 +93,6 @@ El acuerdo **no agrega obligaciones nuevas**: remite al numeral 8.6 (cláusula 2
 2. **Mensual:** revisar la tabla de vencimientos, la Ficha RUC y las fichas publicadas en el buscador del CEAM.
 3. **Ante cualquier cambio** (gerente, correo, titular, registro de marca): avisar a PERÚ COMPRAS dentro de 10 o 15 días hábiles, según el caso.
 4. **Si llega un oficio del numeral 8.7.1:** responder con descargos y documentos en los **5 días hábiles**.
+5. **Al denunciar a otro representante de marca:** pedir por escrito la **reserva de identidad** de Bartek frente al denunciado, o presentarlo como **denuncia informativa** (Ley 27444), sin pedir que lo notifiquen. Las directivas de PERÚ COMPRAS no protegen al denunciante; en el caso PALMA REAL, Bartek fue puesto en copia.
 
 *Base normativa: Directiva N.° 004-2023-PERÚ COMPRAS (R.J. N.° 000085-2023-PERÚ COMPRAS-JEFATURA), numerales 7.6, 7.10, 8.5.2, 8.6 y 8.7; Reglamento de la Ley N.° 32069, artículo 276.1; Directiva N.° 005-2025-PERÚ COMPRAS (v2) y Acuerdo de Adhesión.*
