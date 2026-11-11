@@ -17,6 +17,8 @@ Bartek logró que PERÚ COMPRAS abriera el procedimiento del **numeral 8.7.1** c
 | Literales **a), b) o c)** del numeral 8.6 | Suspensión **fija de 30 días calendario** en la categoría (8.7.3) |
 | Literales **d) a p)** del numeral 8.6 | Suspensión **hasta 30 días calendario o hasta superar el incumplimiento**, lo que ocurra después (8.7.4) |
 
+**Además, sin aviso previo:** según el **literal c) del numeral 8.1.2 de la Directiva N.° 005-2025-PERÚ COMPRAS (v2)**, la DCEME puede **excluir temporal o permanentemente** las fichas que incumplan su estructura, como resultado de su **propio monitoreo**. Así lo hizo con PALMA REAL (Oficio N.° 007611-2026: exclusión temporal por HACCP vencido) **el mismo día** en que le pidió descargos. Las fichas pueden desaparecer del catálogo **antes** de cualquier descargo.
+
 Antes de suspender, PERÚ COMPRAS da **5 días hábiles para descargos** (8.7.1). **Ese plazo nunca debe vencer sin respuesta.** Durante la suspensión no se pueden registrar, actualizar ni gestionar fichas en esa categoría (8.7.2).
 
 ## 2. OBLIGACIONES DEL NUMERAL 8.6 Y QUÉ DEBE HACER BARTEK
