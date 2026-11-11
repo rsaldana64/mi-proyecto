@@ -74,7 +74,7 @@ La observación es del **29/09/2026, 5:24 p. m.**: *"Ficha-producto subsanada en
 
 **06/11/2026 – Oficio N.° 007620-2026-PERÚ COMPRAS-DCEME** (Exp. SGD 2026-0008901), dirigido a AGROINDUSTRIAS INTEGRADAS S.A. (marca PALMA REAL), con copia a Bartek. La DCEME identifica un **presunto incumplimiento del literal f) del numeral 8.6** de la Directiva 004-2023 (no mantener actualizadas las Fichas-producto) y, conforme al **numeral 8.7.1**, le da **5 días hábiles para sus descargos**. Si no los presenta o no acredita la actualización, **evaluará suspender su acreditación**. **Es lo que pidió Bartek.**
 
-**09/11/2026: las fichas de PALMA REAL ya no figuran en el CEAM de PERÚ COMPRAS (retiradas).** Caso resuelto a favor de Bartek. Captura del buscador del CEAM (categoría Aceite vegetal: 10 fichas ofertadas, ninguna de PALMA REAL) guardada en `anexos_haccp/ceam_aceite_vegetal_09112026.png`.
+**09/11/2026: las fichas de PALMA REAL ya no figuran en el CEAM de PERÚ COMPRAS (retiradas).** Caso resuelto a favor de Bartek. **10/11/2026:** el reclamo del Libro de Reclamaciones **12vcr5e70** (del 07/10/2026, por falta de respuesta al Exp. 2026-0002646) fue **ACEPTADO**, con disculpas, según el **Memorando N.° 1988-2026-PERÚ COMPRAS-DCEME**. Captura del buscador del CEAM (categoría Aceite vegetal: 10 fichas ofertadas, ninguna de PALMA REAL) guardada en `anexos_haccp/ceam_aceite_vegetal_09112026.png`.
 
 ---
 
