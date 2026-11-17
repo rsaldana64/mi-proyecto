@@ -92,7 +92,9 @@ RUC 20608727583 · Titular Gerente: Abby Gabriela Bueno Saldaña (DNI 48054321)
 
 **06/11/2026 – Oficio N.° 007622-2026-DCEME y Formato N.° 216-2026-ARM: CAMPECHANO NO ACREDITADO** (Azúcar y Arroz pilado). Motivo: la marca está registrada en copropiedad a nombre de **dos personas naturales**, no de STYWI S.A.C., y la vigencia de poder de STYWI no acredita facultades otorgadas por los titulares (numerales 7.6 y 11.2 de la Directiva 004-2023).
 
-**Para tener en cuenta:** cabe reconsideración o apelación en **15 días hábiles**. El correo de notificación llegó el **11/11/2026**, así que el plazo **vence el 02/12/2026**. Por prudencia, conviene presentar antes del **27/11**, por si Perú Compras cuenta la notificación desde el 06/11 (fecha del oficio). La vía recomendada es una **reconsideración con prueba nueva**: una Carta de Acreditación (Anexo 4) firmada por **ambos titulares**, o un poder de los dos. También se puede presentar una nueva solicitud más adelante.
+**Para tener en cuenta:** cabe reconsideración o apelación en **15 días hábiles**. El correo de notificación llegó el **11/11/2026**, así que el plazo **vence el 02/12/2026**. Por prudencia, conviene presentar antes del **27/11**, por si Perú Compras cuenta la notificación desde el 06/11 (fecha del oficio).
+
+**17/11/2026:** el Anexo 4 corregido (firmado por los dos titulares en copropiedad, cada uno con su DNI y domicilio) fue enviado a los titulares para su firma. Al recibirlo con las copias de sus DNI, se arma y presenta el recurso de reconsideración (escrito + Anexo 4 + DNI), sin repetir los demás anexos. La vía recomendada es una **reconsideración con prueba nueva**: una Carta de Acreditación (Anexo 4) firmada por **ambos titulares**, o un poder de los dos. También se puede presentar una nueva solicitud más adelante.
 
 ---
 
