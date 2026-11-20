@@ -12,7 +12,7 @@ Actualizada al 11 de noviembre de 2026
 | Servicios Bartek | Fichas MOBIS no visibles | Perú Compras – DCEME | Reclamo **pp4c2lqjm** · Queja **Exp. 2026-0009479** | Queja presentada el 26/10 | **~23/10/2026** (5 días hábiles) |
 | Servicios Bartek | 3 fichas SQP-MIKROVAL observadas | Perú Compras – DCEME | Fichas 2007274, 2298513, 2298514 | Bloqueadas por el Acuerdo de Adhesión | Sujeto a la formalización |
 | Servicios Bartek | HACCP vencido Palma Real | Perú Compras – DCEME | Exp. 2026-0002646 · Oficio 7620-2026 | **RESUELTO: fichas retiradas (09/11)** | — |
-| ABS Bienes & Servicios | Acreditación marca CAMPECHANO | Perú Compras – DCEME | Exp. 2026-0005612 · Formato 216-2026-ARM | NO ACREDITADO → **reconsideración presentada (S-2026-48820, 19/11)** | Resolución ~05/01/2027 |
+| ABS Bienes & Servicios | Acreditación marca CAMPECHANO | Perú Compras – DCEME | Exp. 2026-0005612 · Formato 216-2026-ARM | NO ACREDITADO → **reconsideración presentada (Exp. 2026-0010368, 19/11)** | Resolución ~05/01/2027 |
 | ABS Bienes & Servicios | Deuda Municipalidad de Huacho (S/ 5,223.39) | Alcalde, OCI, Defensoría, Contraloría, Perú Compras | Ver sección 3 | En trámite. Perú Compras lo remitió a la Contraloría (Oficio 6464-2026, 19/10) | **05/11/2026** (plazo del Alcalde ante la Defensoría) |
 | Importadora DAXSA | Confirmación de acreditación FD FORESTALES DAXSA | Perú Compras – DCEME | **S-2026-47807** · Reiteración **2026-48184** | Reiteración presentada el 26/10 | ~02/11/2026 |
 
@@ -96,7 +96,7 @@ RUC 20608727583 · Titular Gerente: Abby Gabriela Bueno Saldaña (DNI 48054321)
 
 **17/11/2026:** el Anexo 4 corregido (firmado por los dos titulares en copropiedad, cada uno con su DNI y domicilio) fue enviado a los titulares para su firma. Al recibirlo con las copias de sus DNI, se arma y presenta el recurso de reconsideración (escrito + Anexo 4 + DNI), sin repetir los demás anexos.
 
-**20/11/2026:** se recibe la Carta de Acreditación (Anexo 4) **firmada por ambos titulares** (17/11/2026) con sus DNI. Se arma el **recurso de reconsideración final (9 folios)**: escrito, Anexo 4 firmado, DNI de los titulares, y Oficio 7622 con el Formato 216. **Presentado el 19/11/2026 a las 21:27** como Carta N.° 20112026-1, por la mesa de partes digital: **solicitud S-2026-48820**. Fue dentro del plazo, aun contando desde el 06/11. Perú Compras tiene hasta 30 días hábiles para resolver (~05/01/2027). Por contener datos personales, el recurso no se sube al repositorio. La vía recomendada es una **reconsideración con prueba nueva**: una Carta de Acreditación (Anexo 4) firmada por **ambos titulares**, o un poder de los dos. También se puede presentar una nueva solicitud más adelante.
+**20/11/2026:** se recibe la Carta de Acreditación (Anexo 4) **firmada por ambos titulares** (17/11/2026) con sus DNI. Se arma el **recurso de reconsideración final (9 folios)**: escrito, Anexo 4 firmado, DNI de los titulares, y Oficio 7622 con el Formato 216. **Presentado el 19/11/2026 a las 21:27** como Carta N.° 20112026-1, por la mesa de partes digital: **solicitud S-2026-48820**. Aprobada el 20/11/2026 (00:06) como **Expediente N.° 2026-0010368**. Fue dentro del plazo, aun contando desde el 06/11. Perú Compras tiene hasta 30 días hábiles para resolver (~05/01/2027). Por contener datos personales, el recurso no se sube al repositorio. La vía recomendada es una **reconsideración con prueba nueva**: una Carta de Acreditación (Anexo 4) firmada por **ambos titulares**, o un poder de los dos. También se puede presentar una nueva solicitud más adelante.
 
 ---
 
