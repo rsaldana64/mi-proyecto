@@ -87,6 +87,7 @@ El acuerdo **no agrega obligaciones nuevas**: remite al numeral 8.6 (cláusula 2
 | SRB | Certificado INDECOPI / autorización del titular | | | |
 | Bartek | Vigencia de poder del representante legal | | | |
 | Bartek | RUC activo y habido | | | |
+| Bartek (como proveedor) | Inhabilitación temporal de 6 meses – Res. N.° 4234-2026-TCP-S5 (Tribunal de Contrataciones Públicas, Ley 32069, literal j: resolución de contrato) | 4234-2026-TCP-S5 | **26/11/2026** (fin) | Verificar el 27/11 en el registro de sancionados del OECE que figure como no vigente |
 
 ## 6. RUTINA RECOMENDADA
 
