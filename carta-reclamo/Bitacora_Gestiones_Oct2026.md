@@ -9,7 +9,7 @@ Actualizada al 23 de noviembre de 2026
 
 | Empresa | Caso | Entidad | Registro | Estado | Próximo vencimiento |
 |---|---|---|---|---|---|
-| Servicios Bartek | Fichas MOBIS no visibles | Perú Compras – DCEME | Reclamo **pp4c2lqjm** · Queja **Exp. 2026-0009479** | Queja presentada el 26/10 | **~23/10/2026** (5 días hábiles) |
+| Servicios Bartek | Fichas MOBIS no visibles | Perú Compras – DCEME | Reclamo **pp4c2lqjm** · Queja **Exp. 2026-0009479** | **ACUERDO FORMALIZADO el 20/11/2026** | **~23/10/2026** (5 días hábiles) |
 | Servicios Bartek | 3 fichas SQP-MIKROVAL observadas | Perú Compras – DCEME | Fichas 2007274, 2298513, 2298514 | Bloqueadas por el Acuerdo de Adhesión | Sujeto a la formalización |
 | Servicios Bartek | HACCP vencido Palma Real | Perú Compras – DCEME | Exp. 2026-0002646 · Oficio 7620-2026 | **RESUELTO: fichas retiradas (09/11)** | — |
 | ABS Bienes & Servicios | Acreditación marca CAMPECHANO | Perú Compras – DCEME | Exp. 2026-0005612 · Formato 216-2026-ARM | NO ACREDITADO → **reconsideración presentada (Exp. 2026-0010368, 19/11)** | Resolución ~05/01/2027 |
@@ -176,6 +176,15 @@ Firma: Richard Saldaña Ávalos (Licitaciones) · Correo: licitaciones@forestale
 **27/10/2026:** el formulario de la mesa de partes virtual de AGRO RURAL no valida el correo. Alternativas: usar un Gmail, llamar al (511) 205-8030 o presentarla en físico en Jr. Cahuide 805, Jesús María.
 
 **Pendiente:** enviar la reiteración y anotar su registro. Si no hay respuesta en 10 días hábiles (~10/11/2026): apelar ante el Tribunal de Transparencia y presentar una queja al superior.
+
+## 1-B. BARTEK – ACUERDO DE ADHESIÓN FORMALIZADO
+
+**20/11/2026 (19:16): PERÚ COMPRAS formalizó el Acuerdo de Adhesión de SERVICIOS BARTEK E.I.R.L.** Lo firmó digitalmente el Director de la DCEME, Neal Martín Maura Gonzales, 13 minutos después del de Cassarino. El Anexo comprende: MOBIS (silla fija, silla giratoria, butaca para auditorio, butaca para espera y silla plegable), SQP-MIKROVAL (desinfectantes), SRB (neumáticos para vehículos pesados) y DELISOYA (aceite vegetal).
+
+**Pendiente:**
+- Verificar en la plataforma que las **22 fichas MOBIS** estén habilitadas para los proveedores (próximo periodo de ofertas: 01–09/12/2026).
+- **Subsanar las 3 fichas SQP-MIKROVAL** (2007274, 2298513, 2298514) **dentro del periodo habilitado: últimos 10 días de noviembre (hasta el 30/11)**.
+- Queja (Exp. 2026-0009479) y OCI (Exp. 2026-0009847): el objetivo principal se cumplió. Queda pendiente el pedido de un periodo extraordinario.
 
 ## 4-B. CASSARINO GROUP S.A.C.S. – Acuerdo de Adhesión
 
