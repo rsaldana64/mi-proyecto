@@ -81,7 +81,7 @@ El acuerdo **no agrega obligaciones nuevas**: remite al numeral 8.6 (cláusula 2
 | DELISOYA | Registro sanitario (DIGESA), del 15/08/2022 | C1001422N/NACMIV | **15/08/2027** | Productor (Comercial Invictus) |
 | (Productor) | HACCP adicional – R.D. N.° 2017-2026/DCEA/DIGESA/SA (Exp. 19068-2026-CH), del 01/04/2026, para la línea de **mezcla** de aceites (soya y girasol). **No es el HACCP de las fichas DELISOYA**, que son de aceite de soya | 19068-2026-CH | 01/04/2028 | Productor |
 | DELISOYA | Certificado INDECOPI / autorización del titular | | | |
-| SQP-MIKROVAL | Autorización sanitaria de la ficha | | | |
+| SQP-MIKROVAL | Autorización sanitaria (DIGESA) declarada en la ficha 2298514 | 7142-2024/DCEA/DIGESA/SA | **05/11/2027** | Fabricante |
 | SQP-MIKROVAL | Certificado INDECOPI / autorización del titular | | | |
 | MOBIS | Certificado INDECOPI / autorización del titular | | | |
 | SRB | Certificado INDECOPI / autorización del titular | | | |
