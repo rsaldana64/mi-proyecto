@@ -1,7 +1,7 @@
 **BITÁCORA DE GESTIONES**
 **Cartas y reclamos ante entidades públicas – octubre de 2026**
 
-Actualizada al 11 de noviembre de 2026
+Actualizada al 23 de noviembre de 2026
 
 ---
 
@@ -176,6 +176,16 @@ Firma: Richard Saldaña Ávalos (Licitaciones) · Correo: licitaciones@forestale
 **27/10/2026:** el formulario de la mesa de partes virtual de AGRO RURAL no valida el correo. Alternativas: usar un Gmail, llamar al (511) 205-8030 o presentarla en físico en Jr. Cahuide 805, Jesús María.
 
 **Pendiente:** enviar la reiteración y anotar su registro. Si no hay respuesta en 10 días hábiles (~10/11/2026): apelar ante el Tribunal de Transparencia y presentar una queja al superior.
+
+## 4-B. CASSARINO GROUP S.A.C.S. – Acuerdo de Adhesión
+
+RUC 20613312448 · Marca **UNIVERSAL COLORS** (Pinturas, Acabados en General y Complementos: pintura arquitectónica, pintura vial y base).
+
+| Fecha | Hecho |
+|---|---|
+| 20/11/2026 | **Acuerdo de Adhesión FORMALIZADO**: firmado digitalmente por el Director de la DCEME, Neal Martín Maura Gonzales (19:03). |
+
+**Para tener en cuenta:** Cassarino ya puede registrar y gestionar sus fichas, en los últimos 10 días de cada mes. Aplicarle la misma matriz de cumplimiento que a Bartek (numeral 8.6 de la Directiva 004-2023 y revisión diaria de la bandeja de la Plataforma de los CEAM). Para el caso MOBIS, es una prueba más de que PERÚ COMPRAS sigue formalizando acuerdos mientras el de Bartek (firmado el 31/07) sigue pendiente.
 
 ## 5. OTROS
 
