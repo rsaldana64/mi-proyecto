@@ -1,6 +1,6 @@
-Trujillo, 26 de octubre de 2026
+Trujillo, 24 de noviembre de 2026
 
-**CARTA N.° 26102026-FORESTALES DAXSA S.A.C.**
+**CARTA N.° 24112026-FORESTALES DAXSA S.A.C.**
 
 Señor
 **CPC EMERSON INCA HUAMÁN**
@@ -20,7 +20,7 @@ b) Carta N.° 420-2023-MIDAGRI-DVDAFIR-AGRORURAL-DE/UA, del 08 de septiembre de 
 
 De nuestra consideración:
 
-**FORESTALES DAXSA S.A.C.** se dirige a usted para **reiterar** la solicitud de la referencia a), que **no ha sido atendida** pese a haber transcurrido casi un mes desde su presentación.
+**FORESTALES DAXSA S.A.C.** se dirige a usted para **reiterar** la solicitud de la referencia a), que **no ha sido atendida** pese a haber transcurrido **casi dos meses** desde su presentación (28/09/2026).
 
 **1. Lo que solicitamos**
 
