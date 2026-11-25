@@ -54,10 +54,6 @@ Atentamente,
 - **Anexo 2:** Capturas de la plataforma: fichas SQP-MIKROVAL observadas y sin opción de subsanar.
 - **Anexo 3:** Acuerdo de Adhesión formalizado el 20/11/2026.
 
-```{=openxml}
-<w:p><w:r><w:br w:type="page"/></w:r></w:p>
-```
-
 **ANEXO 1 – Listado oficial de Representantes de Marca con Acuerdo de Adhesión (consulta del 25/11/2026)**
 
 Fuente: PERÚ COMPRAS, central.perucompras.gob.pe/acuerdos-marco/representante-marca-acuerdo-adhesion.php – archivo exportado *representantes_marca_2026-11-25* (1,435 registros, 167 representantes de marca).
