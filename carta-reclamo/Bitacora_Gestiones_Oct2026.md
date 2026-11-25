@@ -185,6 +185,7 @@ Firma: Richard Saldaña Ávalos (Licitaciones) · Correo: licitaciones@forestale
 - Verificar en la plataforma que las **22 fichas MOBIS** estén habilitadas para los proveedores (próximo periodo de ofertas: 01–09/12/2026).
 - **Subsanar las 3 fichas SQP-MIKROVAL** (2007274, 2298513, 2298514) **dentro del periodo habilitado: últimos 10 días de noviembre (hasta el 30/11)**.
 - **23/11/2026:** la plataforma aún no permite subsanar ni registrar fichas (tampoco en Cassarino). Se envía un correo a acreditacionrm@perucompras.gob.pe pidiendo: (1) habilitar las 22 fichas MOBIS para el periodo de ofertas del 01 al 09/12; (2) habilitar la subsanación de SQP-MIKROVAL antes del 30/11. **01/12:** verificar con un proveedor que MOBIS sea visible; si no lo es, enviar un escrito por mesa de partes.
+- **25/11/2026 – Listado oficial de Acuerdos de Adhesión (1,435 registros, 167 representantes):** Bartek figura **solo con DELISOYA** (Aceite vegetal). **No figuran** MOBIS (5 categorías), SQP-MIKROVAL ni SRB, aunque están en el Anexo del acuerdo formalizado el 20/11. **Cassarino no figura.** Probablemente por eso no se habilitan las fichas. Se pide a la DCEME que corrija el listado y la plataforma.
 - Queja (Exp. 2026-0009479) y OCI (Exp. 2026-0009847): el objetivo principal se cumplió. Queda pendiente el pedido de un periodo extraordinario.
 
 ## 4-B. CASSARINO GROUP S.A.C.S. – Acuerdo de Adhesión
